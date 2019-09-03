@@ -1,0 +1,638 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "B81lF0KASyUJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-21328109", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-21328109", 
+            "htmlSnippet": "Feb 5, 2013 <b>...</b> A 3D <b>printing</b> technique that produces clusters of stem cells could speed up <br>\nprogress towards creating artificial organs, Edinburgh <b>scientists</b>&nbsp;...", 
+            "htmlTitle": "BBC News - Edinburgh <b>scientists</b> use <b>3D printing</b> to produce stem cells", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-21328109", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65694000/jpg/_65694466_image.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYbGRpH8C2rUbueFj6JPTlMTeDGR-W7mUsOVQ6ilYREEmeXSJnb3PXtQ", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21328109", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Scotland/Edinburgh East and Fife", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-05T01:05:56+00:00", 
+                        "dcterms.modified": "2013-02-05T01:05:56+00:00", 
+                        "headline": "3D printing used for stem cells", 
+                        "ifs_url": "/news/uk-scotland-edinburgh-east-fife-21328109", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65694000/jpg/_65694466_image.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "3D printing used for stem cells", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-21328109", 
+                        "originalpublicationdate": "2013/02/05 01:05:56", 
+                        "section": "Edinburgh, Fife & East Scotland", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65694000/jpg/_65694465_image.jpg", 
+                        "ukfs_url": "/news/uk-scotland-edinburgh-east-fife-21328109", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 5, 2013 ... A 3D printing technique that produces clusters of stem cells could speed up \nprogress towards creating artificial organs, Edinburgh scientists\u00a0...", 
+            "title": "BBC News - Edinburgh scientists use 3D printing to produce stem cells"
+        }, 
+        {
+            "cacheId": "l-vKJoMy4sUJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/technology-21293258", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/technology-21293258", 
+            "htmlSnippet": "Feb 1, 2013 <b>...</b> The <b>printers</b>, operated by robots, would use soil from the Moon, known as regolith<br>\n, to build the ... 29 JUNE 2012, <b>SCIENCE</b> &amp; ENVIRONMENT&nbsp;...", 
+            "htmlTitle": "BBC News - <b>3D printed</b> moon building designs revealed", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/technology-21293258", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65643000/jpg/_65643156_moon3.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTYyTMBJTNpjkTY3Kb1fqvQm8eIV-9kWMufV34bB_LKmtvmrT3rcEtCg", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21293258", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Technology", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-01T12:21:28+00:00", 
+                        "dcterms.modified": "2013-02-01T12:21:28+00:00", 
+                        "headline": "Plans to 3D print Moon building", 
+                        "ifs_url": "/news/technology-21293258", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65643000/jpg/_65643156_moon3.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Plans to 3D print Moon building", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/technology-21293258", 
+                        "originalpublicationdate": "2013/02/01 12:21:28", 
+                        "section": "Technology", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65643000/jpg/_65643155_moon3.jpg", 
+                        "ukfs_url": "/news/technology-21293258", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 1, 2013 ... The printers, operated by robots, would use soil from the Moon, known as regolith\n, to build the ... 29 JUNE 2012, SCIENCE & ENVIRONMENT\u00a0...", 
+            "title": "BBC News - 3D printed moon building designs revealed"
+        }, 
+        {
+            "cacheId": "pMJ4V76yVLgJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/programmes/p015g8rw", 
+            "htmlFormattedUrl": "www.bbc.co.uk/programmes/p015g8rw", 
+            "htmlSnippet": "Feb 21, 2013 <b>...</b> <b>Science</b> presenter Rani Price meets Bryan Oknyansky, a designer who is <br>\npioneering the use of 3D <b>printing</b> in the fashion industry.", 
+            "htmlTitle": "BBC Two - Beneath the Lab Coat, Episode 2, Using <b>3D printing</b> in <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/programmes/p015g8rw", 
+            "pagemap": {
+                "Episode": [
+                    {
+                        "depiction": "Image for Episode 2", 
+                        "position": "2", 
+                        "short_synopsis": "Investigates the science behind 3D printing, elite sport and make-up.", 
+                        "subtitle": "Beneath the Lab Coat", 
+                        "title": "Episode 2"
+                    }
+                ], 
+                "Series": [
+                    {
+                        "title": "Beneath the Lab Coat"
+                    }
+                ], 
+                "Service": [
+                    {
+                        "title": "BBC Two"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "http://ichef.bbci.co.uk/images/ic/368x207/p015g8r8.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "165", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Bi1LUSeePEOi6QFK314BELNxis6PV4rAZOKPv76QxEALJycqssbwh0Y", 
+                        "width": "294"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "medium": "video", 
+                        "msapplication-square150x150logo": "http://ichef.bbci.co.uk/images/ic/272x272/p015g8r8.jpg", 
+                        "og:description": "A shoe designer illustrates scientific approaches to fashion using CAD/CAM.", 
+                        "og:image": "http://ichef.bbci.co.uk/images/ic/368x207/p015g8r8.jpg", 
+                        "og:site_name": "BBC", 
+                        "og:title": "Using 3D printing in the fashion industry, Episode 2, Beneath the Lab Coat - BBC Two", 
+                        "og:url": "http://www.bbc.co.uk/programmes/p015g8rw", 
+                        "og:video": "http://www.bbc.co.uk/emp/iplayer/player.swf?playlist=http://www.bbc.co.uk/iplayer/playlist/p015g8rw&showFooter=true&mediatorHref=http%3A%2F%2Fopen.live.bbc.co.uk%2Fmediaselector%2F5%2Fselect%2Fversion%2F2.0%2Fmediaset%2Fpc%2Ftransferformat%2Fplain%2Fvpid%2F%7Bid%7D", 
+                        "og:video:height": "360", 
+                        "og:video:secure_url": "https://www.bbc.co.uk/emp/iplayer/player.swf?playlist=http://www.bbc.co.uk/iplayer/playlist/p015g8rw&showFooter=true&mediatorHref=http%3A%2F%2Fopen.live.bbc.co.uk%2Fmediaselector%2F5%2Fselect%2Fversion%2F2.0%2Fmediaset%2Fpc%2Ftransferformat%2Fplain%2Fvpid%2F%7Bid%7D", 
+                        "og:video:type": "application/x-shockwave-flash", 
+                        "og:video:width": "398", 
+                        "twitter:card": "player", 
+                        "twitter:description": "A shoe designer illustrates scientific approaches to fashion using CAD/CAM.", 
+                        "twitter:image": "http://ichef.bbci.co.uk/images/ic/640x360/p015g8r8.jpg", 
+                        "twitter:image:height": "360", 
+                        "twitter:image:width": "640", 
+                        "twitter:player": "https://ssl.bbc.co.uk/programmes/p015g8rw.player", 
+                        "twitter:player:height": "324", 
+                        "twitter:player:width": "576", 
+                        "twitter:title": "Beneath the Lab Coat, Episode 2, Using 3D printing in the fashion industry", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 21, 2013 ... Science presenter Rani Price meets Bryan Oknyansky, a designer who is \npioneering the use of 3D printing in the fashion industry.", 
+            "title": "BBC Two - Beneath the Lab Coat, Episode 2, Using 3D printing in ..."
+        }, 
+        {
+            "cacheId": "4pkZaoV2EZEJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/education/clips/z9t87ty", 
+            "htmlFormattedUrl": "www.bbc.co.uk/education/clips/z9t87ty", 
+            "htmlSnippet": "<b>Science</b> presenter Rani Price meets Bryan Oknyansky, a designer who is <br>\npioneering the use of 3D <b>printing</b> in the fashion industry. He describes how he <br>\nstarts&nbsp;...", 
+            "htmlTitle": "BBC - KS3 Physics - Using <b>3D printing</b> in the fashion industry", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/education/clips/z9t87ty", 
+            "pagemap": {
+                "alignmentobject": [
+                    {
+                        "alignmenttype": "educationLevel", 
+                        "image": "http://ichef.bbci.co.uk/images/ic/80x80/p01695h0.jpg", 
+                        "name": "KS3", 
+                        "url": "http://www.bbc.co.uk/education/levels/z4kw2hv"
+                    }, 
+                    {
+                        "alignmenttype": "educationalSubject", 
+                        "image": "http://ichef.bbci.co.uk/images/ic/80x80/p017dpcb.jpg", 
+                        "name": "KS3 Physics", 
+                        "url": "http://www.bbc.co.uk/education/subjects/zh2xsbk"
+                    }, 
+                    {
+                        "alignmenttype": "educationalSubject", 
+                        "name": "Inventions", 
+                        "url": "http://www.bbc.co.uk/education/topics/z9gcwmn"
+                    }
+                ], 
+                "breadcrumb": [
+                    {
+                        "title": "Home", 
+                        "url": "Home"
+                    }, 
+                    {
+                        "title": "KS3", 
+                        "url": "KS3"
+                    }, 
+                    {
+                        "title": "Science", 
+                        "url": "Science"
+                    }, 
+                    {
+                        "title": "Physics", 
+                        "url": "Physics"
+                    }, 
+                    {
+                        "title": "Inventions", 
+                        "url": "Inventions"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ], 
+                "thing": [
+                    {
+                        "name": "Inventions"
+                    }
+                ], 
+                "videoobject": [
+                    {
+                        "about": "Inventions", 
+                        "description": "Science presenter Rani Price meets Bryan Oknyansky, a designer who is pioneering the use of 3D printing in the fashion industry. He describes how he starts from a 3D scan of a model\u2019s foot,...", 
+                        "duration": "05:24", 
+                        "thumbnail": "http://ichef.bbci.co.uk/images/ic/640x360/p015g8r8.jpg", 
+                        "typicalagerange": "11-14"
+                    }
+                ]
+            }, 
+            "snippet": "Science presenter Rani Price meets Bryan Oknyansky, a designer who is \npioneering the use of 3D printing in the fashion industry. He describes how he \nstarts\u00a0...", 
+            "title": "BBC - KS3 Physics - Using 3D printing in the fashion industry"
+        }, 
+        {
+            "cacheId": "8bf2w1CjeswJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../03/.../us-3d-printing-idUSBRE9250OR20130306", 
+            "htmlFormattedUrl": "www.reuters.com/.../03/.../us-<b>3d</b>-<b>printing</b>-idUSBRE9250OR20130306", 
+            "htmlSnippet": "Mar 6, 2013 <b>...</b> 3D <b>printers</b> have made working guns and are being tested to see if they can <br>\nmake houses on the moon using lunar soil. <b>Scientists</b> hope they&nbsp;...", 
+            "htmlTitle": "Rethinking objects and form are key to <b>3D printing</b> revolution | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/06/us-3d-printing-idUSBRE9250OR20130306", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130306&t=2&i=710270847&w=130&fh=&fw=&ll=&pl=&r=CBRE92513V800"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "72", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYdjQD5RuTZxHbSwEGAF0G8kaXXdTAuhgyz30eLwNQNE2yxCOwFI2T", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "technologyNews;smallBusinessNews;FixedIncome;corporateResponsibility;innovationAMD;ford;SafetyandInnovation;Inspiration;creditMarkets;ToyotaPrius;everything;treasuryMarkets;MercedesBenz;Shell;Amtrak;Amtrak2;yahoo3;ipad;AACulture;echoActivityStream;ANZ;Suntrust_SmallBiz;AutodeskDesign;ShellEnergy;AllianzInvestments;FedExSMB;Hyundai;MSDynamics;Goldman;everythingButHugin;msnMoneyFeed;OutloudFeed;chsenergy;chsfood;HPEnterprise;Allianz;ciscoenterprise;JPMorgan;sapawareness;CFA;sapawarenessbiz;sapawarenesstech;sapawarenesslife;jpGambaroPeople;nyse;trending-hp;sprintxpert2;samsung;newsproHome;verizonmm;audib2b;Economy2012;money-markets-rss;cfaglobal;merrilledge;ernstyoung;Xerox;boxing;shipping;citianniversary;dassaultuk;HSBCGlobal;VanessaTest;MLGZero;fedex_neg;PorscheCayenne;MBenz;ubs;upstechnology;globalinnovations;BNY;citgroup", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "technologyNews", 
+                        "dcsext.contentheadline": "Rethinking+objects+and+form+are+key+to+3D+printing+revolution", 
+                        "dcsext.contentid": "USBRE9250OR20130306", 
+                        "dcsext.contentid_technologynews": "USBRE9250OR20130306", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/technology/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "3", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130306&t=2&i=710270847&w=130&fh=&fw=&ll=&pl=&r=CBRE92513V800", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Rethinking objects and form are key to 3D printing revolution", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/06/us-3d-printing-idUSBRE9250OR20130306", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Rethinking objects and form are key to 3D printing revolution\", \"link\": \"http://www.reuters.com/article/2013/03/06/us-3d-printing-idUSBRE9250OR20130306\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130306&t=2&i=710270847&w=130&fh=&fw=&ll=&pl=&r=CBRE92513V800\", \"post_id\": \"USBRE9250OR20130306\", \"pub_date\": \"2013-03-06T20:23:57+0000\", \"section\":\"technologyNews\", \"author\": \"Ben Deighton\"}", 
+                        "revision_date": "Wed Mar 06 20:23:57 UTC 2013", 
+                        "wt.cg_n": "Finance - Technology", 
+                        "wt.cg_s": "technologyNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 6, 2013 ... 3D printers have made working guns and are being tested to see if they can \nmake houses on the moon using lunar soil. Scientists hope they\u00a0...", 
+            "title": "Rethinking objects and form are key to 3D printing revolution | Reuters"
+        }, 
+        {
+            "cacheId": "jCczaufeDf4J", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-us-canada-21639015", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-us-canada-21639015", 
+            "htmlSnippet": "Mar 2, 2013 <b>...</b> Gun parts made on 3D <b>printer</b> ... The design uses 3D <b>printers</b> and is being made <br>\navailable online for free. Anti-gun ... <b>Science</b> &amp; Technology&nbsp;...", 
+            "htmlTitle": "BBC News - Gun parts made on <b>3D printer</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-us-canada-21639015", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66161000/jpg/_66161551_gun2.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSev34UiA4damUtKV19xfGvifXGU2XBY1skJpKr3Q6ScOh98vpTEOel0g", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21639015", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/US and Canada", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-02T06:02:51+00:00", 
+                        "dcterms.modified": "2013-03-02T06:02:51+00:00", 
+                        "headline": "Gun parts made on 3D printer", 
+                        "ifs_url": "/news/world-us-canada-21639015", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66161000/jpg/_66161551_gun2.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Gun parts made on 3D printer", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-us-canada-21639015", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/world-us-canada-21639015A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/02 06:02:51", 
+                        "section": "US & Canada", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66161000/jpg/_66161550_gun2.jpg", 
+                        "ukfs_url": "/news/world-us-canada-21639015", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 2, 2013 ... Gun parts made on 3D printer ... The design uses 3D printers and is being made \navailable online for free. Anti-gun ... Science & Technology\u00a0...", 
+            "title": "BBC News - Gun parts made on 3D printer"
+        }, 
+        {
+            "displayLink": "www.bbc.com", 
+            "formattedUrl": "www.bbc.com/future/story/20130208-a-new-dimension-to-faking-it", 
+            "htmlFormattedUrl": "www.bbc.com/future/story/20130208-a-new-dimension-to-faking-it", 
+            "htmlSnippet": "Feb 10, 2013 <b>...</b> Watches and other fake goods are increasingly becoming small beer to <br>\nambitious counterfeiters. The fear is some could soon <b>print</b> parts and&nbsp;...", 
+            "htmlTitle": "BBC - Future - <b>3D printing</b>: A new dimension to faking it", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.com/future/story/20130208-a-new-dimension-to-faking-it", 
+            "pagemap": {
+                "article": [
+                    {
+                        "articlebody": "Rolex watches, Burberry hats and other fake luxury goods are increasingly becoming small beer to ambitious counterfeiters. They are now thinking on a far grander scale \u2013 both in terms of...", 
+                        "author": "By Paul Rubens", 
+                        "datepublished": "10 February 2013", 
+                        "description": "Thanks to 3D printers, budding counterfeiters could soon create parts or goods themselves. The problem for authorities is that copying physical objects is not always illegal.", 
+                        "headline": "3D printing: A new dimension to faking it"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "http://ichef.bbci.co.uk/wwfeatures/624_351/images/live/p0/14/vj/p014vjcv.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdjC5HsPCpM6TgPnZEsbY9RlWelesopBxLLd9I5NO44pHCzMpxYJAgNo9n", 
+                        "width": "300"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "article:published_time": "2013-02-10T00:00:00+00:00", 
+                        "contentflavor": "STORY-SLIDESHOW", 
+                        "headline": "3D printing: A new dimension to faking it", 
+                        "og:description": "Watches and other fake goods are increasingly becoming small beer to ambitious counterfeiters. The fear is some could soon print parts and goods themselves.", 
+                        "og:image": "http://ichef.bbci.co.uk/wwfeatures/624_351/images/live/p0/14/vj/p014vjcv.jpg", 
+                        "og:image:height": "351", 
+                        "og:image:width": "624", 
+                        "og:site_name": "BBC Future", 
+                        "og:title": "3D printing: A new dimension to faking it", 
+                        "og:url": "http://www.bbc.com/future/story/20130208-a-new-dimension-to-faking-it", 
+                        "originalpublicationdate": "2013/02/11 09:50:48", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 10, 2013 ... Watches and other fake goods are increasingly becoming small beer to \nambitious counterfeiters. The fear is some could soon print parts and\u00a0...", 
+            "title": "BBC - Future - 3D printing: A new dimension to faking it"
+        }, 
+        {
+            "cacheId": "jA5ME_ByVXAJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-3dprinters-stocks-idUSBRE91E01S20130215", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-<b>3dprinters</b>-stocks-idUSBRE91E01S20130215", 
+            "htmlSnippet": "Feb 14, 2013 <b>...</b> SAN FRANCISCO (Reuters) - Shares of companies that sell 3D <b>printers</b> fell on <br>\nThursday after Citron Research said they were vastly overvalued&nbsp;...", 
+            "htmlTitle": "Influential short-seller warns of bubble in <b>3D printers</b> | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/15/us-3dprinters-stocks-idUSBRE91E01S20130215", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "technologyNews;globalMarketsNews;ford;Inspiration;everything;treasuryMarkets;Schwab;Continental;MercedesBenz;Shell;Verizon;Amtrak;Amtrak2;yahoo3;echoActivityStream;HSBC_US;FedExSMB;Hyundai;everythingButHugin;msnMoneyFeed;OutloudFeed;JPMorgan;CFA;trending-hp;samsung;newsproHome;audib2b;cfaglobal;merrilledge;aa48hours;ernstyoung;boxing;shipping;citianniversary;dassaultuk;HSBCGlobal;PrudentialInvestments;VanessaTest;lyxor;greenpeace;MLGZero;MBenz;upstechnology;MLedge;globalinnovations;BNY;citgroup", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "technologyNews", 
+                        "dcsext.contentheadline": "Influential+short-seller+warns+of+bubble+in+3D+printers", 
+                        "dcsext.contentid": "USBRE91E01S20130215", 
+                        "dcsext.contentid_technologynews": "USBRE91E01S20130215", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/technology/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Influential short-seller warns of bubble in 3D printers", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/15/us-3dprinters-stocks-idUSBRE91E01S20130215", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Influential short-seller warns of bubble in 3D printers\", \"link\": \"http://www.reuters.com/article/2013/02/15/us-3dprinters-stocks-idUSBRE91E01S20130215\", \"image_url\": \"\", \"post_id\": \"USBRE91E01S20130215\", \"pub_date\": \"2013-02-15T01:21:21+0000\", \"section\":\"technologyNews\", \"author\": \"Noel Randewich\"}", 
+                        "revision_date": "Fri Feb 15 01:21:21 UTC 2013", 
+                        "wt.cg_n": "Finance - Technology", 
+                        "wt.cg_s": "technologyNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 14, 2013 ... SAN FRANCISCO (Reuters) - Shares of companies that sell 3D printers fell on \nThursday after Citron Research said they were vastly overvalued\u00a0...", 
+            "title": "Influential short-seller warns of bubble in 3D printers | Reuters"
+        }, 
+        {
+            "cacheId": "Mx6SvfrnHhwJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/technology-21574144", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/technology-21574144", 
+            "htmlSnippet": "Mar 12, 2013 <b>...</b> A major jewellery manufacturer has started 3D <b>printing</b> - or laser sintering - its <br>\nproducts. Stella Layton, chief executive ... <b>Science</b> &amp; Technology&nbsp;...", 
+            "htmlTitle": "BBC News - <b>3D printing</b> is a &#39;shape changer&#39; for jewellery industry", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/technology-21574144", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66057000/jpg/_66057361_66057260.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRILItCZl_UWdUuR8XGLl4ZZ1DStZcTb8nqWHrV9jPAKPVZbsglcQes", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21574144", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Technology", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-12T17:04:12+00:00", 
+                        "dcterms.modified": "2013-03-12T17:04:12+00:00", 
+                        "headline": "3D printing is a 'shape changer'", 
+                        "ifs_url": "/news/technology-21574144", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66057000/jpg/_66057361_66057260.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "3D printing is a 'shape changer'", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/technology-21574144", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/technology-21574144A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/12 17:04:12", 
+                        "section": "Technology", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66057000/jpg/_66057360_66057260.jpg", 
+                        "ukfs_url": "/news/technology-21574144", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 12, 2013 ... A major jewellery manufacturer has started 3D printing - or laser sintering - its \nproducts. Stella Layton, chief executive ... Science & Technology\u00a0...", 
+            "title": "BBC News - 3D printing is a 'shape changer' for jewellery industry"
+        }, 
+        {
+            "cacheId": "0S0mDR4SIKcJ", 
+            "displayLink": "www.bbc.com", 
+            "formattedUrl": "www.bbc.com/news/technology-21574144", 
+            "htmlFormattedUrl": "www.bbc.com/news/technology-21574144", 
+            "htmlSnippet": "Mar 12, 2013 <b>...</b> A major jewellery manufacturer has started 3D <b>printing</b> - or laser sintering - its <br>\nproducts. Stella Layton, chief executive ... <b>Science</b> &amp; Technology&nbsp;...", 
+            "htmlTitle": "BBC News - <b>3D printing</b> is a &#39;shape changer&#39; for jewellery industry", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.com/news/technology-21574144", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66057000/jpg/_66057361_66057260.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRILItCZl_UWdUuR8XGLl4ZZ1DStZcTb8nqWHrV9jPAKPVZbsglcQes", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "US", 
+                        "cps_id": "21574144", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Technology", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-12T17:04:12+00:00", 
+                        "dcterms.modified": "2013-03-12T17:04:12+00:00", 
+                        "headline": "3D printing is a 'shape changer'", 
+                        "ifs_url": "/news/technology-21574144", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66057000/jpg/_66057361_66057260.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "3D printing is a 'shape changer'", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/technology-21574144", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/technology-21574144A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/12 17:04:12", 
+                        "section": "Technology", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66057000/jpg/_66057360_66057260.jpg", 
+                        "ukfs_url": "/news/technology-21574144", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 12, 2013 ... A major jewellery manufacturer has started 3D printing - or laser sintering - its \nproducts. Stella Layton, chief executive ... Science & Technology\u00a0...", 
+            "title": "BBC News - 3D printing is a 'shape changer' for jewellery industry"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:3D printing for science", 
+                "sort": "date:r:20130201:20130312", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - intitle:3D printing for science", 
+                "totalResults": "551"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:3D printing for science", 
+                "sort": "date:r:20130201:20130312", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:3D printing for science", 
+                "totalResults": "551"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "551", 
+        "searchTime": 0.269117, 
+        "totalResults": "551"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "SP7khl_yEtgJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-us-canada-21399808", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-us-canada-21399808", 
+            "htmlSnippet": "Feb 10, 2013 <b>...</b> However, as the snow storm moved gradually eastwards, coastal blizzard and <br>\n<b>flood</b> warnings remained in effect. The mayor of the Connecticut&nbsp;...", 
+            "htmlTitle": "BBC News - Snowstorm Nemo: North-<b>eastern</b> US and Canada dig out", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-us-canada-21399808", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65803000/jpg/_65803882_65803726.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX95EoqECnEz27OCw0vcFk8ESg4Pr_tIGMn0MJqZMfgrKqGTiEqBNf2w", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21399808", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/US and Canada", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-10T05:18:02+00:00", 
+                        "dcterms.modified": "2013-02-10T18:29:04+00:00", 
+                        "headline": "Snow-hit region begins clear-up", 
+                        "ifs_url": "/news/world-us-canada-21399808", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65803000/jpg/_65803882_65803726.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Snow-hit region begins clear-up", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-us-canada-21399808", 
+                        "originalpublicationdate": "2013/02/10 18:29:04", 
+                        "section": "US & Canada", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65803000/jpg/_65803881_65803726.jpg", 
+                        "ukfs_url": "/news/world-us-canada-21399808", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 10, 2013 ... However, as the snow storm moved gradually eastwards, coastal blizzard and \nflood warnings remained in effect. The mayor of the Connecticut\u00a0...", 
+            "title": "BBC News - Snowstorm Nemo: North-eastern US and Canada dig out"
+        }, 
+        {
+            "cacheId": "lIdC_1-xFFAJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/uk-scotland-tayside-central-21575172", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/uk-scotland-tayside-central-21575172", 
+            "htmlSnippet": "Feb 25, 2013 <b>...</b> Why villagers think Boscastle <b>floods</b> were a good thing ... 8: <b>Australian</b> PM warns <br>\nagainst Yes vote &middot; 9: The village &#39;washed on to the map&#39; &middot; 10: Jewish Chronicle <br>\napology for Gaza ad ... 3: Boscastle <b>floods</b> ten years later.", 
+            "htmlTitle": "BBC News - Bees in <b>eastern</b> Scotland have lower survival rate <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/uk-scotland-tayside-central-21575172", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66059000/jpg/_66059493_bees.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAqzYfkJM8W-XbhVHeFPUCag3acwJOk5ZFtWNSmym3IKk37XJ9_1_Q-w", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21575172", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Scotland/Tayside and Central", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-25T12:14:09+00:00", 
+                        "dcterms.modified": "2013-02-25T12:14:09+00:00", 
+                        "headline": "Scots bees' survival rates warning", 
+                        "ifs_url": "/news/uk-scotland-tayside-central-21575172", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66059000/jpg/_66059493_bees.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Scots bees' survival rates warning", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/uk-scotland-tayside-central-21575172", 
+                        "originalpublicationdate": "2013/02/25 12:14:09", 
+                        "section": "Tayside and Central Scotland", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66059000/jpg/_66059492_bees.jpg", 
+                        "ukfs_url": "/news/uk-scotland-tayside-central-21575172", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 25, 2013 ... Why villagers think Boscastle floods were a good thing ... 8: Australian PM warns \nagainst Yes vote \u00b7 9: The village 'washed on to the map' \u00b7 10: Jewish Chronicle \napology for Gaza ad ... 3: Boscastle floods ten years later.", 
+            "title": "BBC News - Bees in eastern Scotland have lower survival rate ..."
+        }, 
+        {
+            "cacheId": "YtliuZDtbBIJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-21451432", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-21451432", 
+            "htmlSnippet": "Feb 13, 2013 <b>...</b> Why villagers think Boscastle <b>floods</b> were a good thing ... 3: Sir Cliff inquiry <br>\ndevelopments - the front pages &middot; 4: <b>Australian</b> PM warns against Yes vote &middot; 5: The <br>\nvillage &#39;washed on to the map&#39; ... 4: Boscastle <b>floods</b> ten years later.", 
+            "htmlTitle": "BBC News - Five killed as plane crash-lands in <b>eastern</b> Ukraine", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-21451432", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65878000/jpg/_65878670_65878077.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt4_EGe10hiTtl7_NGusV3kHOdfD58JzlR4CuqbOGSuOJLGHs40pY-yg", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21451432", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-13T17:58:53+00:00", 
+                        "dcterms.modified": "2013-02-13T22:49:37+00:00", 
+                        "headline": "Five killed in Ukraine plane crash", 
+                        "ifs_url": "/news/world-21451432", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65878000/jpg/_65878670_65878077.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Five killed in Ukraine plane crash", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-21451432", 
+                        "originalpublicationdate": "2013/02/13 22:49:37", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65878000/jpg/_65878649_65878077.jpg", 
+                        "ukfs_url": "/news/world-21451432", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 13, 2013 ... Why villagers think Boscastle floods were a good thing ... 3: Sir Cliff inquiry \ndevelopments - the front pages \u00b7 4: Australian PM warns against Yes vote \u00b7 5: The \nvillage 'washed on to the map' ... 4: Boscastle floods ten years later.", 
+            "title": "BBC News - Five killed as plane crash-lands in eastern Ukraine"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 3, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Eastern Australia Floods", 
+                "sort": "date:r:20130201:20130302", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Eastern Australia Floods", 
+                "totalResults": "3"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "3", 
+        "searchTime": 0.240721, 
+        "totalResults": "3"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

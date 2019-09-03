@@ -1,0 +1,1382 @@
+{
+  "queries": [
+    {
+      "title": "MB171",
+      "text": "Ron Weasley birthday",
+      "wikipage": "Ron Weasley",
+      "wikiedit": "Ron Weasley",
+      "epoch": 1362239025,
+      "querytweettime": 307878904759201794,
+      "model": [
+        {
+          "feature": "Ron",
+          "weight": 1.0
+        },
+        {
+          "feature": "Weasley",
+          "weight": 1.0
+        },
+        {
+          "feature": "birthday",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB172",
+      "text": "Merging of US Air and American",
+      "wikipage": "American Airlines-US Airways merger",
+      "wikiedit": "American Airlines Group",
+      "epoch": 1361135680,
+      "querytweettime": 303251140382973952,
+      "model": [
+        {
+          "feature": "Merging",
+          "weight": 1.0
+        },
+        {
+          "feature": "of",
+          "weight": 1.0
+        },
+        {
+          "feature": "US",
+          "weight": 1.0
+        },
+        {
+          "feature": "Air",
+          "weight": 1.0
+        },
+        {
+          "feature": "and",
+          "weight": 1.0
+        },
+        {
+          "feature": "American",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB173",
+      "text": "muscle pain from statins",
+      "wikipage": "Statin",
+      "wikiedit": "Statin",
+      "epoch": 1364077269,
+      "querytweettime": 315589058900418560,
+      "model": [
+        {
+          "feature": "muscle",
+          "weight": 1.0
+        },
+        {
+          "feature": "pain",
+          "weight": 1.0
+        },
+        {
+          "feature": "from",
+          "weight": 1.0
+        },
+        {
+          "feature": "statins",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB174",
+      "text": "Hubble oldest star",
+      "wikipage": "HD 140283",
+      "wikiedit": "HD 140283",
+      "epoch": 1363208526,
+      "querytweettime": 311945286652137473,
+      "model": [
+        {
+          "feature": "Hubble",
+          "weight": 1.0
+        },
+        {
+          "feature": "oldest",
+          "weight": 1.0
+        },
+        {
+          "feature": "star",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB175",
+      "text": "commentary on naming storm Nemo",
+      "wikipage": "Winter Storm Nemo",
+      "wikiedit": "February 2013 nor'easter",
+      "epoch": 1363457988,
+      "querytweettime": 312991606120804352,
+      "model": [
+        {
+          "feature": "commentary",
+          "weight": 1.0
+        },
+        {
+          "feature": "on",
+          "weight": 1.0
+        },
+        {
+          "feature": "naming",
+          "weight": 1.0
+        },
+        {
+          "feature": "storm",
+          "weight": 1.0
+        },
+        {
+          "feature": "Nemo",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB176",
+      "text": "book club members",
+      "wikipage": "Book discussion club",
+      "wikiedit": "Book discussion club",
+      "epoch": 1364608084,
+      "querytweettime": 317815458369777664,
+      "model": [
+        {
+          "feature": "book",
+          "weight": 1.0
+        },
+        {
+          "feature": "club",
+          "weight": 1.0
+        },
+        {
+          "feature": "members",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB177",
+      "text": "Boko Haram kidnapped French tourists",
+      "wikipage": "Boko Haram",
+      "wikiedit": "Boko Haram",
+      "epoch": 1363913174,
+      "querytweettime": 314900794593906688,
+      "model": [
+        {
+          "feature": "Boko",
+          "weight": 1.0
+        },
+        {
+          "feature": "Haram",
+          "weight": 1.0
+        },
+        {
+          "feature": "kidnapped",
+          "weight": 1.0
+        },
+        {
+          "feature": "French",
+          "weight": 1.0
+        },
+        {
+          "feature": "tourists",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB178",
+      "text": "Tiger Woods regains title",
+      "wikipage": "Tiger Woods",
+      "wikiedit": "Tiger Woods",
+      "epoch": 1364555138,
+      "querytweettime": 317593386746007553,
+      "model": [
+        {
+          "feature": "Tiger",
+          "weight": 1.0
+        },
+        {
+          "feature": "Woods",
+          "weight": 1.0
+        },
+        {
+          "feature": "regains",
+          "weight": 1.0
+        },
+        {
+          "feature": "title",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB179",
+      "text": "care of Iditarod dogs",
+      "wikipage": "Iditarod",
+      "wikiedit": "Iditarod Trail Sled Dog Race",
+      "epoch": 1364720268,
+      "querytweettime": 318285992178089984,
+      "model": [
+        {
+          "feature": "care",
+          "weight": 1.0
+        },
+        {
+          "feature": "of",
+          "weight": 1.0
+        },
+        {
+          "feature": "Iditarod",
+          "weight": 1.0
+        },
+        {
+          "feature": "dogs",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB180",
+      "text": "Sherlock Elementary BBC CBS",
+      "wikipage": "Elementary (TV series)",
+      "wikiedit": "Elementary (TV series)",
+      "epoch": 1364739688,
+      "querytweettime": 318367445586939904,
+      "model": [
+        {
+          "feature": "Sherlock",
+          "weight": 1.0
+        },
+        {
+          "feature": "Elementary",
+          "weight": 1.0
+        },
+        {
+          "feature": "BBC",
+          "weight": 1.0
+        },
+        {
+          "feature": "CBS",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB181",
+      "text": "Costa Concordia shipwreck",
+      "wikipage": "Costa Concordia disaster",
+      "wikiedit": "Costa Concordia disaster",
+      "epoch": 1362553013,
+      "querytweettime": 309195865883570176,
+      "model": [
+        {
+          "feature": "Costa",
+          "weight": 1.0
+        },
+        {
+          "feature": "Concordia",
+          "weight": 1.0
+        },
+        {
+          "feature": "shipwreck",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB182",
+      "text": "Chinua Achebe death",
+      "wikipage": "Chinua Achebe",
+      "wikiedit": "Chinua Achebe",
+      "epoch": 1364202460,
+      "querytweettime": 316114147999899648,
+      "model": [
+        {
+          "feature": "Chinua",
+          "weight": 1.0
+        },
+        {
+          "feature": "Achebe",
+          "weight": 1.0
+        },
+        {
+          "feature": "death",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB183",
+      "text": "Evernote hacked",
+      "wikipage": "Evernote",
+      "wikiedit": "Evernote",
+      "epoch": 1362610298,
+      "querytweettime": 309436136579821569,
+      "model": [
+        {
+          "feature": "Evernote",
+          "weight": 1.0
+        },
+        {
+          "feature": "hacked",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB184",
+      "text": "Election of Hugo Chavez successor",
+      "wikipage": "Venezuelan presidential election, 2013",
+      "wikiedit": "Venezuelan presidential election, 2013",
+      "epoch": 1364621434,
+      "querytweettime": 317871452349140993,
+      "model": [
+        {
+          "feature": "Election",
+          "weight": 1.0
+        },
+        {
+          "feature": "of",
+          "weight": 1.0
+        },
+        {
+          "feature": "Hugo",
+          "weight": 1.0
+        },
+        {
+          "feature": "Chavez",
+          "weight": 1.0
+        },
+        {
+          "feature": "successor",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB185",
+      "text": "National Zoo Panda, insemination",
+      "wikipage": "Mei Xiang",
+      "wikiedit": "Mei Xiang",
+      "epoch": 1364733087,
+      "querytweettime": 318339758956896258,
+      "model": [
+        {
+          "feature": "National",
+          "weight": 1.0
+        },
+        {
+          "feature": "Zoo",
+          "weight": 1.0
+        },
+        {
+          "feature": "Panda",
+          "weight": 1.0
+        },
+        {
+          "feature": "insemination",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB186",
+      "text": "Dorner, truck, compensation",
+      "wikipage": "Christopher Dorner",
+      "wikiedit": "Christopher Dorner",
+      "epoch": 1363356033,
+      "querytweettime": 312563975852281856,
+      "model": [
+        {
+          "feature": "Dorner",
+          "weight": 1.0
+        },
+        {
+          "feature": "truck",
+          "weight": 1.0
+        },
+        {
+          "feature": "compensation",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB187",
+      "text": "Pope washed Muslims feet",
+      "wikipage": "Pope Francis",
+      "wikiedit": "Pope Francis",
+      "epoch": 1364492040,
+      "querytweettime": 317374054011125762,
+      "model": [
+        {
+          "feature": "Pope",
+          "weight": 1.0
+        },
+        {
+          "feature": "washed",
+          "weight": 1.0
+        },
+        {
+          "feature": "Muslims",
+          "weight": 1.0
+        },
+        {
+          "feature": "feet",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB188",
+      "text": "Bombing police headquarters, Kirkuk",
+      "wikipage": "Kirkuk",
+      "wikiedit": "Kirkuk",
+      "epoch": 1359884272,
+      "querytweettime": 298002354828103680,
+      "model": [
+        {
+          "feature": "Bombing",
+          "weight": 1.0
+        },
+        {
+          "feature": "police",
+          "weight": 1.0
+        },
+        {
+          "feature": "headquarters",
+          "weight": 1.0
+        },
+        {
+          "feature": "Kirkuk",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB189",
+      "text": "injuries by pets",
+      "wikipage": "Pet",
+      "wikiedit": "Pet",
+      "epoch": 1364731978,
+      "querytweettime": 318335107494727682,
+      "model": [
+        {
+          "feature": "injuries",
+          "weight": 1.0
+        },
+        {
+          "feature": "by",
+          "weight": 1.0
+        },
+        {
+          "feature": "pets",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB190",
+      "text": "Organized crime, sports doping, Australia",
+      "wikipage": "Australian Sports Anti-Doping Authority",
+      "wikiedit": "Australian Sports Anti-Doping Authority",
+      "epoch": 1360234589,
+      "querytweettime": 299471690805690368,
+      "model": [
+        {
+          "feature": "Organized",
+          "weight": 1.0
+        },
+        {
+          "feature": "crime",
+          "weight": 1.0
+        },
+        {
+          "feature": "sports",
+          "weight": 1.0
+        },
+        {
+          "feature": "doping",
+          "weight": 1.0
+        },
+        {
+          "feature": "Australia",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB191",
+      "text": "Irish laundries apology",
+      "wikipage": "Magdalene asylum",
+      "wikiedit": "Magdalene asylum",
+      "epoch": 1364214108,
+      "querytweettime": 316163003252891648,
+      "model": [
+        {
+          "feature": "Irish",
+          "weight": 1.0
+        },
+        {
+          "feature": "laundries",
+          "weight": 1.0
+        },
+        {
+          "feature": "apology",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB192",
+      "text": "whooping cough epidemic",
+      "wikipage": "Pertussis vaccine",
+      "wikiedit": "Pertussis vaccine",
+      "epoch": 1363126229,
+      "querytweettime": 311600108032643073,
+      "model": [
+        {
+          "feature": "whooping",
+          "weight": 1.0
+        },
+        {
+          "feature": "cough",
+          "weight": 1.0
+        },
+        {
+          "feature": "epidemic",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB193",
+      "text": "Bulgarian protesters self immolate",
+      "wikipage": "Plamen Goranov",
+      "wikiedit": "Plamen Goranov",
+      "epoch": 1363267101,
+      "querytweettime": 312190968029904897,
+      "model": [
+        {
+          "feature": "Bulgarian",
+          "weight": 1.0
+        },
+        {
+          "feature": "protesters",
+          "weight": 1.0
+        },
+        {
+          "feature": "self",
+          "weight": 1.0
+        },
+        {
+          "feature": "immolate",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB194",
+      "text": "cherry blossom Washington",
+      "wikipage": "National Cherry Blossom Festival",
+      "wikiedit": "National Cherry Blossom Festival",
+      "epoch": 1364750006,
+      "querytweettime": 318410722403028993,
+      "model": [
+        {
+          "feature": "cherry",
+          "weight": 1.0
+        },
+        {
+          "feature": "blossom",
+          "weight": 1.0
+        },
+        {
+          "feature": "Washington",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB195",
+      "text": "Argo wins Oscar",
+      "wikipage": "85th Academy Awards",
+      "wikiedit": "85th Academy Awards",
+      "epoch": 1363122660,
+      "querytweettime": 311585138540679168,
+      "model": [
+        {
+          "feature": "Argo",
+          "weight": 1.0
+        },
+        {
+          "feature": "wins",
+          "weight": 1.0
+        },
+        {
+          "feature": "Oscar",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB196",
+      "text": "US fines Google over Street View",
+      "wikipage": "Google Street View",
+      "wikiedit": "Google Street View",
+      "epoch": 1364615404,
+      "querytweettime": 317846160691822593,
+      "model": [
+        {
+          "feature": "US",
+          "weight": 1.0
+        },
+        {
+          "feature": "fines",
+          "weight": 1.0
+        },
+        {
+          "feature": "Google",
+          "weight": 1.0
+        },
+        {
+          "feature": "over",
+          "weight": 1.0
+        },
+        {
+          "feature": "Street",
+          "weight": 1.0
+        },
+        {
+          "feature": "View",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB197",
+      "text": "Mad Men season 6",
+      "wikipage": "Mad Men (season 6)",
+      "wikiedit": "Mad Men (season 6)",
+      "epoch": 1363214953,
+      "querytweettime": 311972243464921088,
+      "model": [
+        {
+          "feature": "Mad",
+          "weight": 1.0
+        },
+        {
+          "feature": "Men",
+          "weight": 1.0
+        },
+        {
+          "feature": "season",
+          "weight": 1.0
+        },
+        {
+          "feature": "6",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB198",
+      "text": "Hostess bought by Apollo",
+      "wikipage": "Hostess Brands",
+      "wikiedit": "Old HB",
+      "epoch": 1363709791,
+      "querytweettime": 314047744450887680,
+      "model": [
+        {
+          "feature": "Hostess",
+          "weight": 1.0
+        },
+        {
+          "feature": "bought",
+          "weight": 1.0
+        },
+        {
+          "feature": "by",
+          "weight": 1.0
+        },
+        {
+          "feature": "Apollo",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB199",
+      "text": "Ed Koch death",
+      "wikipage": "Ed Koch",
+      "wikiedit": "Ed Koch",
+      "epoch": 1360551570,
+      "querytweettime": 300801205481906176,
+      "model": [
+        {
+          "feature": "Ed",
+          "weight": 1.0
+        },
+        {
+          "feature": "Koch",
+          "weight": 1.0
+        },
+        {
+          "feature": "death",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB200",
+      "text": "UK passes marriage bill",
+      "wikipage": "Marriage (Same Sex Couples) Bill",
+      "wikiedit": "Marriage_(Same_Sex_Couples)_Act_2013",
+      "epoch": 1364398428,
+      "querytweettime": 316936097370345472,
+      "model": [
+        {
+          "feature": "UK",
+          "weight": 1.0
+        },
+        {
+          "feature": "passes",
+          "weight": 1.0
+        },
+        {
+          "feature": "marriage",
+          "weight": 1.0
+        },
+        {
+          "feature": "bill",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB201",
+      "text": "Higgs Boson discovery",
+      "wikipage": "Higgs boson",
+      "wikiedit": "Higgs boson",
+      "epoch": 1363614318,
+      "querytweettime": 313647301690265600,
+      "model": [
+        {
+          "feature": "Higgs",
+          "weight": 1.0
+        },
+        {
+          "feature": "Boson",
+          "weight": 1.0
+        },
+        {
+          "feature": "discovery",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB202",
+      "text": "Boko Haram, Amnesty opposition",
+      "wikipage": "Diepreye Alamieyeseigha",
+      "wikiedit": "Diepreye Alamieyeseigha",
+      "epoch": 1364644987,
+      "querytweettime": 317970240799641600,
+      "model": [
+        {
+          "feature": "Boko",
+          "weight": 1.0
+        },
+        {
+          "feature": "Haram",
+          "weight": 1.0
+        },
+        {
+          "feature": "Amnesty",
+          "weight": 1.0
+        },
+        {
+          "feature": "opposition",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB203",
+      "text": "Eastern Australia Floods",
+      "wikipage": "2013 Eastern Australia Floods",
+      "wikiedit": "Cyclone Oswald",
+      "epoch": 1362183711,
+      "querytweettime": 307646901010964480,
+      "model": [
+        {
+          "feature": "Eastern",
+          "weight": 1.0
+        },
+        {
+          "feature": "Australia",
+          "weight": 1.0
+        },
+        {
+          "feature": "Floods",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB204",
+      "text": "Sotomayor, prosecutor, racial comments",
+      "wikipage": "Sonia Sotomayor",
+      "wikiedit": "Sonia Sotomayor",
+      "epoch": 1362147648,
+      "querytweettime": 307495641846788096,
+      "model": [
+        {
+          "feature": "Sotomayor",
+          "weight": 1.0
+        },
+        {
+          "feature": "prosecutor",
+          "weight": 1.0
+        },
+        {
+          "feature": "racial",
+          "weight": 1.0
+        },
+        {
+          "feature": "comments",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB205",
+      "text": "Port Said football riot, death sentences",
+      "wikipage": "Port Said Stadium riot",
+      "wikiedit": "Port Said Stadium riot",
+      "epoch": 1363436760,
+      "querytweettime": 312902569452257280,
+      "model": [
+        {
+          "feature": "Port",
+          "weight": 1.0
+        },
+        {
+          "feature": "Said",
+          "weight": 1.0
+        },
+        {
+          "feature": "football",
+          "weight": 1.0
+        },
+        {
+          "feature": "riot",
+          "weight": 1.0
+        },
+        {
+          "feature": "death",
+          "weight": 1.0
+        },
+        {
+          "feature": "sentences",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB206",
+      "text": "yarn bombing",
+      "wikipage": "yarn bombing",
+      "wikiedit": "yarn bombing",
+      "epoch": 1364757721,
+      "querytweettime": 318443081445826561,
+      "model": [
+        {
+          "feature": "yarn",
+          "weight": 1.0
+        },
+        {
+          "feature": "bombing",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB207",
+      "text": "David Cameron, apology, Amritsar",
+      "wikipage": "Jallianwala Bagh massacre",
+      "wikiedit": "Jallianwala Bagh massacre",
+      "epoch": 1361598917,
+      "querytweettime": 305194097205989376,
+      "model": [
+        {
+          "feature": "David",
+          "weight": 1.0
+        },
+        {
+          "feature": "Cameron",
+          "weight": 1.0
+        },
+        {
+          "feature": "apology",
+          "weight": 1.0
+        },
+        {
+          "feature": "Amritsar",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB208",
+      "text": "Olympics drops wrestling",
+      "wikipage": "2020 Summer Olympics",
+      "wikiedit": "2020 Summer Olympics",
+      "epoch": 1360700146,
+      "querytweettime": 301424378380443650,
+      "model": [
+        {
+          "feature": "Olympics",
+          "weight": 1.0
+        },
+        {
+          "feature": "drops",
+          "weight": 1.0
+        },
+        {
+          "feature": "wrestling",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB209",
+      "text": "Chelyabinsk meteor damage",
+      "wikipage": "Chelyabinsk meteor",
+      "wikiedit": "Chelyabinsk meteor",
+      "epoch": 1363816080,
+      "querytweettime": 314493552841351169,
+      "model": [
+        {
+          "feature": "Chelyabinsk",
+          "weight": 1.0
+        },
+        {
+          "feature": "meteor",
+          "weight": 1.0
+        },
+        {
+          "feature": "damage",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB210",
+      "text": "arrest of Craig Wilson for drive-by shooting in D.C.",
+      "wikipage": "Craig Wilson",
+      "wikiedit": "Craig Wilson",
+      "epoch": 1363384088,
+      "querytweettime": 312681647080349696,
+      "model": [
+        {
+          "feature": "arrest",
+          "weight": 1.0
+        },
+        {
+          "feature": "of",
+          "weight": 1.0
+        },
+        {
+          "feature": "Craig",
+          "weight": 1.0
+        },
+        {
+          "feature": "Wilson",
+          "weight": 1.0
+        },
+        {
+          "feature": "for",
+          "weight": 1.0
+        },
+        {
+          "feature": "drive-by",
+          "weight": 1.0
+        },
+        {
+          "feature": "shooting",
+          "weight": 1.0
+        },
+        {
+          "feature": "in",
+          "weight": 1.0
+        },
+        {
+          "feature": "D.C.",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB211",
+      "text": "Downton Abbey, Lady Mary, beau",
+      "wikipage": "Downton Abbey",
+      "wikiedit": "Downton Abbey",
+      "epoch": 1362429851,
+      "querytweettime": 308679287005904897,
+      "model": [
+        {
+          "feature": "Downton",
+          "weight": 1.0
+        },
+        {
+          "feature": "Abbey",
+          "weight": 1.0
+        },
+        {
+          "feature": "Lady",
+          "weight": 1.0
+        },
+        {
+          "feature": "Mary",
+          "weight": 1.0
+        },
+        {
+          "feature": "beau",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB212",
+      "text": "Kate Middleton maternity wear",
+      "wikipage": "Kate Middleton",
+      "wikiedit": "Kate Middleton",
+      "epoch": 1364649834,
+      "querytweettime": 317990570574356480,
+      "model": [
+        {
+          "feature": "Kate",
+          "weight": 1.0
+        },
+        {
+          "feature": "Middleton",
+          "weight": 1.0
+        },
+        {
+          "feature": "maternity",
+          "weight": 1.0
+        },
+        {
+          "feature": "wear",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB213",
+      "text": "US Embassy in Ankara bombed",
+      "wikipage": "Suicide bombing",
+      "wikiedit": "2013 United States embassy bombing in Ankara",
+      "epoch": 1359825022,
+      "querytweettime": 297753842307715072,
+      "model": [
+        {
+          "feature": "US",
+          "weight": 1.0
+        },
+        {
+          "feature": "Embassy",
+          "weight": 1.0
+        },
+        {
+          "feature": "in",
+          "weight": 1.0
+        },
+        {
+          "feature": "Ankara",
+          "weight": 1.0
+        },
+        {
+          "feature": "bombed",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB214",
+      "text": "math Common Core",
+      "wikipage": "Common Core State Standards Initiative",
+      "wikiedit": "Common Core State Standards Initiative",
+      "epoch": 1364305599,
+      "querytweettime": 316546744328544256,
+      "model": [
+        {
+          "feature": "math",
+          "weight": 1.0
+        },
+        {
+          "feature": "Common",
+          "weight": 1.0
+        },
+        {
+          "feature": "Core",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB215",
+      "text": "snow blower problems",
+      "wikipage": "Snow blower",
+      "wikiedit": "Snow blower",
+      "epoch": 1364702197,
+      "querytweettime": 318210196910505985,
+      "model": [
+        {
+          "feature": "snow",
+          "weight": 1.0
+        },
+        {
+          "feature": "blower",
+          "weight": 1.0
+        },
+        {
+          "feature": "problems",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB216",
+      "text": "Type II diabetes research",
+      "wikipage": "Diabetes mellitus type 2",
+      "wikiedit": "Diabetes mellitus type 2",
+      "epoch": 1364466602,
+      "querytweettime": 317222039876419584,
+      "model": [
+        {
+          "feature": "Type",
+          "weight": 1.0
+        },
+        {
+          "feature": "II",
+          "weight": 1.0
+        },
+        {
+          "feature": "diabetes",
+          "weight": 1.0
+        },
+        {
+          "feature": "research",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB217",
+      "text": "Pope candidates",
+      "wikipage": "Papal conclave, 2013",
+      "wikiedit": "Papal conclave, 2013",
+      "epoch": 1363111447,
+      "querytweettime": 311538107818336256,
+      "model": [
+        {
+          "feature": "Pope",
+          "weight": 1.0
+        },
+        {
+          "feature": "candidates",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB218",
+      "text": "Sinkhole rescues",
+      "wikipage": "Sinkhole",
+      "wikiedit": "Sinkhole",
+      "epoch": 1363116981,
+      "querytweettime": 311561319088283648,
+      "model": [
+        {
+          "feature": "Sinkhole",
+          "weight": 1.0
+        },
+        {
+          "feature": "rescues",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB219",
+      "text": "Russian meteorite conspiracy",
+      "wikipage": "Chelyabinsk meteor",
+      "wikiedit": "Chelyabinsk meteor",
+      "epoch": 1361650959,
+      "querytweettime": 305412377162166273,
+      "model": [
+        {
+          "feature": "Russian",
+          "weight": 1.0
+        },
+        {
+          "feature": "meteorite",
+          "weight": 1.0
+        },
+        {
+          "feature": "conspiracy",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB220",
+      "text": "Shahbag protest",
+      "wikipage": "2013 Shahbag protests",
+      "wikiedit": "2013 Shahbag protests",
+      "epoch": 1363220707,
+      "querytweettime": 311996377477545986,
+      "model": [
+        {
+          "feature": "Shahbag",
+          "weight": 1.0
+        },
+        {
+          "feature": "protest",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB221",
+      "text": "HIV baby cured",
+      "wikipage": "Media portrayal of HIV/AIDS",
+      "wikiedit": "Media portrayal of HIV/AIDS",
+      "epoch": 1362684966,
+      "querytweettime": 309749316845715456,
+      "model": [
+        {
+          "feature": "HIV",
+          "weight": 1.0
+        },
+        {
+          "feature": "baby",
+          "weight": 1.0
+        },
+        {
+          "feature": "cured",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB222",
+      "text": "\"Oz, The Great and Powerful\" opens",
+      "wikipage": "Oz the Great and Powerful",
+      "wikiedit": "Oz the Great and Powerful",
+      "epoch": 1363327932,
+      "querytweettime": 312446111732334592,
+      "model": [
+        {
+          "feature": "\"Oz",
+          "weight": 1.0
+        },
+        {
+          "feature": "The",
+          "weight": 1.0
+        },
+        {
+          "feature": "Great",
+          "weight": 1.0
+        },
+        {
+          "feature": "and",
+          "weight": 1.0
+        },
+        {
+          "feature": "Powerful\"",
+          "weight": 1.0
+        },
+        {
+          "feature": "opens",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB223",
+      "text": "dog off leash",
+      "wikipage": "Gabrielle Giffords",
+      "wikiedit": "Gabrielle Giffords",
+      "epoch": 1364599369,
+      "querytweettime": 317778905006227456,
+      "model": [
+        {
+          "feature": "dog",
+          "weight": 1.0
+        },
+        {
+          "feature": "off",
+          "weight": 1.0
+        },
+        {
+          "feature": "leash",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB224",
+      "text": "dark pool trading",
+      "wikipage": "Dark pool",
+      "wikiedit": "Dark pool",
+      "epoch": 1364762652,
+      "querytweettime": 318463763571433472,
+      "model": [
+        {
+          "feature": "dark",
+          "weight": 1.0
+        },
+        {
+          "feature": "pool",
+          "weight": 1.0
+        },
+        {
+          "feature": "trading",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "title": "MB225",
+      "text": "Barbara Walters, chicken pox",
+      "wikipage": "Barbara Walters",
+      "wikiedit": "Barbara Walters",
+      "epoch": 1363108799,
+      "querytweettime": 311527001297137664,
+      "model": [
+        {
+          "feature": "Barbara",
+          "weight": 1.0
+        },
+        {
+          "feature": "Walters",
+          "weight": 1.0
+        },
+        {
+          "feature": "chicken",
+          "weight": 1.0
+        },
+        {
+          "feature": "pox",
+          "weight": 1.0
+        }
+      ]
+    }
+  ]
+}

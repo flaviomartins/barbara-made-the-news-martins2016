@@ -1,0 +1,638 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "Yx9h1uY_raAJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-africa-21898664", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-africa-21898664", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> Nigerian author Chinua <b>Achebe</b>, regarded as the founding father of African <br>\nliterature, has <b>died</b> after brief illness.", 
+            "htmlTitle": "BBC News - Nigerian author <b>Chinua Achebe dies</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-africa-21898664", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66561000/jpg/_66561350_66561177.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3Hq34ojdvoiio7C9XpFjS3yd5O5X0H1DMsPOzVGU9WXqrsjc_Y6uFGQ", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21898664", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Africa", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-22T11:49:09+00:00", 
+                        "dcterms.modified": "2013-03-22T16:58:21+00:00", 
+                        "headline": "Nigerian author Chinua Achebe dies", 
+                        "ifs_url": "/news/world-africa-21898664", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66561000/jpg/_66561350_66561177.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Nigerian author Chinua Achebe dies", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-africa-21898664", 
+                        "originalpublicationdate": "2013/03/22 16:58:21", 
+                        "section": "Africa", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66561000/jpg/_66561349_66561177.jpg", 
+                        "ukfs_url": "/news/world-africa-21898664", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... Nigerian author Chinua Achebe, regarded as the founding father of African \nliterature, has died after brief illness.", 
+            "title": "BBC News - Nigerian author Chinua Achebe dies"
+        }, 
+        {
+            "cacheId": "BeXtRZN6JFgJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-africa-21896414", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-africa-21896414", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> A look back at the life of Nigerian writer Chinua <b>Achebe</b>, who has <b>died</b> aged 82 <br>\nand was revered throughout the world for his depiction of life in&nbsp;...", 
+            "htmlTitle": "BBC News - <b>Chinua Achebe</b>: <b>Obituary</b> of Nigeria&#39;s renowned author", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-africa-21896414", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66561000/jpg/_66561169_66561029.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfS0tbY38L9EFCufnLu4CG0bp1RLzhbc-bDDzVAr4TVk5rYkwtsfBX", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21896414", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Africa", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-22T14:12:12+00:00", 
+                        "dcterms.modified": "2013-03-22T14:12:12+00:00", 
+                        "headline": "Chinua Achebe: Obituary of Nigeria's renowned author", 
+                        "ifs_url": "/news/world-africa-21896414", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66561000/jpg/_66561169_66561029.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Chinua Achebe: Obituary of Nigeria's renowned author", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-africa-21896414", 
+                        "originalpublicationdate": "2013/03/22 14:12:12", 
+                        "section": "Africa", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66561000/jpg/_66561036_66561029.jpg", 
+                        "ukfs_url": "/news/world-africa-21896414", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... A look back at the life of Nigerian writer Chinua Achebe, who has died aged 82 \nand was revered throughout the world for his depiction of life in\u00a0...", 
+            "title": "BBC News - Chinua Achebe: Obituary of Nigeria's renowned author"
+        }, 
+        {
+            "cacheId": "0Tybdk1tDckJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/life/...chinua-achebe-dies-at.../2009065/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/life/...<b>chinua</b>-<b>achebe</b>-<b>dies</b>-at.../2009065/", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> <b>Achebe died</b> following a brief illness, said his agent, Andrew Wylie. ... <b>Achebe</b> <br>\nwas a moral and literary model for countless Africans and a&nbsp;...", 
+            "htmlTitle": "Agent: Author <b>Chinua Achebe dies</b> at 82", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/life/books/2013/03/22/agent-author-chinua-achebe-dies-at-82/2009065/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/WiresImages/2013/03/22/fc2b2b12c97edc092c0f6a706700e3a1-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5-2tvmlZX62u7SB9dSBApa6IE_ZN69-BUUJ8T5DglH3shLkSHmgHLXQ0", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "achebe", 
+                        "url": "http://www.gannett-cdn.com/-mm-/ac1394dbdcca6a36cbf486633b129cd813095ac3/r=x404&c=534x401/local/-/media/USATODAY/WiresImages/2013/03/22/fc2b2b12c97edc092c0f6a706700e3a1-4_3.jpg"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "og:description": "The internationally celebrated Nigerian author, statesman and dissident who gave literary birth to modern Africa with 'Things Fall Apart' has died.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/WiresImages/2013/03/22/fc2b2b12c97edc092c0f6a706700e3a1-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "Agent: Author Chinua Achebe dies at 82", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/life/books/2013/03/22/agent-author-chinua-achebe-dies-at-82/2009065/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "The internationally celebrated Nigerian author, statesman and dissident who gave literary birth to modern Africa with 'Things Fall Apart' has died.Chinua Achebe, Nigerian-born novelist and...", 
+                        "articlesection": "life,books", 
+                        "datemodified": "2013-03-22T14:09:43.0000000", 
+                        "datepublished": "2013-03-22T09:14:53.0000000", 
+                        "description": "The internationally celebrated Nigerian author, statesman and dissident who gave literary birth to modern Africa with 'Things Fall Apart' has died.", 
+                        "headline": "Agent: Author Chinua Achebe dies at 82", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/WiresImages/2013/03/22/fc2b2b12c97edc092c0f6a706700e3a1-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/WiresImages/2013/03/22/fc2b2b12c97edc092c0f6a706700e3a1-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "Hillel Italie, Associated Press"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... Achebe died following a brief illness, said his agent, Andrew Wylie. ... Achebe \nwas a moral and literary model for countless Africans and a\u00a0...", 
+            "title": "Agent: Author Chinua Achebe dies at 82"
+        }, 
+        {
+            "cacheId": "yTeR44kDN9gJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/programmes/p015sh93", 
+            "htmlFormattedUrl": "www.bbc.co.uk/programmes/p015sh93", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> Chinua <b>Achebe</b>, the acclaimed Nigerian novelist and poet has <b>died</b>.", 
+            "htmlTitle": "BBC World Service - The Strand Archive, The <b>death</b> of <b>Chinua Achebe</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/programmes/p015sh93", 
+            "pagemap": {
+                "Brand": [
+                    {
+                        "title": "The Strand Archive"
+                    }
+                ], 
+                "Episode": [
+                    {
+                        "title": "Philip Roth Unmasked"
+                    }, 
+                    {
+                        "title": "BBC World Service's What If Competition winners"
+                    }
+                ], 
+                "Service": [
+                    {
+                        "title": "BBC World Service"
+                    }
+                ], 
+                "SpeechSegment": [
+                    {
+                        "short_synopsis": "The acclaimed Nigerian novelist and poet dies at the age of 82.", 
+                        "title": "Chinua Achebe"
+                    }, 
+                    {
+                        "short_synopsis": "They perform \"Lady\u201d from their album \u2018Faya\u2019live in the studio.", 
+                        "title": "Joe Driscoll and Sekou Kouyate"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "http://ichef.bbci.co.uk/images/ic/368x207/p016qh89.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "165", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxenJq0V0Xq9BtMfTyZ_E_Gph75ByFIC802poEDvkV4XR8SUq6GPMWG0", 
+                        "width": "294"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "medium": "video", 
+                        "msapplication-square150x150logo": "http://ichef.bbci.co.uk/images/ic/272x272/p016qh89.jpg", 
+                        "og:description": "Chinua Achebe, the acclaimed Nigerian novelist and poet has died.", 
+                        "og:image": "http://ichef.bbci.co.uk/images/ic/368x207/p016qh89.jpg", 
+                        "og:site_name": "BBC", 
+                        "og:title": "The death of Chinua Achebe, The Strand Archive - BBC World Service", 
+                        "og:url": "http://www.bbc.co.uk/programmes/p015sh93", 
+                        "twitter:card": "summary", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... Chinua Achebe, the acclaimed Nigerian novelist and poet has died.", 
+            "title": "BBC World Service - The Strand Archive, The death of Chinua Achebe"
+        }, 
+        {
+            "cacheId": "556D_RqqiugJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/life/.../chinua-achebe...dies.../2009751/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/life/.../<b>chinua</b>-<b>achebe</b>...<b>dies</b>.../2009751/", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> Nigerian writer Chinua <b>Achebe</b> has <b>died</b> at 82. Now the father of modern African <br>\nliterature will never receive the Nobel Prize that so readers&nbsp;...", 
+            "htmlTitle": "Appreciation: <b>Chinua Achebe</b> influenced writers around the world", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/life/books/2013/03/22/chinua-achebe-author-of-things-fall-apart-dies-at-82/2009751/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/22/ap-obit-achebe-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeNLGdUvEdM-BWSZ5Bx__JXajMiYVgoEvgxZ4-eOSY9pLC6kUPKQBGAKY", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "achebe", 
+                        "url": "http://www.gannett-cdn.com/-mm-/0c9109c71ea0524d9fe840f91fabd67bb94a26a9/r=537&c=0-0-534-712/local/-/media/USATODAY/USATODAY/2013/03/22/ap-obit-achebe-3_4.jpg"
+                    }, 
+                    {
+                        "height": "450", 
+                        "name": "things fall apart", 
+                        "url": "http://www.gannett-cdn.com/-mm-/00966670f70fbadefd1bdd9a4cb21f9559382432/r=183&c=0-0-180-238/local/-/media/USATODAY/USATODAY/2013/03/22/41lxo4smz4lsl500-3_4.jpg", 
+                        "width": "340"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "og:description": "The famous Nigerian author leaves behind his novel, 'Things Fall Apart,' which influenced a generation of writers from Africa and from around the world by giving voice to the oppressed.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/22/ap-obit-achebe-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "Appreciation: Chinua Achebe influenced writers around the world", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/life/books/2013/03/22/chinua-achebe-author-of-things-fall-apart-dies-at-82/2009751/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "The famous Nigerian author leaves behind his novel, 'Things Fall Apart,' which influenced a generation of writers from Africa and from around the world by giving voice to the oppressed.Chinua...", 
+                        "articlesection": "life,books", 
+                        "datemodified": "2013-03-22T13:41:50.0000000", 
+                        "datepublished": "2013-03-22T13:21:12.0000000", 
+                        "description": "The famous Nigerian author leaves behind his novel, 'Things Fall Apart,' which influenced a generation of writers from Africa and from around the world by giving voice to the oppressed.", 
+                        "headline": "Appreciation: Chinua Achebe influenced writers around the world", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/USATODAY/2013/03/22/ap-obit-achebe-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/USATODAY/2013/03/22/ap-obit-achebe-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "Deirdre Donahue, USA TODAY"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... Nigerian writer Chinua Achebe has died at 82. Now the father of modern African \nliterature will never receive the Nobel Prize that so readers\u00a0...", 
+            "title": "Appreciation: Chinua Achebe influenced writers around the world"
+        }, 
+        {
+            "cacheId": "zBXDC0ng7UYJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../entertainment-us-achebe-death- idUSBRE92L0FD20130322", 
+            "htmlFormattedUrl": "www.reuters.com/.../entertainment-us-<b>achebe</b>-<b>death</b>- idUSBRE92L0FD20130322", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> LAGOS (Reuters) - Nigerian novelist Chinua <b>Achebe</b>, widely seen as the <br>\ngrandfather of modern African literature, has <b>died</b> at the age of 82.", 
+            "htmlTitle": "Grandfather of African literature, <b>Chinua Achebe</b>, <b>dies</b> aged 82 <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/22/entertainment-us-achebe-death-idUSBRE92L0FD20130322", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130322&t=2&i=715353932&w=130&fh=&fw=&ll=&pl=&r=CBRE92L0XUX00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "74", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzzoUcY-bTG0Ahx576yT997ir5rmy05HGZKoMMk5uUTCUWS0Lbwfk_", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.artcms": "1", 
+                        "dcsext.channellist": "newsOne;entertainmentNews;artsNews;lifestyleMolt;Piracy;creditMarkets;everything;treasuryMarkets;Schwab;Deals;MercedesBenz;Amtrak;yahoo3;echoActivityStream;Boston;BostonCopy;HSBC_US;FedExSMB;everythingButHugin;OutloudFeed;JPMorgan;CFA;trending-hp;samsung;newsproHome;cfaglobal;merrilledge;archery;shipping;citianniversary;airline;africa;PrudentialInvestments;lyxor;greenpeace;MLGZero;fedex_neg;BNY", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "lifestyleMolt", 
+                        "dcsext.contentheadline": "Grandfather+of+African+literature%2C+Chinua+Achebe%2C+dies+aged+82", 
+                        "dcsext.contentid": "USBRE92L0FD20130322", 
+                        "dcsext.contentid_lifestylemolt": "USBRE92L0FD20130322", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/lifestyle/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130322&t=2&i=715353932&w=130&fh=&fw=&ll=&pl=&r=CBRE92L0XUX00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Grandfather of African literature, Chinua Achebe, dies aged 82", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/22/entertainment-us-achebe-death-idUSBRE92L0FD20130322", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Grandfather of African literature, Chinua Achebe, dies aged 82\", \"link\": \"http://www.reuters.com/article/2013/03/22/entertainment-us-achebe-death-idUSBRE92L0FD20130322\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130322&t=2&i=715353932&w=130&fh=&fw=&ll=&pl=&r=CBRE92L0XUX00\", \"post_id\": \"USBRE92L0FD20130322\", \"pub_date\": \"2013-03-22T18:56:07+0000\", \"section\":\"lifestyleMolt\", \"author\": \"Tim Cocks\"}", 
+                        "revision_date": "Fri Mar 22 18:56:07 UTC 2013", 
+                        "wt.cg_n": "News - Lifestyle", 
+                        "wt.cg_s": "lifestyleMolt"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... LAGOS (Reuters) - Nigerian novelist Chinua Achebe, widely seen as the \ngrandfather of modern African literature, has died at the age of 82.", 
+            "title": "Grandfather of African literature, Chinua Achebe, dies aged 82 ..."
+        }, 
+        {
+            "cacheId": "33VmC4mLIdMJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/programmes/p016qgz5", 
+            "htmlFormattedUrl": "www.bbc.co.uk/programmes/p016qgz5", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> Add &quot;The Strand Archive, The <b>death</b> of Chinua <b>Achebe</b>, Joe Driscoll and Sekou <br>\nKouyate performing Lady from the album Faya&quot; to Favourites&nbsp;...", 
+            "htmlTitle": "BBC World Service - The Strand Archive, The <b>death</b> of <b>Chinua</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/programmes/p016qgz5", 
+            "pagemap": {
+                "Brand": [
+                    {
+                        "title": "The Strand Archive"
+                    }
+                ], 
+                "Episode": [
+                    {
+                        "short_synopsis": "Chinua Achebe, the acclaimed Nigerian novelist and poet has died.", 
+                        "subtitle": "The Strand Archive", 
+                        "title": "The death of Chinua Achebe"
+                    }
+                ], 
+                "Service": [
+                    {
+                        "title": "BBC World Service"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "http://ichef.bbci.co.uk/images/ic/368x207/p016q9p8.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "165", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs5Cqf4peSTZ_ymeH1jrIpQlxq0_jWt-7dxJmwjY38tiLs7HZxfgIP5l9v", 
+                        "width": "294"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "medium": "video", 
+                        "msapplication-square150x150logo": "http://ichef.bbci.co.uk/images/ic/272x272/p016q9p8.jpg", 
+                        "og:description": "Joe Driscoll and Sekou Kouyate perform live in The Strand studio.", 
+                        "og:image": "http://ichef.bbci.co.uk/images/ic/368x207/p016q9p8.jpg", 
+                        "og:site_name": "BBC", 
+                        "og:title": "Joe Driscoll and Sekou Kouyate performing Lady from the album Faya, The death of Chinua Achebe, The Strand Archive - BBC World Service", 
+                        "og:url": "http://www.bbc.co.uk/programmes/p016qgz5", 
+                        "og:video": "http://www.bbc.co.uk/emp/iplayer/player.swf?playlist=http://www.bbc.co.uk/iplayer/playlist/p016qgz5&showFooter=true&mediatorHref=http%3A%2F%2Fopen.live.bbc.co.uk%2Fmediaselector%2F5%2Fselect%2Fversion%2F2.0%2Fmediaset%2Fpc%2Ftransferformat%2Fplain%2Fvpid%2F%7Bid%7D", 
+                        "og:video:height": "360", 
+                        "og:video:secure_url": "https://www.bbc.co.uk/emp/iplayer/player.swf?playlist=http://www.bbc.co.uk/iplayer/playlist/p016qgz5&showFooter=true&mediatorHref=http%3A%2F%2Fopen.live.bbc.co.uk%2Fmediaselector%2F5%2Fselect%2Fversion%2F2.0%2Fmediaset%2Fpc%2Ftransferformat%2Fplain%2Fvpid%2F%7Bid%7D", 
+                        "og:video:type": "application/x-shockwave-flash", 
+                        "og:video:width": "398", 
+                        "twitter:card": "player", 
+                        "twitter:description": "Joe Driscoll and Sekou Kouyate perform live in The Strand studio.", 
+                        "twitter:image": "http://ichef.bbci.co.uk/images/ic/640x360/p016q9p8.jpg", 
+                        "twitter:image:height": "360", 
+                        "twitter:image:width": "640", 
+                        "twitter:player": "https://ssl.bbc.co.uk/programmes/p016qgz5.player", 
+                        "twitter:player:height": "324", 
+                        "twitter:player:width": "576", 
+                        "twitter:title": "The Strand Archive, The death of Chinua Achebe, Joe Driscoll and Sekou Kouyate performing Lady from the album Faya", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... Add \"The Strand Archive, The death of Chinua Achebe, Joe Driscoll and Sekou \nKouyate performing Lady from the album Faya\" to Favourites\u00a0...", 
+            "title": "BBC World Service - The Strand Archive, The death of Chinua ..."
+        }, 
+        {
+            "cacheId": "9xvKksDoC_QJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-africa-21893530", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-africa-21893530", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> Renowned Nigerian author Chinua <b>Achebe</b> has <b>died</b>, the spokesman for the <br>\nAnambra state government has told the BBC. One of Africa&#39;s best&nbsp;...", 
+            "htmlTitle": "BBC News - &#39;Every African schoolchild grew up with <b>Chinua Achebe</b>&#39;", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-africa-21893530", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66554000/jpg/_66554987_66551006.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyJnFwdQh9hJEkXS7nFGvYpBJviFS7L2NWf4iM3qi3bMuJxdzCuZyZ8w", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21893530", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Africa", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-22T14:06:15+00:00", 
+                        "dcterms.modified": "2013-03-22T14:06:15+00:00", 
+                        "headline": "The influence of writer Chinua Achebe", 
+                        "ifs_url": "/news/world-africa-21893530", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66554000/jpg/_66554987_66551006.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "The influence of writer Chinua Achebe", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-africa-21893530", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/world-africa-21893530A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/22 14:06:15", 
+                        "section": "Africa", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66554000/jpg/_66554986_66551006.jpg", 
+                        "ukfs_url": "/news/world-africa-21893530", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... Renowned Nigerian author Chinua Achebe has died, the spokesman for the \nAnambra state government has told the BBC. One of Africa's best\u00a0...", 
+            "title": "BBC News - 'Every African schoolchild grew up with Chinua Achebe'"
+        }, 
+        {
+            "cacheId": "KRhswvSW9z8J", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/article/quotes-chinua-achebe-dead-age-82", 
+            "htmlFormattedUrl": "bigstory.ap.org/article/quotes-<b>chinua</b>-<b>achebe</b>-<b>dead</b>-age-82", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> FILE - Chinua <b>Achebe</b>, Nigerian-born novelist and poet poses his life at his home <br>\non the campus of Bard College in Annandale-on-Hudson,&nbsp;...", 
+            "htmlTitle": "Quotes by <b>Chinua Achebe</b>, <b>dead</b> at age 82", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/quotes-chinua-achebe-dead-age-82", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "NEW YORK (AP) \u2014 Select quotes by Chinua Achebe, the pioneering African writer, government critic and advocate for African storytelling:", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Quotes by Chinua Achebe, dead at age 82", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/quotes-chinua-achebe-dead-age-82", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... FILE - Chinua Achebe, Nigerian-born novelist and poet poses his life at his home \non the campus of Bard College in Annandale-on-Hudson,\u00a0...", 
+            "title": "Quotes by Chinua Achebe, dead at age 82"
+        }, 
+        {
+            "cacheId": "P0mMy_ESXH4J", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/life/books/...chinua-achebe.../2009597/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/life/books/...<b>chinua</b>-<b>achebe</b>.../2009597/", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> In today&#39;s book news, Nigerian author Chinua <b>Achebe</b> has <b>died</b>. Plus, Willa <br>\nCather letters are being released and Johnny Carson&#39;s ex-lawyer is&nbsp;...", 
+            "htmlTitle": "Book Buzz: Readers and writers reflect on <b>Chinua Achebe&#39;s</b> life", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/life/books/2013/03/22/book-buzz-chinua-achebe-johnny-carson-tonight-show/2009597/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/22/afp-518373115-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-GVv2TLXejs33QCGi8jnJCEuxJoB3QnKoaT6AGsqHbMAdV5QTRUgT97jX", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "achebe", 
+                        "url": "http://www.gannett-cdn.com/-mm-/ac1394dbdcca6a36cbf486633b129cd813095ac3/r=x404&c=534x401/local/-/media/USATODAY/USATODAY/2013/03/22/afp-518373115-4_3.jpg"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "news_keywords": "chinua achebe, johnny carson, the tonight show, books, book buzz", 
+                        "og:description": "In today's book news, Nigerian author Chinua Achebe has died. Plus, Willa Cather letters are being released and Johnny Carson's ex-lawyer is writing a book.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/22/afp-518373115-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "Book Buzz: Readers and writers reflect on Chinua Achebe's life", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/life/books/2013/03/22/book-buzz-chinua-achebe-johnny-carson-tonight-show/2009597/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "In today's book news, Nigerian author Chinua Achebe has died. Plus, Willa Cather letters are being released and Johnny Carson's ex-lawyer is writing a book.Chinua Achebe and former South African...", 
+                        "articlesection": "life,books", 
+                        "datemodified": "2013-03-22T11:54:37.0000000", 
+                        "datepublished": "2013-03-22T11:41:13.0000000", 
+                        "description": "In today's book news, Nigerian author Chinua Achebe has died. Plus, Willa Cather letters are being released and Johnny Carson's ex-lawyer is writing a book.", 
+                        "headline": "Book Buzz: Readers and writers reflect on Chinua Achebe's life", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/USATODAY/2013/03/22/afp-518373115-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/USATODAY/2013/03/22/afp-518373115-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "Lindsay Deutsch, USA TODAY"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... In today's book news, Nigerian author Chinua Achebe has died. Plus, Willa \nCather letters are being released and Johnny Carson's ex-lawyer is\u00a0...", 
+            "title": "Book Buzz: Readers and writers reflect on Chinua Achebe's life"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Chinua Achebe death", 
+                "sort": "date:r:20130201:20130325", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - intitle:Chinua Achebe death", 
+                "totalResults": "29"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Chinua Achebe death", 
+                "sort": "date:r:20130201:20130325", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Chinua Achebe death", 
+                "totalResults": "29"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.09", 
+        "formattedTotalResults": "29", 
+        "searchTime": 0.094799, 
+        "totalResults": "29"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

@@ -1,0 +1,280 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "-yRFeWugPuEJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/technology-21762545", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/technology-21762545", 
+            "htmlSnippet": "Mar 12, 2013 <b>...</b> <b>Google</b> has agreed to pay a $7m (\u00a34.6m) <b>fine</b> for collecting people&#39;s personal <br>\ndata without authorisation as part of its <b>Street View</b> service.", 
+            "htmlTitle": "BBC News - <b>Google</b> hit by $7m <b>Street View fine</b> in <b>US</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/technology-21762545", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66352000/gif/_66352689_streetview.gif"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJXQVL3PlYuSpqS6worRAwVBVZbDihihnlXCr1wiSgqz6nmgWwxPtm", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21762545", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Technology", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-12T17:55:50+00:00", 
+                        "dcterms.modified": "2013-03-12T18:13:28+00:00", 
+                        "headline": "Google hit by $7m Street View fine", 
+                        "ifs_url": "/news/technology-21762545", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66352000/gif/_66352689_streetview.gif", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Google hit by $7m Street View fine", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/technology-21762545", 
+                        "originalpublicationdate": "2013/03/12 18:13:28", 
+                        "section": "Technology", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66352000/gif/_66352688_streetview.gif", 
+                        "ukfs_url": "/news/technology-21762545", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 12, 2013 ... Google has agreed to pay a $7m (\u00a34.6m) fine for collecting people's personal \ndata without authorisation as part of its Street View service.", 
+            "title": "BBC News - Google hit by $7m Street View fine in US"
+        }, 
+        {
+            "cacheId": "BtJxI3iicbwJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../net-us-google-settlement-idUSBRE92719820130308", 
+            "htmlFormattedUrl": "www.reuters.com/.../net-<b>us</b>-<b>google</b>-settlement-idUSBRE92719820130308", 
+            "htmlSnippet": "Mar 8, 2013 <b>...</b> <b>Google&#39;s Street View</b> cars, which are well known for crisscrossing the ... <b>Google</b> <br>\nwas <b>fined</b> $25,000 by the FCC for impeding its investigation&nbsp;...", 
+            "htmlTitle": "<b>Google</b> nears $7 million settlement with <b>U.S.</b> states <b>over</b> Wifi incident <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/08/net-us-google-settlement-idUSBRE92719820130308", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710971011&w=130&fh=&fw=&ll=&pl=&r=CBRE9271PBN00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "67", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF_UvEaQMAQ4INPbohLVMqL1_unbFjxIMLKbOLb8tcJ09Dttaz8MiFcw", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "technologyNews;internetNews;vcMedia;innovationAMD;ford;SafetyandInnovation;SAP;ToyotaPrius;everything;treasuryMarkets;Deals;MercedesBenz;Shell;Verizon;Amtrak;yahoo3;AACulture;echoActivityStream;Suntrust_SmallBiz;AutodeskDesign;AllianzInvestments;HSBC_US;TDAmeritrade;FedExSMB;Goldman;everythingButHugin;AXAinsurance;OutloudFeed;chsenergy;HPEnterprise;Allianz;JPMorgan;sapawareness;CFA;sapawarenesstech;sapawarenesslife;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;newsproHome;verizonmm;audib2b;credit-rss;Pfizersafe;cfaglobal;merrilledge;aa48hours;ernstyoung;accenture;PrudentialInvestments;greenpeace;MLGZero;fedex_neg;PorscheCayenne;ubs;MLedge;BNY", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "technologyNews", 
+                        "dcsext.contentheadline": "Google+nears+%247+million+settlement+with+U.S.+states+over+Wifi+incident%3A+source", 
+                        "dcsext.contentid": "USBRE92719820130308", 
+                        "dcsext.contentid_technologynews": "USBRE92719820130308", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/technology/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710971011&w=130&fh=&fw=&ll=&pl=&r=CBRE9271PBN00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Google nears $7 million settlement with U.S. states over Wifi incident: source", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/08/net-us-google-settlement-idUSBRE92719820130308", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Google nears $7 million settlement with U.S. states over Wifi incident: source\", \"link\": \"http://www.reuters.com/article/2013/03/08/net-us-google-settlement-idUSBRE92719820130308\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710971011&w=130&fh=&fw=&ll=&pl=&r=CBRE9271PBN00\", \"post_id\": \"USBRE92719820130308\", \"pub_date\": \"2013-03-08T22:04:39+0000\", \"section\":\"technologyNews\", \"author\": \"Alexei Oreskovic\"}", 
+                        "revision_date": "Fri Mar 08 22:04:39 UTC 2013", 
+                        "wt.cg_n": "Finance - Technology", 
+                        "wt.cg_s": "technologyNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 8, 2013 ... Google's Street View cars, which are well known for crisscrossing the ... Google \nwas fined $25,000 by the FCC for impeding its investigation\u00a0...", 
+            "title": "Google nears $7 million settlement with U.S. states over Wifi incident ..."
+        }, 
+        {
+            "cacheId": "fDR4ge56oe4J", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../google-settlement-idUSL1N0C0HHN20130308", 
+            "htmlFormattedUrl": "www.reuters.com/.../<b>google</b>-settlement-idUSL1N0C0HHN20130308", 
+            "htmlSnippet": "Mar 8, 2013 <b>...</b> <b>Google&#39;s Street View</b> cars, which are well known for crisscrossing the ... <b>Google</b> <br>\nwas <b>fined</b> $25,000 by the FCC for impeding its investigation&nbsp;...", 
+            "htmlTitle": "<b>Google</b> nears $7 mln settlement with <b>U.S.</b> states <b>over</b> Wifi incident <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/08/google-settlement-idUSL1N0C0HHN20130308", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "companyNews;marketsNews;rbssTechMediaTelecomNews;rbssITServicesConsulting;technology-media-telco-SP;forexNews;vcMedia;JackDaniels;innovationAMD;ford;SafetyandInnovation;SAP;ToyotaPrius;everything;Deals;Shell;Verizon;Amtrak;yahoo3;Pfizer;echoActivityStream;Boston;Suntrust_SmallBiz;AutodeskDesign;AllianzInvestments;HSBC_US;TDAmeritrade;FedExSMB;Goldman;everythingButHugin;msnMoneyFeed;AXAinsurance;OutloudFeed;chsenergy;HPEnterprise;Allianz;JPMorgan;sapawareness;CFA;sapawarenesstech;sapawarenesslife;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;verizonmm;audib2b;credit-rss;Pfizersafe;cfaglobal;merrilledge;aa48hours;ernstyoung;accenture;PrudentialInvestments;greenpeace;MLGZero;fedex_neg;PorscheCayenne;ubs;MLedge;BNY;technologySector", 
+                        "dcsext.contentchannel": "marketsNews", 
+                        "dcsext.contentheadline": "Google+nears+%247+mln+settlement+with+U.S.+states+over+Wifi+incident-source", 
+                        "dcsext.contentid": "USL1N0C0HHN20130308", 
+                        "dcsext.contentid_marketsnews": "USL1N0C0HHN20130308", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/markets/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Google nears $7 mln settlement with U.S. states over Wifi incident-source", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/08/google-settlement-idUSL1N0C0HHN20130308", 
+                        "revision_date": "Fri Mar 08 22:02:37 UTC 2013", 
+                        "wt.cg_n": "Finance - Markets", 
+                        "wt.cg_s": "marketsNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 8, 2013 ... Google's Street View cars, which are well known for crisscrossing the ... Google \nwas fined $25,000 by the FCC for impeding its investigation\u00a0...", 
+            "title": "Google nears $7 mln settlement with U.S. states over Wifi incident ..."
+        }, 
+        {
+            "cacheId": "EFkPRraEak0J", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../usa-markets-cash-idUSL1N0CE7LC20130322", 
+            "htmlFormattedUrl": "www.reuters.com/.../usa-markets-cash-idUSL1N0CE7LC20130322", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> The top 20 companies in the Russell 3000 index had <b>over</b> $650 billion in cash at <br>\nthe ... <b>Views</b> expressed in the comments do not represent those of Reuters. ... to <br>\nrape our standard of living\u2026.. <b>fine</b>\u2026.. but at least get your facts straight\u2026 ... <br>\nJudge rejects $324.5 million settlement <b>over</b> Apple, <b>Google</b> hiring.", 
+            "htmlTitle": "Huge <b>U.S.</b> corporate cash stash belies weakness -Citi | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/22/usa-markets-cash-idUSL1N0CE7LC20130322", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "companyNews;bondsNews;marketsNews;rbssConsumerGoodsAndRetailNews;rbssTechMediaTelecomNews;rbssPersonalProducts;rbssComputerHardware;rbssOfficeEquipment;technology-media-telco-SP;forexNews;vcMedia;apple;federalReserve;FixedIncome;JackDaniels;Travel;innovationAMD;ford;Inspiration;creditMarkets;rtsCiti;everything;treasuryMarkets;Schwab;Continental;Shell;Amtrak;Amtrak2;yahoo3;Adfriendly1;Pfizer;echoActivityStream;ANZ;Boston;Suntrust_SmallBiz;ShellEnergy;AllianzRetirement;AllianzInvestments;HSBC_US;TDAmeritrade;FedExSMB;Goldman;everythingButHugin;msnMoneyFeed;AXAinsurance;OutloudFeed;chsenergy;chsfood;Allianz;cfpboard;JPMorgan;ssgabonds;sapawareness;sapawarenesstech;jpGambaroEco;jpGambaroPeople;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;verizonmm;audib2b;Pfizersafe;cfaglobal;merrilledge;aa48hours;ernstyoung;Xerox;citianniversary;PrudentialInvestments;VanessaTest;lyxor;MLGZero;fedex_neg;PorscheCayenne;ubs;MLedge;BNY;citgroup;financialsSector;technologySector", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "bondsNews", 
+                        "dcsext.contentheadline": "Huge+U.S.+corporate+cash+stash+belies+weakness+-Citi", 
+                        "dcsext.contentid": "USL1N0CE7LC20130322", 
+                        "dcsext.contentid_bondsnews": "USL1N0CE7LC20130322", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/bonds/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Huge U.S. corporate cash stash belies weakness -Citi", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/22/usa-markets-cash-idUSL1N0CE7LC20130322", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Huge U.S. corporate cash stash belies weakness -Citi\", \"link\": \"http://www.reuters.com/article/2013/03/22/usa-markets-cash-idUSL1N0CE7LC20130322\", \"image_url\": \"\", \"post_id\": \"USL1N0CE7LC20130322\", \"pub_date\": \"2013-03-22T17:58:35+0000\", \"section\":\"bondsNews\", \"author\": \"\"}", 
+                        "revision_date": "Fri Mar 22 17:58:35 UTC 2013", 
+                        "wt.cg_n": "Finance - Bonds", 
+                        "wt.cg_s": "bondsNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... The top 20 companies in the Russell 3000 index had over $650 billion in cash at \nthe ... Views expressed in the comments do not represent those of Reuters. ... to \nrape our standard of living\u2026.. fine\u2026.. but at least get your facts straight\u2026 ... \nJudge rejects $324.5 million settlement over Apple, Google hiring.", 
+            "title": "Huge U.S. corporate cash stash belies weakness -Citi | Reuters"
+        }, 
+        {
+            "cacheId": "UDzrFPZCp2QJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/technology-21591696", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/technology-21591696", 
+            "htmlSnippet": "Feb 26, 2013 <b>...</b> &quot;<b>Over</b> the course of the next several days... our content partners will begin <br>\nsending notices ... The original version can still be read via a snapshot <b>Google</b> <br>\ntook of the page. ... People carrying shopping bags in Oxford <b>Street</b> ... While you <br>\nwill be able to <b>view</b> the content of this page in your current browser, you&nbsp;...", 
+            "htmlTitle": "BBC News - <b>US</b> internet &#39;six strikes&#39; anti-piracy campaign begins", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/technology-21591696", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66089000/png/_66089831_system.png"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmcbgtu9ERdmjPLabvvwwgcJobuOvcXrgdP2Ee83OWrBuEZr2ftXhv", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21591696", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Technology", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-26T18:17:01+00:00", 
+                        "dcterms.modified": "2013-02-26T18:17:01+00:00", 
+                        "headline": "'Six strikes' piracy crackdown begins", 
+                        "ifs_url": "/news/technology-21591696", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66089000/png/_66089831_system.png", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "'Six strikes' piracy crackdown begins", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/technology-21591696", 
+                        "originalpublicationdate": "2013/02/26 18:17:01", 
+                        "section": "Technology", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66089000/png/_66089830_system.png", 
+                        "ukfs_url": "/news/technology-21591696", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 26, 2013 ... \"Over the course of the next several days... our content partners will begin \nsending notices ... The original version can still be read via a snapshot Google \ntook of the page. ... People carrying shopping bags in Oxford Street ... While you \nwill be able to view the content of this page in your current browser, you\u00a0...", 
+            "title": "BBC News - US internet 'six strikes' anti-piracy campaign begins"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 5, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:US fines Google over Street View", 
+                "sort": "date:r:20130201:20130330", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:US fines Google over Street View", 
+                "totalResults": "5"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "5", 
+        "searchTime": 0.304241, 
+        "totalResults": "5"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "--83gKc8KnYJ", 
+            "displayLink": "phxux.usatoday.com", 
+            "formattedUrl": "phxux.usatoday.com/topic/a7c31d5d-4113-49e9-9ed1.../pitbull/", 
+            "htmlFormattedUrl": "phxux.usatoday.com/topic/a7c31d5d-4113-49e9-9ed1.../<b>pitbull</b>/", 
+            "htmlSnippet": "... changed eating habits. Life; 4 days, 12 hours ago. Janna Farley. Entertainment<br>\n. Singer Beyonce and <b>rapper</b> Jay Z come to Sun Life Stadium June 25 in their \u201c&nbsp;...", 
+            "htmlTitle": "<b>Pitbull</b> - Latest World &amp; National News &amp; Headlines - USATODAY.com", 
+            "kind": "customsearch#result", 
+            "link": "http://phxux.usatoday.com/topic/a7c31d5d-4113-49e9-9ed1-e96295beb787/pitbull/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/5f045168bd03faa8e6acaf7156fbfa249b80ed58/c=0-0-650-367&r=x116&c=200x113/local/-/media/Phoenix/2014/06/09/d2e144cd7b05eb60d2d7f2d2fbd02c241f909cb3.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "90", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Wm5Ln1ya--4uXzfZHTIdsCzyF5pzkbvUl51KQG0UPgR3OWUtgEFVS20", 
+                        "width": "160"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "viewport": "width=1070"
+                    }
+                ]
+            }, 
+            "snippet": "... changed eating habits. Life; 4 days, 12 hours ago. Janna Farley. Entertainment\n. Singer Beyonce and rapper Jay Z come to Sun Life Stadium June 25 in their \u201c\u00a0...", 
+            "title": "Pitbull - Latest World & National News & Headlines - USATODAY.com"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 1, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Pitbull rapper", 
+                "sort": "date:r:20130201:20130321", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Pitbull rapper", 
+                "totalResults": "1"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "1", 
+        "searchTime": 0.25171, 
+        "totalResults": "1"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

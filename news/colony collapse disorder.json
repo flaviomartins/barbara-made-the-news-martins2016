@@ -1,0 +1,71 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "dCIt6vhcXZoJ", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/article/buzz-pa-honeybee-colony-getting-new-home", 
+            "htmlFormattedUrl": "bigstory.ap.org/article/buzz-pa-honeybee-<b>colony</b>-getting-new-home", 
+            "htmlSnippet": "Mar 1, 2013 <b>...</b> But with a mysterious affliction called colony <b>collapse disorder</b> decimating ... &quot;<br>\nColony <b>collapse disorder</b> has really increased awareness of the&nbsp;...", 
+            "htmlTitle": "Buzz off: Pa. honeybee <b>colony</b> getting new home", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/buzz-pa-honeybee-colony-getting-new-home", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://binaryapi.ap.org/c220c769a9db4542b34727806bda0465/460x.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPUhNDhbe5xbvJmv1ivYDX5P80v6KZF8w12pFX-DrSLA0iupSCLp0Gbv0", 
+                        "width": "262"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "DURYEA, Pa. (AP) \u2014 They say home is where the hive is. Or something like that.", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Buzz off: Pa. honeybee colony getting new home", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/buzz-pa-honeybee-colony-getting-new-home", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 1, 2013 ... But with a mysterious affliction called colony collapse disorder decimating ... \"\nColony collapse disorder has really increased awareness of the\u00a0...", 
+            "title": "Buzz off: Pa. honeybee colony getting new home"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 1, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:colony collapse disorder", 
+                "sort": "date:r:20130201:20130329", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:colony collapse disorder", 
+                "totalResults": "1"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.38", 
+        "formattedTotalResults": "1", 
+        "searchTime": 0.376854, 
+        "totalResults": "1"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

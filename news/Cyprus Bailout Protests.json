@@ -1,0 +1,588 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "wPnb4By1SLsJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21827160", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21827160", 
+            "htmlSnippet": "Mar 18, 2013 <b>...</b> Cyprus can amend the terms of a <b>bailout</b> deal that has sparked huge public <br>\nanger and led to heavy cash withdrawals, German and European&nbsp;...", 
+            "htmlTitle": "BBC News - <b>Cyprus</b> told it can amend <b>bailout</b>, as key vote postponed", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21827160", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66458000/jpg/_66458896_66458887.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCbYdV2q3M9f9re6LlMhaF5hWiBsgZi9i8wF9UGzqOB7vWYfQAspnL", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21827160", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-18T14:13:25+00:00", 
+                        "dcterms.modified": "2013-03-18T20:46:46+00:00", 
+                        "headline": "Bailout plans spark Cypriot protests", 
+                        "ifs_url": "/news/world-europe-21827160", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66458000/jpg/_66458896_66458887.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Bailout plans spark Cypriot protests", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21827160", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/world-europe-21827160A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/18 20:46:46", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66458000/jpg/_66458895_66458887.jpg", 
+                        "ukfs_url": "/news/world-europe-21827160", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 18, 2013 ... Cyprus can amend the terms of a bailout deal that has sparked huge public \nanger and led to heavy cash withdrawals, German and European\u00a0...", 
+            "title": "BBC News - Cyprus told it can amend bailout, as key vote postponed"
+        }, 
+        {
+            "cacheId": "O04UjGbt3W4J", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21842036", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21842036", 
+            "htmlSnippet": "Mar 19, 2013 <b>...</b> The Cypriot parliament may delay again today voting on a <b>bailout</b> deal that has <br>\nbrought <b>protesters</b> onto the streets. Bank shares in Europe have&nbsp;...", 
+            "htmlTitle": "BBC News - <b>Cyprus bailout</b>: Who messed up?", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21842036", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66473000/jpg/_66473752_img_2327.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIjhL2C1HOf66kRAqDzTLHSw8Rz7EhY5xafDS6Z-22MRp96MWYHJBstQ", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "CSP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21842036", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-19T09:08:18+00:00", 
+                        "dcterms.modified": "2013-03-19T11:05:29+00:00", 
+                        "headline": "Cyprus bailout: Who messed up?", 
+                        "ifs_url": "/news/world-europe-21842036", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66473000/jpg/_66473752_img_2327.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Cyprus bailout: Who messed up?", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21842036", 
+                        "originalpublicationdate": "2013/03/19 11:05:29", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66473000/jpg/_66473751_img_2327.jpg", 
+                        "ukfs_url": "/news/world-europe-21842036", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 19, 2013 ... The Cypriot parliament may delay again today voting on a bailout deal that has \nbrought protesters onto the streets. Bank shares in Europe have\u00a0...", 
+            "title": "BBC News - Cyprus bailout: Who messed up?"
+        }, 
+        {
+            "cacheId": "BBDudBfH4LcJ", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/article/eu-chief-try-get-last-minute-cyprus-deal", 
+            "htmlFormattedUrl": "bigstory.ap.org/article/eu-chief-try-get-last-minute-<b>cyprus</b>-deal", 
+            "htmlSnippet": "Mar 24, 2013 <b>...</b> In return for the <b>bailout</b>, Cyprus must drastically shrink its outsized ... Bank <br>\nemployees <b>protest</b> outside the ministry of finance on Saturday, March&nbsp;...", 
+            "htmlTitle": "<b>Cyprus</b> secures <b>bailout</b>, avoids bankruptcy", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/eu-chief-try-get-last-minute-cyprus-deal", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://binaryapi.ap.org/d631f1d404834cfd9d6f280cedd0d610/460x.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "183", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWW0CdnDomvH4i-8xLjAJftf0hnMi_tsiE8KZTKZsDFM_zT1kLRTtOw50", 
+                        "width": "275"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "BRUSSELS (AP) \u2014 Cyprus secured a 10 billion euro ($13 billion) package of rescue loans in tense, last-ditch negotiations early Monday, saving the c", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Cyprus secures bailout, avoids bankruptcy", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/eu-chief-try-get-last-minute-cyprus-deal", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 24, 2013 ... In return for the bailout, Cyprus must drastically shrink its outsized ... Bank \nemployees protest outside the ministry of finance on Saturday, March\u00a0...", 
+            "title": "Cyprus secures bailout, avoids bankruptcy"
+        }, 
+        {
+            "cacheId": "w3ZQ1Np1O6AJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/uk-politics-21832594", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/uk-politics-21832594", 
+            "htmlSnippet": "Mar 18, 2013 <b>...</b> Cyprus <b>bailout</b>: British pension payments delayed. Anti-<b>bailout</b> rally in Nicosia <br>\nMPs in Cyprus have faced <b>protests</b> against the <b>bailout</b> plan.", 
+            "htmlTitle": "BBC News - <b>Cyprus bailout</b>: British pension payments delayed", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/uk-politics-21832594", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66463000/jpg/_66463939_66463931.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2HesWf9e9bZMt4TvdIRArsuUx0CKNy-2ZEpbtvn4peGVGD8C_xu2Q", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21832594", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Politics", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-18T17:12:12+00:00", 
+                        "dcterms.modified": "2013-03-18T17:12:12+00:00", 
+                        "headline": "Pension payments to Cyprus 'on hold'", 
+                        "ifs_url": "/news/uk-politics-21832594", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66463000/jpg/_66463939_66463931.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Pension payments to Cyprus 'on hold'", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/uk-politics-21832594", 
+                        "originalpublicationdate": "2013/03/18 17:12:12", 
+                        "section": "Politics", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66463000/jpg/_66463938_66463931.jpg", 
+                        "ukfs_url": "/news/uk-politics-21832594", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 18, 2013 ... Cyprus bailout: British pension payments delayed. Anti-bailout rally in Nicosia \nMPs in Cyprus have faced protests against the bailout plan.", 
+            "title": "BBC News - Cyprus bailout: British pension payments delayed"
+        }, 
+        {
+            "cacheId": "6uSk7d0djVsJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-cyprus-parliament-idUSBRE92G03I20130322", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-<b>cyprus</b>-parliament-idUSBRE92G03I20130322", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> <b>Protesters</b> shout slogans during an anti-<b>bailout</b> rally by employees of Cyprus <br>\nPopular Bank outside the parliament in Nicosia March 22, 2013.", 
+            "htmlTitle": "<b>Cyprus</b> closes in on EU <b>bailout</b>, U-turn on levy | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/22/us-cyprus-parliament-idUSBRE92G03I20130322", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130322&t=2&i=715358042&w=130&fh=&fw=&ll=&pl=&r=CBRE92L0XMA00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "68", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdT3Uc35XHD_0-FM2yV5aGPHOVbKPAPv7FIo0rdn3nK8AHzmMJSRL9-Q", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "topNews;newsOne;businessNews;gc05;Retirement;JackDaniels;ford;Daimler;Deflation;Piracy;creditMarkets;rtsCiti;everything;treasuryMarkets;Schwab;Deals;MercedesBenz;Shell;Amtrak;Davos;Topnews1;yahoo2Dub;yahoo3;Sprintboard;echoActivityStream;ANZ;Suntrust_SmallBiz;AllianzRetirement;AllianzInvestments;HSBC_US;FedExSMB;MSDynamics;Goldman;everythingButHugin;SprintNow;AXAinsurance;OutloudFeed;chsenergy;chsfood;Allianz;JPMorgan;CFA;sapawarenesstech;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;newsproHome;verizonmm;audib2b;money-markets-rss;Pfizersafe;Davos2012;cfaglobal;merrilledge;ernstyoung;shipping;citianniversary;accenture;PrudentialInvestments;VanessaTest;lyxor;greenpeace;MLGZero;fedex_neg;MLedge;BNY;citgroup;GCA-NewsPro;Small Business(THD)", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "businessNews", 
+                        "dcsext.contentheadline": "Cyprus+closes+in+on+EU+bailout%2C+U-turn+on+levy", 
+                        "dcsext.contentid": "USBRE92G03I20130322", 
+                        "dcsext.contentid_businessnews": "USBRE92G03I20130322", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/businessnews/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130322&t=2&i=715358042&w=130&fh=&fw=&ll=&pl=&r=CBRE92L0XMA00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Cyprus closes in on EU bailout, U-turn on levy", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/22/us-cyprus-parliament-idUSBRE92G03I20130322", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Cyprus closes in on EU bailout, U-turn on levy\", \"link\": \"http://www.reuters.com/article/2013/03/22/us-cyprus-parliament-idUSBRE92G03I20130322\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130322&t=2&i=715358042&w=130&fh=&fw=&ll=&pl=&r=CBRE92L0XMA00\", \"post_id\": \"USBRE92G03I20130322\", \"pub_date\": \"2013-03-22T23:10:28+0000\", \"section\":\"businessNews\", \"author\": \"Michele Kambas\"}", 
+                        "revision_date": "Fri Mar 22 23:10:28 UTC 2013", 
+                        "wt.cg_n": "Finance - Business News", 
+                        "wt.cg_s": "businessNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... Protesters shout slogans during an anti-bailout rally by employees of Cyprus \nPopular Bank outside the parliament in Nicosia March 22, 2013.", 
+            "title": "Cyprus closes in on EU bailout, U-turn on levy | Reuters"
+        }, 
+        {
+            "cacheId": "UH_Kb76_cs8J", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/article/cyprus-lawmakers-work-economy-saving-plan", 
+            "htmlFormattedUrl": "bigstory.ap.org/article/<b>cyprus</b>-lawmakers-work-economy-saving-plan", 
+            "htmlSnippet": "Mar 22, 2013 <b>...</b> An employee of Laiki Bank cries during a <b>protest</b> outside the Cypriot parliament <br>\nin Nicosia, Cyprus, Thursday, March 21, 2013. Cypriot officials&nbsp;...", 
+            "htmlTitle": "<b>Cyprus</b> lawmakers approve key bills for <b>bailout</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/cyprus-lawmakers-work-economy-saving-plan", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://binaryapi.ap.org/4e7d2b4c224842a09d88f1fcad67242d/460x.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "183", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8f-STxOt5E_DkmePbNqDTwV1lBskN5yQfOODoExDFtzTfs08VDbjvDIQ", 
+                        "width": "275"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "NICOSIA, Cyprus (AP) \u2014 Lawmakers in Cyprus approved three key bills Friday that aim to raise enough money to qualify the country for a broader bail", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Cyprus lawmakers approve key bills for bailout", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/cyprus-lawmakers-work-economy-saving-plan", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 22, 2013 ... An employee of Laiki Bank cries during a protest outside the Cypriot parliament \nin Nicosia, Cyprus, Thursday, March 21, 2013. Cypriot officials\u00a0...", 
+            "title": "Cyprus lawmakers approve key bills for bailout"
+        }, 
+        {
+            "cacheId": "4QtpkiZ-H3MJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/money/.../03/.../cyprus...bailout.../2007479/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/money/.../03/.../<b>cyprus</b>...<b>bailout</b>.../2007479/", 
+            "htmlSnippet": "Mar 21, 2013 <b>...</b> Laiki bank employees <b>protested</b> and scuffled with riot police outside ... that the <br>\neurozone partners would accept, clearing the way for the <b>bailout</b>.", 
+            "htmlTitle": "<b>Cyprus</b> rushes <b>bailout</b> plan, bank lines grow", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/money/business/2013/03/21/cyprus-rushes-bailout-plan/2007479/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/WiresImages/2013/03/21/c1c4d483abd2ca092c0f6a706700fb56-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjo0uFF65cYM81I4QLN3E0avrl37f6C6IxrgxmZhOjIpBsJJbkPcTkck", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "cyprusplanb", 
+                        "url": "http://www.gannett-cdn.com/-mm-/ac1394dbdcca6a36cbf486633b129cd813095ac3/r=x404&c=534x401/local/-/media/USATODAY/WiresImages/2013/03/21/c1c4d483abd2ca092c0f6a706700fb56-4_3.jpg"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "news_keywords": "cyprus, banks, collapse, russia, deposits, eurozone, imf, europe,", 
+                        "og:description": "NICOSIA, Cyprus (AP) \u2014 Cypriot politicians moved Thursday to restructure the country's most troubled bank as part of a broader bailout plan that must be in place by Monday to avoid financial ruin. Concerned", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/WiresImages/2013/03/21/c1c4d483abd2ca092c0f6a706700fb56-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "Cyprus rushes bailout plan, bank lines grow", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/money/business/2013/03/21/cyprus-rushes-bailout-plan/2007479/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "Employees of Laiki bank take part in a protest outside Cypriot parliament, Nicosia, March 21, 2013.(Photo: Petros Giannakouris, AP)Story HighlightsCyprus must raise $7.5 billion by March 25...", 
+                        "articlesection": "money,business", 
+                        "datemodified": "2013-03-21T18:54:15.0000000", 
+                        "datepublished": "2013-03-21T18:54:15.0000000", 
+                        "description": "NICOSIA, Cyprus (AP) \u2014 Cypriot politicians moved Thursday to restructure the country's most troubled bank as part of a broader bailout plan that must be in place by Monday to avoid financial...", 
+                        "headline": "Cyprus rushes bailout plan, bank lines grow", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/WiresImages/2013/03/21/c1c4d483abd2ca092c0f6a706700fb56-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/WiresImages/2013/03/21/c1c4d483abd2ca092c0f6a706700fb56-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "AP"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 21, 2013 ... Laiki bank employees protested and scuffled with riot police outside ... that the \neurozone partners would accept, clearing the way for the bailout.", 
+            "title": "Cyprus rushes bailout plan, bank lines grow"
+        }, 
+        {
+            "cacheId": "ga2nQLviz0AJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21832187", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21832187", 
+            "htmlSnippet": "Mar 18, 2013 <b>...</b> <b>Protesters</b> in Cyprus have held up banners blaming Germany for the <br>\ncontroversial <b>bailout</b> deal, but Germany says it always favoured protecting&nbsp;...", 
+            "htmlTitle": "BBC News - <b>Cyprus</b> told it can amend <b>bailout</b>, as key vote postponed", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21832187", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66455000/jpg/_66455338_9klqjj33.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCBNkWjnkUwRjhWtm6h-RBAGDRjVBlg6-40l381ubzXp_Ah5CzPfmOQ", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21832187", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-18T14:04:54+00:00", 
+                        "dcterms.modified": "2013-03-18T21:15:19+00:00", 
+                        "headline": "Cyprus 'can amend bailout terms'", 
+                        "ifs_url": "/news/world-europe-21832187", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66455000/jpg/_66455338_9klqjj33.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Cyprus 'can amend bailout terms'", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21832187", 
+                        "originalpublicationdate": "2013/03/18 21:15:19", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66455000/jpg/_66455337_9klqjj33.jpg", 
+                        "ukfs_url": "/news/world-europe-21832187", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 18, 2013 ... Protesters in Cyprus have held up banners blaming Germany for the \ncontroversial bailout deal, but Germany says it always favoured protecting\u00a0...", 
+            "title": "BBC News - Cyprus told it can amend bailout, as key vote postponed"
+        }, 
+        {
+            "cacheId": "Pd0BLw24OI8J", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21854353", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21854353", 
+            "htmlSnippet": "Mar 20, 2013 <b>...</b> Anti-<b>bailout protesters</b> raise their open palms showing the word &quot;No&quot; after Cyprus <br>\nThe proposed levy had caused an outcry among many&nbsp;...", 
+            "htmlTitle": "BBC News - <b>Cyprus</b> warned over parliament&#39;s <b>bailout</b> rejection", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21854353", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66493000/jpg/_66493824_66493652.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2E97OQiseqfpS8PlJhmerpLcep5AxRAFYjsRyf5XgLZZhylfHrRXw", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21854353", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-20T03:26:29+00:00", 
+                        "dcterms.modified": "2013-03-20T03:26:29+00:00", 
+                        "headline": "Cyprus warned over bailout rejection", 
+                        "ifs_url": "/news/world-europe-21854353", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66493000/jpg/_66493824_66493652.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Cyprus warned over bailout rejection", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21854353", 
+                        "originalpublicationdate": "2013/03/20 03:26:29", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66493000/jpg/_66493661_66493652.jpg", 
+                        "ukfs_url": "/news/world-europe-21854353", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 20, 2013 ... Anti-bailout protesters raise their open palms showing the word \"No\" after Cyprus \nThe proposed levy had caused an outcry among many\u00a0...", 
+            "title": "BBC News - Cyprus warned over parliament's bailout rejection"
+        }, 
+        {
+            "cacheId": "Cj87kTlVRGwJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-cyprus-parliament-idUSBRE92G03I20130326", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-<b>cyprus</b>-parliament-idUSBRE92G03I20130326", 
+            "htmlSnippet": "Mar 26, 2013 <b>...</b> Cypriots have taken to the streets of Nicosia in their thousands to <b>protest</b> at a <br>\n<b>bailout</b> deal that they fear will push their country into an economic&nbsp;...", 
+            "htmlTitle": "<b>Cyprus</b> readies capital controls to avert bank run | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/26/us-cyprus-parliament-idUSBRE92G03I20130326", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130326&t=2&i=716442667&w=130&fh=&fw=&ll=&pl=&r=CBRE92P127W00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "68", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMXYTkG5VZ0YqsAWVPUsUIsbZQVEME0E78ODBhvNqHtjYXF9bCKK9X2A", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "topNews;newsOne;businessNews;gc05;ford;Piracy;SAP;rtsCiti;everything;treasuryMarkets;Deals;forexNewsCopy;MercedesBenz;Shell;Amtrak;Davos;Amtrak2;Topnews1;yahoo2Dub;yahoo3;Sprintboard;Pfizer;echoActivityStream;ANZ;Suntrust_SmallBiz;AllianzRetirement;AllianzInvestments;HSBC_US;FedExSMB;Hyundai;Goldman;everythingButHugin;SprintNow;OutloudFeed;chsenergy;JPMorgan;CFA;trending-hp;MastercardTravel;sprintxpert2;samsung;newsproHome;audib2b;money-markets-rss;Pfizersafe;cfaglobal;merrilledge;aa48hours;ernstyoung;Xerox;shipping;citianniversary;PrudentialInvestments;VanessaTest;lyxor;MLGZero;fedex_neg;MLedge;BNY;citgroup;GCA-NewsPro;Small Business(THD)", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "businessNews", 
+                        "dcsext.contentheadline": "Cyprus+readies+capital+controls+to+avert+bank+run", 
+                        "dcsext.contentid": "USBRE92G03I20130326", 
+                        "dcsext.contentid_businessnews": "USBRE92G03I20130326", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/businessnews/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130326&t=2&i=716442667&w=130&fh=&fw=&ll=&pl=&r=CBRE92P127W00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Cyprus readies capital controls to avert bank run", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/26/us-cyprus-parliament-idUSBRE92G03I20130326", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Cyprus readies capital controls to avert bank run\", \"link\": \"http://www.reuters.com/article/2013/03/26/us-cyprus-parliament-idUSBRE92G03I20130326\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130326&t=2&i=716442667&w=130&fh=&fw=&ll=&pl=&r=CBRE92P127W00\", \"post_id\": \"USBRE92G03I20130326\", \"pub_date\": \"2013-03-26T22:50:20+0000\", \"section\":\"businessNews\", \"author\": \"Michele Kambas\"}", 
+                        "revision_date": "Tue Mar 26 22:50:20 UTC 2013", 
+                        "wt.cg_n": "Finance - Business News", 
+                        "wt.cg_s": "businessNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 26, 2013 ... Cypriots have taken to the streets of Nicosia in their thousands to protest at a \nbailout deal that they fear will push their country into an economic\u00a0...", 
+            "title": "Cyprus readies capital controls to avert bank run | Reuters"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Cyprus Bailout Protests", 
+                "sort": "date:r:20130201:20130331", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - intitle:Cyprus Bailout Protests", 
+                "totalResults": "287"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Cyprus Bailout Protests", 
+                "sort": "date:r:20130201:20130331", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Cyprus Bailout Protests", 
+                "totalResults": "287"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "287", 
+        "searchTime": 0.252812, 
+        "totalResults": "287"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

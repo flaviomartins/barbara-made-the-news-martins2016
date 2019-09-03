@@ -1,0 +1,1332 @@
+{
+  "queries": [
+    {
+      "text": "water shortages", 
+      "title": "MB111", 
+      "epoch": "1.364583362E9", 
+      "querytweettime": "317711766815653888", 
+      "wikititle": "Water scarcity", 
+      "model": [
+        {
+          "feature": "water", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "shortages", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Florida Derby 2013", 
+      "title": "MB112", 
+      "epoch": "1.364660489E9", 
+      "querytweettime": "318035260900265985", 
+      "wikititle": "Florida Derby", 
+      "model": [
+        {
+          "feature": "Florida", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Derby", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "2013", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Kal Penn", 
+      "title": "MB113", 
+      "epoch": "1.364711353E9", 
+      "querytweettime": "318263699460747265", 
+      "wikititle": "Kal Penn", 
+      "model": [
+        {
+          "feature": "Kal", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Penn", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "title": "MB114", 
+      "text": "Detroit EFM Undemocratic", 
+      "epoch": "1.364317776E9", 
+      "querytweettime": "316597818372538369", 
+      "wikititle": "Detroit", 
+      "model": [
+        {
+          "feature": "Detroit", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "EFM", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Undemocratic", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "memories of Mr. Rogers", 
+      "title": "MB115", 
+      "epoch": "1.364621401E9", 
+      "querytweettime": "317871313932935168", 
+      "wikititle": "Fred Rogers", 
+      "model": [
+        {
+          "feature": "memories", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "of", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Mr.", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Rogers", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Chinese Computer Attacks", 
+      "title": "MB116", 
+      "epoch": "1.362105172E9", 
+      "querytweettime": "307317484577497090", 
+      "wikititle": "China", 
+      "model": [
+        {
+          "feature": "Chinese", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Computer", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Attacks", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "marshmallow Peeps dioramas", 
+      "title": "MB117", 
+      "epoch": "1.364455175E9", 
+      "querytweettime": "317174111543648256", 
+      "wikititle": "Peeps", 
+      "model": [
+        {
+          "feature": "marshmallow", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Peeps", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "dioramas", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Israel and Turkey reconcile", 
+      "title": "MB118", 
+      "epoch": "1.364240788E9", 
+      "querytweettime": "316274907300392960", 
+      "wikititle": "Israel", 
+      "model": [
+        {
+          "feature": "Israel", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "and", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Turkey", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "reconcile", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "colony collapse disorder", 
+      "title": "MB119", 
+      "epoch": "1.364598122E9", 
+      "querytweettime": "317773674709131265", 
+      "wikititle": "Colony collapse disorder", 
+      "model": [
+        {
+          "feature": "colony", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "collapse", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "disorder", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Argentina's Inflation", 
+      "title": "MB120", 
+      "epoch": "1.363707468E9", 
+      "querytweettime": "314038001112076290", 
+      "wikititle": "Argentina", 
+      "model": [
+        {
+          "feature": "Argentina's", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Inflation", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Future of MOOCs", 
+      "title": "MB121", 
+      "epoch": "1.364394518E9", 
+      "querytweettime": "316919697658503169", 
+      "wikititle": "Massive open online course", 
+      "model": [
+        {
+          "feature": "Future", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "of", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "MOOCs", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "unsuccessful kickstarter applicants", 
+      "title": "MB122", 
+      "epoch": "1.364578065E9", 
+      "querytweettime": "317689549570596865", 
+      "wikititle": "Kickstarter", 
+      "model": [
+        {
+          "feature": "unsuccessful", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "kickstarter", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "applicants", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "solar flare", 
+      "title": "MB123", 
+      "epoch": "1.364366329E9", 
+      "querytweettime": "316801464427229185", 
+      "wikititle": "Solar flare", 
+      "model": [
+        {
+          "feature": "solar", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "flare", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "title": "MB124", 
+      "text": "celebrity DUI", 
+      "epoch": "1.364625951E9", 
+      "querytweettime": "317890398028701696", 
+      "wikititle": "", 
+      "model": [
+        {
+          "feature": "celebrity", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "DUI", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Oscars snub Affleck", 
+      "title": "MB125", 
+      "epoch": "1.362383772E9", 
+      "querytweettime": "308486017655136256", 
+      "wikititle": "85th Academy Awards", 
+      "model": [
+        {
+          "feature": "Oscars", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "snub", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Affleck", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Pitbull rapper", 
+      "title": "MB126", 
+      "epoch": "1.363861257E9", 
+      "querytweettime": "314683038921523200", 
+      "wikititle": "Pitbull (rapper)", 
+      "model": [
+        {
+          "feature": "Pitbull", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "rapper", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Hagel nomination filibustered", 
+      "title": "MB127", 
+      "epoch": "1.362445722E9", 
+      "querytweettime": "308745854808883200", 
+      "wikititle": "Chuck Hagel", 
+      "model": [
+        {
+          "feature": "Hagel", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "nomination", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "filibustered", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "title": "MB128", 
+      "text": "Buying clothes online", 
+      "epoch": "1.364682357E9", 
+      "querytweettime": "318126981940121600", 
+      "wikititle": "", 
+      "model": [
+        {
+          "feature": "Buying", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "clothes", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "online", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Angry Birds cartoon", 
+      "title": "MB129", 
+      "epoch": "1.364615053E9", 
+      "querytweettime": "317844688482754560", 
+      "wikititle": "Angry Birds", 
+      "model": [
+        {
+          "feature": "Angry", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Birds", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "cartoon", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Lawyer jokes", 
+      "title": "MB130", 
+      "epoch": "1.363986572E9", 
+      "querytweettime": "315208648123101184", 
+      "wikititle": "Lawyer", 
+      "model": [
+        {
+          "feature": "Lawyer", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "jokes", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "trash the dress", 
+      "title": "MB131", 
+      "epoch": "1.364355907E9", 
+      "querytweettime": "316757751386759168", 
+      "wikititle": "Trash the dress", 
+      "model": [
+        {
+          "feature": "trash", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "the", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "dress", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "asteroid hits Russia", 
+      "title": "MB132", 
+      "epoch": "1.361323640E9", 
+      "querytweettime": "304039501779574785", 
+      "wikititle": "Asteroid", 
+      "model": [
+        {
+          "feature": "asteroid", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "hits", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Russia", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "cruise ship safety", 
+      "title": "MB133", 
+      "epoch": "1.363379677E9", 
+      "querytweettime": "312663145997033474", 
+      "wikititle": "Cruise ship", 
+      "model": [
+        {
+          "feature": "cruise", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "ship", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "safety", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "The Middle TV show", 
+      "title": "MB134", 
+      "epoch": "1.364429790E9", 
+      "querytweettime": "317067639165964288", 
+      "wikititle": "The Middle (TV series)", 
+      "model": [
+        {
+          "feature": "The", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Middle", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "TV", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "show", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Big Dog terminator robot", 
+      "title": "MB135", 
+      "epoch": "1.364602694E9", 
+      "querytweettime": "317792851100590080", 
+      "wikititle": "BigDog", 
+      "model": [
+        {
+          "feature": "Big", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Dog", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "terminator", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "robot", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Gone Girl reviews", 
+      "title": "MB136", 
+      "epoch": "1.364692870E9", 
+      "querytweettime": "318171076645502976", 
+      "wikititle": "Gone Girl (novel)", 
+      "model": [
+        {
+          "feature": "Gone", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Girl", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "reviews", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "cause of the Super Bowl blackout", 
+      "title": "MB137", 
+      "epoch": "1.360082738E9", 
+      "querytweettime": "298834781561581569", 
+      "wikititle": "Super Bowl XLVII", 
+      "model": [
+        {
+          "feature": "cause", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "of", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "the", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Super", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Bowl", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "blackout", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "New York City soda ban blocked", 
+      "title": "MB138", 
+      "epoch": "1.363256418E9", 
+      "querytweettime": "312146160284471296", 
+      "wikititle": "New York City", 
+      "model": [
+        {
+          "feature": "New", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "York", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "City", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "soda", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "ban", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "blocked", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Artists Against Fracking", 
+      "title": "MB139", 
+      "epoch": "1.364129947E9", 
+      "querytweettime": "315810006450724866", 
+      "wikititle": "Hydraulic fracturing", 
+      "model": [
+        {
+          "feature": "Artists", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Against", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Fracking", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Richard III burial dispute", 
+      "title": "MB140", 
+      "epoch": "1.364394043E9", 
+      "querytweettime": "316917705368293376", 
+      "wikititle": "Richard III of England", 
+      "model": [
+        {
+          "feature": "Richard", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "III", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "burial", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "dispute", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Mila Kunis in Oz movie", 
+      "title": "MB141", 
+      "epoch": "1.364612761E9", 
+      "querytweettime": "317835075158941697", 
+      "wikititle": "Oz the Great and Powerful", 
+      "model": [
+        {
+          "feature": "Mila", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Kunis", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "in", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Oz", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "movie", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Iranian weapons to Syria", 
+      "title": "MB142", 
+      "epoch": "1.364158020E9", 
+      "querytweettime": "315927753138511872", 
+      "wikititle": "Syria", 
+      "model": [
+        {
+          "feature": "Iranian", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "weapons", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "to", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Syria", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Maracana Stadium problems", 
+      "title": "MB143", 
+      "epoch": "1.364656736E9", 
+      "querytweettime": "318019519664758785", 
+      "wikititle": "Maracan\u00e3 Stadium", 
+      "model": [
+        {
+          "feature": "Maracana", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Stadium", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "problems", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Downton Abbey actor turnover", 
+      "title": "MB144", 
+      "epoch": "1.362608003E9", 
+      "querytweettime": "309426510643748866", 
+      "wikititle": "Downton Abbey", 
+      "model": [
+        {
+          "feature": "Downton", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Abbey", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "actor", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "turnover", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "National Parks sequestered", 
+      "title": "MB145", 
+      "epoch": "1.363902468E9", 
+      "querytweettime": "314855890383687681", 
+      "wikititle": "National park", 
+      "model": [
+        {
+          "feature": "National", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Parks", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "sequestered", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "GMO labeling", 
+      "title": "MB146", 
+      "epoch": "1.364183749E9", 
+      "querytweettime": "316035668402909185", 
+      "wikititle": "Genetically modified organism", 
+      "model": [
+        {
+          "feature": "GMO", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "labeling", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Victoria's Secret commercial", 
+      "title": "MB147", 
+      "epoch": "1.364732042E9", 
+      "querytweettime": "318350475424567296", 
+      "wikititle": "Victoria's Secret", 
+      "model": [
+        {
+          "feature": "Victoria's", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Secret", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "commercial", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Cyprus Bailout Protests", 
+      "title": "MB148", 
+      "epoch": "1.364749848E9", 
+      "querytweettime": "318425159210004480", 
+      "wikititle": "Cyprus", 
+      "model": [
+        {
+          "feature": "Cyprus", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Bailout", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Protests", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "making football safer", 
+      "title": "MB149", 
+      "epoch": "1.363785737E9", 
+      "querytweettime": "314366285070864385", 
+      "wikititle": "Football", 
+      "model": [
+        {
+          "feature": "making", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "football", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "safer", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "UK wine industry", 
+      "title": "MB150", 
+      "epoch": "1.364739109E9", 
+      "querytweettime": "318380116566749184", 
+      "wikititle": "Wine from the United Kingdom", 
+      "model": [
+        {
+          "feature": "UK", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "wine", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "industry", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "gun advocates are corrupt", 
+      "title": "MB151", 
+      "epoch": "1.361410550E9", 
+      "querytweettime": "304404028731846657", 
+      "wikititle": "National Rifle Association", 
+      "model": [
+        {
+          "feature": "gun", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "advocates", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "are", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "corrupt", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Iceland FBI Wikileaks", 
+      "title": "MB152", 
+      "epoch": "1.362646821E9", 
+      "querytweettime": "309589325128028160", 
+      "wikititle": "WikiLeaks", 
+      "model": [
+        {
+          "feature": "Iceland", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "FBI", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Wikileaks", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "lighter bail for Pistorius", 
+      "title": "MB153", 
+      "epoch": "1.364468122E9", 
+      "querytweettime": "317228415197519872", 
+      "wikititle": "Oscar Pistorius", 
+      "model": [
+        {
+          "feature": "lighter", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "bail", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "for", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Pistorius", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "anti-aging resveratrol", 
+      "title": "MB154", 
+      "epoch": "1.362763742E9", 
+      "querytweettime": "310079727366967297", 
+      "wikititle": "Resveratrol", 
+      "model": [
+        {
+          "feature": "anti-aging", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "resveratrol", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Obama reaction to Syrian chemical weapons", 
+      "title": "MB155", 
+      "epoch": "1.363814624E9", 
+      "querytweettime": "314487445926334464", 
+      "wikititle": "Syrian Civil War", 
+      "model": [
+        {
+          "feature": "Obama", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "reaction", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "to", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Syrian", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "chemical", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "weapons", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Bush's dog dies", 
+      "title": "MB156", 
+      "epoch": "1.360286405E9", 
+      "querytweettime": "299689022853365760", 
+      "wikititle": "Barney (dog)", 
+      "model": [
+        {
+          "feature": "Bush's", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "dog", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "dies", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Kardashian maternity style", 
+      "title": "MB157", 
+      "epoch": "1.364694426E9", 
+      "querytweettime": "318177602995122176", 
+      "wikititle": "Kim Kardashian", 
+      "model": [
+        {
+          "feature": "Kardashian", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "maternity", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "style", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "hush puppies meal", 
+      "title": "MB158", 
+      "epoch": "1.364087509E9", 
+      "querytweettime": "315632008560775168", 
+      "wikititle": "Hushpuppy", 
+      "model": [
+        {
+          "feature": "hush", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "puppies", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "meal", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "circular economy initiatives", 
+      "title": "MB159", 
+      "epoch": "1.364118956E9", 
+      "querytweettime": "315763906851250176", 
+      "wikititle": "Circular economy", 
+      "model": [
+        {
+          "feature": "circular", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "economy", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "initiatives", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "social media as educational tool", 
+      "title": "MB160", 
+      "epoch": "1.364354055E9", 
+      "querytweettime": "316749983514771457", 
+      "wikititle": "Social media", 
+      "model": [
+        {
+          "feature": "social", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "media", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "as", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "educational", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "tool", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "3D printing for science", 
+      "title": "MB161", 
+      "epoch": "1.363113512E9", 
+      "querytweettime": "311546769064464384", 
+      "wikititle": "3D printing", 
+      "model": [
+        {
+          "feature": "3D", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "printing", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "for", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "science", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "DPRK Nuclear Test", 
+      "title": "MB162", 
+      "epoch": "1.362701869E9", 
+      "querytweettime": "309820213183008768", 
+      "wikititle": "Nuclear weapons testing", 
+      "model": [
+        {
+          "feature": "DPRK", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Nuclear", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Test", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "virtual currencies regulation", 
+      "title": "MB163", 
+      "epoch": "1.364604366E9", 
+      "querytweettime": "317889374605950976", 
+      "wikititle": "Digital currency", 
+      "model": [
+        {
+          "feature": "virtual", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "currencies", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "regulation", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Lindsey Vonn sidelined", 
+      "title": "MB164", 
+      "epoch": "1.364687337E9", 
+      "querytweettime": "318147869565652992", 
+      "wikititle": "Lindsey Vonn", 
+      "model": [
+        {
+          "feature": "Lindsey", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Vonn", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "sidelined", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "ACPT Crossword Tournament", 
+      "title": "MB165", 
+      "epoch": "1.363297783E9", 
+      "querytweettime": "312319657644285952", 
+      "wikititle": "American Crossword Puzzle Tournament", 
+      "model": [
+        {
+          "feature": "ACPT", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Crossword", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Tournament", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Maryland casino table games", 
+      "title": "MB166", 
+      "epoch": "1.364128795E9", 
+      "querytweettime": "315805174633492481", 
+      "wikititle": "List of casinos in Maryland", 
+      "model": [
+        {
+          "feature": "Maryland", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "casino", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "table", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "games", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "title": "MB167", 
+      "text": "sequestration opinions", 
+      "epoch": "1.364230131E9", 
+      "querytweettime": "316230208585871361", 
+      "wikititle": "", 
+      "model": [
+        {
+          "feature": "sequestration", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "opinions", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "US behind Chaevez cancer", 
+      "title": "MB168", 
+      "epoch": "1.363543905E9", 
+      "querytweettime": "313351968166928385", 
+      "wikititle": "Hugo Ch\u00e1vez", 
+      "model": [
+        {
+          "feature": "US", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "behind", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Chaevez", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "cancer", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Honey Boo Boo Girl Scout cookies", 
+      "title": "MB169", 
+      "epoch": "1.362890952E9", 
+      "querytweettime": "310613284749447168", 
+      "wikititle": "Here Comes Honey Boo Boo", 
+      "model": [
+        {
+          "feature": "Honey", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Boo", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Boo", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Girl", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Scout", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "cookies", 
+          "weight": 1.0
+        }
+      ]
+    }, 
+    {
+      "text": "Tony Mendez", 
+      "title": "MB170", 
+      "epoch": "1.364735572E9", 
+      "querytweettime": "318365281321881600", 
+      "wikititle": "Tony Mendez", 
+      "model": [
+        {
+          "feature": "Tony", 
+          "weight": 1.0
+        }, 
+        {
+          "feature": "Mendez", 
+          "weight": 1.0
+        }
+      ]
+    }
+  ]
+}

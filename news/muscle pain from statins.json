@@ -1,0 +1,110 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "tmrven4t21QJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-niacin-statin-idUSBRE91Q18620130227", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-niacin-<b>statin</b>-idUSBRE91Q18620130227", 
+            "htmlSnippet": "Feb 27, 2013 <b>...</b> Niacin-<b>statin</b> combo tied to skin, muscle side effects ... muscle <b>problems</b> were all <br>\ncommon among those taking the niacin-<b>statin</b> combination.", 
+            "htmlTitle": "Niacin-<b>statin</b> combo tied to skin, <b>muscle</b> side effects | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/27/us-niacin-statin-idUSBRE91Q18620130227", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "healthNews;attInternational;ford;Inspiration;SAP;creditMarkets;everything;treasuryMarkets;Continental;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;AllianzInvestments;HSBC_US;TDAmeritrade;FedExSMB;Goldman;everythingButHugin;AXAinsurance;OutloudFeed;UPS;Allianz;JPMorgan;sapawareness;CFA;sapawarenesstech;sapawarenesslife;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;marine;cfaglobal;merrilledge;aa48hours;ernstyoung;shipping;citianniversary;accenture;PrudentialInvestments;VanessaTest;MLGZero;fedex_neg;MLedge;BNY;citgroup", 
+                        "dcsext.contentchannel": "healthNews", 
+                        "dcsext.contentheadline": "Niacin-statin+combo+tied+to+skin%2C+muscle+side+effects", 
+                        "dcsext.contentid": "USBRE91Q18620130227", 
+                        "dcsext.contentid_healthnews": "USBRE91Q18620130227", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/health/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Niacin-statin combo tied to skin, muscle side effects", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/27/us-niacin-statin-idUSBRE91Q18620130227", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Niacin-statin combo tied to skin, muscle side effects\", \"link\": \"http://www.reuters.com/article/2013/02/27/us-niacin-statin-idUSBRE91Q18620130227\", \"image_url\": \"\", \"post_id\": \"USBRE91Q18620130227\", \"pub_date\": \"2013-02-27T21:19:13+0000\", \"section\":\"healthNews\", \"author\": \"Genevra Pittman\"}", 
+                        "revision_date": "Wed Feb 27 21:19:13 UTC 2013", 
+                        "wt.cg_n": "News - Health", 
+                        "wt.cg_s": "healthNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 27, 2013 ... Niacin-statin combo tied to skin, muscle side effects ... muscle problems were all \ncommon among those taking the niacin-statin combination.", 
+            "title": "Niacin-statin combo tied to skin, muscle side effects | Reuters"
+        }, 
+        {
+            "cacheId": "UNHxKSVo5NkJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../merck-cholesterol-idUSL1N0BREGB20130227", 
+            "htmlFormattedUrl": "www.reuters.com/.../merck-cholesterol-idUSL1N0BREGB20130227", 
+            "htmlSnippet": "Feb 27, 2013 <b>...</b> One group in the study received Tredaptive along with a <b>statin</b>, a standard ... <br>\nincluding itchy skin and rashes or stomach or muscle <b>problems</b>.", 
+            "htmlTitle": "Niacin-<b>statin</b> combination tied to skin, <b>muscle</b> side effects | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/27/merck-cholesterol-idUSL1N0BREGB20130227", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "companyNews;marketsNews;rbssHealthcareNews;rbssPharmaceuticals - Generic & Specialty;forexNews;attInternational;ford;Inspiration;creditMarkets;everything;treasuryMarkets;Continental;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;ANZ;Boston;AllianzInvestments;HSBC_US;TDAmeritrade;FedExSMB;Goldman;everythingButHugin;msnMoneyFeed;AXAinsurance;OutloudFeed;UPS;Allianz;JPMorgan;sapawareness;CFA;sapawarenesstech;sapawarenesslife;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;audib2b;marine;cfaglobal;merrilledge;aa48hours;ernstyoung;shipping;citianniversary;accenture;PrudentialInvestments;VanessaTest;MLGZero;fedex_neg;MLedge;BNY;citgroup;healthcareSector", 
+                        "dcsext.contentchannel": "marketsNews", 
+                        "dcsext.contentheadline": "Niacin-statin+combination+tied+to+skin%2C+muscle+side+effects", 
+                        "dcsext.contentid": "USL1N0BREGB20130227", 
+                        "dcsext.contentid_marketsnews": "USL1N0BREGB20130227", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/markets/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Niacin-statin combination tied to skin, muscle side effects", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/27/merck-cholesterol-idUSL1N0BREGB20130227", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Niacin-statin combination tied to skin, muscle side effects\", \"link\": \"http://www.reuters.com/article/2013/02/27/merck-cholesterol-idUSL1N0BREGB20130227\", \"image_url\": \"\", \"post_id\": \"USL1N0BREGB20130227\", \"pub_date\": \"2013-02-27T23:44:37+0000\", \"section\":\"marketsNews\", \"author\": \"Genevra and Pittman\"}", 
+                        "revision_date": "Wed Feb 27 23:44:37 UTC 2013", 
+                        "wt.cg_n": "Finance - Markets", 
+                        "wt.cg_s": "marketsNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 27, 2013 ... One group in the study received Tredaptive along with a statin, a standard ... \nincluding itchy skin and rashes or stomach or muscle problems.", 
+            "title": "Niacin-statin combination tied to skin, muscle side effects | Reuters"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 2, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:muscle pain from statins", 
+                "sort": "date:r:20130201:20130323", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:muscle pain from statins", 
+                "totalResults": "2"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "2", 
+        "searchTime": 0.190177, 
+        "totalResults": "2"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

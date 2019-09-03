@@ -1,0 +1,405 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "kGI7eEECNdYJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/news/nation/2013/...diabetes/1962909/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/news/nation/2013/...<b>diabetes</b>/1962909/", 
+            "htmlSnippet": "Mar 9, 2013 <b>...</b> <b>Two</b> experts talk about <b>research</b> linking sugar availability, type <b>2 diabetes</b> ... A <br>\nrecent <b>study</b> looked at sugar and type <b>2 diabetes</b> rates in 175&nbsp;...", 
+            "htmlTitle": "<b>Study</b>: Sugar availability linked to <b>type 2 diabetes</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/news/nation/2013/03/09/sugar-causes-diabetes/1962909/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/06/gty-159932799-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9bFruVizzjcIUvHpdcwvz6Osw853ZRRjrVoVVmCzZakOyw8rGBj33LpA", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "Soda", 
+                        "url": "http://www.gannett-cdn.com/-mm-/ac1394dbdcca6a36cbf486633b129cd813095ac3/r=x404&c=534x401/local/-/media/USATODAY/USATODAY/2013/03/06/gty-159932799-4_3.jpg"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "og:description": "New study doesn't prove cause and effect but raises questions about sugar's role in diabetes.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/06/gty-159932799-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "Study: Sugar availability linked to type 2 diabetes", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/news/nation/2013/03/09/sugar-causes-diabetes/1962909/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "New study doesn't prove cause and effect but raises questions about sugar's role in diabetes.A new study raises concerns about the availability of products with sugar, such as soda.(Photo:...", 
+                        "articlesection": "news,nation", 
+                        "datemodified": "2013-03-09T08:30:00.0000000", 
+                        "datepublished": "2013-03-09T08:30:00.0000000", 
+                        "description": "New study doesn't prove cause and effect but raises questions about sugar's role in diabetes.", 
+                        "headline": "Study: Sugar availability linked to type 2 diabetes", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/USATODAY/2013/03/06/gty-159932799-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/USATODAY/2013/03/06/gty-159932799-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "Nanci Hellmich, USA TODAY"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 9, 2013 ... Two experts talk about research linking sugar availability, type 2 diabetes ... A \nrecent study looked at sugar and type 2 diabetes rates in 175\u00a0...", 
+            "title": "Study: Sugar availability linked to type 2 diabetes"
+        }, 
+        {
+            "cacheId": "uOPFyKDsSUAJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/uk-wales-21319226", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/uk-wales-21319226", 
+            "htmlSnippet": "Feb 4, 2013 <b>...</b> Patients with type <b>2 diabetes</b> treated with insulin could be exposed to a greater <br>\nrisk of complications, a Cardiff University <b>study</b> has found.", 
+            "htmlTitle": "BBC News - <b>Type 2 diabetes</b>: Insulin greater risk, finds Cardiff <b>study</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/uk-wales-21319226", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65687000/jpg/_65687400_finger464.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_MGx6iR4R3k4lPXheTR0jP9O8EVM1pRkI-kQk94Mj0YvZUckN-L2S", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21319226", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Wales", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-04T12:38:52+00:00", 
+                        "dcterms.modified": "2013-02-04T12:38:52+00:00", 
+                        "headline": "Study finds diabetes insulin risk", 
+                        "ifs_url": "/news/uk-wales-21319226", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65687000/jpg/_65687400_finger464.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Study finds diabetes insulin risk", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/uk-wales-21319226", 
+                        "originalpublicationdate": "2013/02/04 12:38:52", 
+                        "section": "Wales", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65687000/jpg/_65687399_finger464.jpg", 
+                        "ukfs_url": "/news/uk-wales-21319226", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 4, 2013 ... Patients with type 2 diabetes treated with insulin could be exposed to a greater \nrisk of complications, a Cardiff University study has found.", 
+            "title": "BBC News - Type 2 diabetes: Insulin greater risk, finds Cardiff study"
+        }, 
+        {
+            "cacheId": "Ny1S7iqjv7wJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/uk-wales-21348607", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/uk-wales-21348607", 
+            "htmlSnippet": "Feb 6, 2013 <b>...</b> <b>Researchers</b> from Cardiff University are taking part in a clinical trial of a new ... <br>\nUnlike type <b>2 diabetes</b>, type 1 is not linked to obesity or lifestyle.", 
+            "htmlTitle": "BBC News - <b>Type</b> 1 <b>diabetes</b>: Cardiff <b>researchers</b> in vaccine trial", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/uk-wales-21348607", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65731000/jpg/_65731831_insulin_injection-spl-2.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvr59wsmj16xd61oV0u3M21am1w9Eflx2K_C455SBdM70jJAqwC-ITyw", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21348607", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Wales", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-06T12:53:16+00:00", 
+                        "dcterms.modified": "2013-02-06T12:53:16+00:00", 
+                        "headline": "Diabetes vaccine volunteers sought", 
+                        "ifs_url": "/news/uk-wales-21348607", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65731000/jpg/_65731831_insulin_injection-spl-2.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Diabetes vaccine volunteers sought", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/uk-wales-21348607", 
+                        "originalpublicationdate": "2013/02/06 12:53:16", 
+                        "section": "Wales", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65731000/jpg/_65731830_insulin_injection-spl-2.jpg", 
+                        "ukfs_url": "/news/uk-wales-21348607", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 6, 2013 ... Researchers from Cardiff University are taking part in a clinical trial of a new ... \nUnlike type 2 diabetes, type 1 is not linked to obesity or lifestyle.", 
+            "title": "BBC News - Type 1 diabetes: Cardiff researchers in vaccine trial"
+        }, 
+        {
+            "cacheId": "9jRhsRVPANoJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../ma-joslin-diabetes-idUSnPnNE82746+160+ PRN20130325", 
+            "htmlFormattedUrl": "www.reuters.com/.../ma-joslin-<b>diabetes</b>-idUSnPnNE82746+160+ PRN20130325", 
+            "htmlSnippet": "Mar 25, 2013 <b>...</b> The summit brought together <b>researchers</b>, clinicians, advocates, ... Americans <br>\nsuffer from <b>diabetes</b>, with some <b>2</b> million new cases each year.", 
+            "htmlTitle": "Joslin <b>Diabetes</b> Center Seeks To Catalyze The Prevention Of <b>Type 2</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/25/ma-joslin-diabetes-idUSnPnNE82746+160+PRN20130325", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "Joslin+Diabetes+Center+Seeks+To+Catalyze+The+Prevention+Of+Type+2+Diabetes", 
+                        "dcsext.contentid": "USnPnNE82746+160+PRN20130325", 
+                        "dcsext.contentid_pressrelease": "USnPnNE82746+160+PRN20130325", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Joslin Diabetes Center Seeks To Catalyze The Prevention Of Type 2 Diabetes", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/25/ma-joslin-diabetes-idUSnPnNE82746+160+PRN20130325", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Joslin Diabetes Center Seeks To Catalyze The Prevention Of Type 2 Diabetes\", \"link\": \"http://www.reuters.com/article/2013/03/25/ma-joslin-diabetes-idUSnPnNE82746+160+PRN20130325\", \"image_url\": \"\", \"post_id\": \"USnPnNE82746+160+PRN20130325\", \"pub_date\": \"2013-03-25T15:25:42+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Mon Mar 25 15:25:42 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 25, 2013 ... The summit brought together researchers, clinicians, advocates, ... Americans \nsuffer from diabetes, with some 2 million new cases each year.", 
+            "title": "Joslin Diabetes Center Seeks To Catalyze The Prevention Of Type 2 ..."
+        }, 
+        {
+            "cacheId": "GGdljomPhBQJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/article/.../idUSnPre5CX4Ba+11a+PRN20130306", 
+            "htmlFormattedUrl": "www.reuters.com/article/.../idUSnPre5CX4Ba+11a+PRN20130306", 
+            "htmlSnippet": "Mar 5, 2013 <b>...</b> New Clinical Guidelines for Older People With Type <b>2 Diabetes</b> Launched to ... <br>\n<b>Diabetes Research</b> and Clinical Practice 2010;87:293-301.", 
+            "htmlTitle": "New Clinical Guidelines for Older People With <b>Type 2 Diabetes</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/06/idUSnPre5CX4Ba+11a+PRN20130306", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "New+Clinical+Guidelines+for+Older+People+With+Type+2+Diabetes+Launched+to+Help+Avert+European+Care+Crisis", 
+                        "dcsext.contentid": "USnPre5CX4Ba+11a+PRN20130306", 
+                        "dcsext.contentid_pressrelease": "USnPre5CX4Ba+11a+PRN20130306", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "New Clinical Guidelines for Older People With Type 2 Diabetes Launched to Help Avert European Care Crisis", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/06/idUSnPre5CX4Ba+11a+PRN20130306", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"New Clinical Guidelines for Older People With Type 2 Diabetes Launched to Help Avert European Care Crisis\", \"link\": \"http://www.reuters.com/article/2013/03/06/idUSnPre5CX4Ba+11a+PRN20130306\", \"image_url\": \"\", \"post_id\": \"USnPre5CX4Ba+11a+PRN20130306\", \"pub_date\": \"2013-03-06T00:02:26+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Wed Mar 06 00:02:26 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 5, 2013 ... New Clinical Guidelines for Older People With Type 2 Diabetes Launched to ... \nDiabetes Research and Clinical Practice 2010;87:293-301.", 
+            "title": "New Clinical Guidelines for Older People With Type 2 Diabetes ..."
+        }, 
+        {
+            "cacheId": "9hhP4rCLtzwJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/article/.../idUSnPreB7WQRa+12e+PRN20130304", 
+            "htmlFormattedUrl": "www.reuters.com/article/.../idUSnPreB7WQRa+12e+PRN20130304", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> Insulin degludec was approved for use in type 1 and type <b>2 diabetes</b> on 21 .... <br>\nretrospective epidemiological analysis of the ACCORD <b>study</b>.", 
+            "htmlTitle": "Tresiba\u00ae (insulin degludec) - a new basal insulin for adult patients <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/04/idUSnPreB7WQRa+12e+PRN20130304", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "Tresiba%C2%AE%E2%96%BC+%28insulin+degludec%29+-+a+new+basal+insulin+for+adult+patients+with+type+1+and+type+2+diabetes+is+available+in+the+UK+as+a+new+treatment+option", 
+                        "dcsext.contentid": "USnPreB7WQRa+12e+PRN20130304", 
+                        "dcsext.contentid_pressrelease": "USnPreB7WQRa+12e+PRN20130304", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Tresiba\u00ae\u25bc (insulin degludec) - a new basal insulin for adult patients with type 1 and type 2 diabetes is available in the UK as a new treatment option", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/04/idUSnPreB7WQRa+12e+PRN20130304", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Tresiba\u00ae\u25bc (insulin degludec) - a new basal insulin for adult patients with type 1 and type 2 diabetes is available in the UK as a new treatment option\", \"link\": \"http://www.reuters.com/article/2013/03/04/idUSnPreB7WQRa+12e+PRN20130304\", \"image_url\": \"\", \"post_id\": \"USnPreB7WQRa+12e+PRN20130304\", \"pub_date\": \"2013-03-04T07:01:35+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Mon Mar 04 07:01:35 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... Insulin degludec was approved for use in type 1 and type 2 diabetes on 21 .... \nretrospective epidemiological analysis of the ACCORD study.", 
+            "title": "Tresiba\u00ae (insulin degludec) - a new basal insulin for adult patients ..."
+        }, 
+        {
+            "cacheId": "Z3o4Szl7gOQJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/article/.../idUSnPreSnTHPa+12e+PRN20130204", 
+            "htmlFormattedUrl": "www.reuters.com/article/.../idUSnPreSnTHPa+12e+PRN20130204", 
+            "htmlSnippet": "Feb 4, 2013 <b>...</b> ... is indicated for the treatment of adults with type <b>2 diabetes</b> mellitus to .... <br>\nuncertainties inherent in <b>research</b> and development, future clinical&nbsp;...", 
+            "htmlTitle": "Once-Daily Lyxumia\u00ae (lixisenatide) Approved for Treatment of <b>Type</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/04/idUSnPreSnTHPa+12e+PRN20130204", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "Once-Daily+Lyxumia%C2%AE+%28lixisenatide%29+Approved+for+Treatment+of+Type+2+Diabetes+in+Europe", 
+                        "dcsext.contentid": "USnPreSnTHPa+12e+PRN20130204", 
+                        "dcsext.contentid_pressrelease": "USnPreSnTHPa+12e+PRN20130204", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Once-Daily Lyxumia\u00ae (lixisenatide) Approved for Treatment of Type 2 Diabetes in Europe", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/04/idUSnPreSnTHPa+12e+PRN20130204", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Once-Daily Lyxumia\u00ae (lixisenatide) Approved for Treatment of Type 2 Diabetes in Europe\", \"link\": \"http://www.reuters.com/article/2013/02/04/idUSnPreSnTHPa+12e+PRN20130204\", \"image_url\": \"\", \"post_id\": \"USnPreSnTHPa+12e+PRN20130204\", \"pub_date\": \"2013-02-04T08:05:56+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Mon Feb 04 08:05:56 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 4, 2013 ... ... is indicated for the treatment of adults with type 2 diabetes mellitus to .... \nuncertainties inherent in research and development, future clinical\u00a0...", 
+            "title": "Once-Daily Lyxumia\u00ae (lixisenatide) Approved for Treatment of Type ..."
+        }, 
+        {
+            "cacheId": "s-gBY016UFYJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../janssen-diabetessurve-idUSnPnNY76946+160+ PRN20130314", 
+            "htmlFormattedUrl": "www.reuters.com/.../janssen-<b>diabetes</b>surve-idUSnPnNY76946+160+ PRN20130314", 
+            "htmlSnippet": "Mar 14, 2013 <b>...</b> In fact, 97 percent of physicians said type <b>2 diabetes</b> patients would ... of <b>diabetes</b><br>\n.i About the Survey GfK, an independent market <b>research</b> firm,&nbsp;...", 
+            "htmlTitle": "Doctors Agree Small Lifestyle Changes Can Improve Outcomes of <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/14/janssen-diabetessurve-idUSnPnNY76946+160+PRN20130314", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "Doctors+Agree+Small+Lifestyle+Changes+Can+Improve+Outcomes+of+Patients+with+Type+2+Diabetes%2C+National+Survey+Finds", 
+                        "dcsext.contentid": "USnPnNY76946+160+PRN20130314", 
+                        "dcsext.contentid_pressrelease": "USnPnNY76946+160+PRN20130314", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Doctors Agree Small Lifestyle Changes Can Improve Outcomes of Patients with Type 2 Diabetes, National Survey Finds", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/14/janssen-diabetessurve-idUSnPnNY76946+160+PRN20130314", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Doctors Agree Small Lifestyle Changes Can Improve Outcomes of Patients with Type 2 Diabetes, National Survey Finds\", \"link\": \"http://www.reuters.com/article/2013/03/14/janssen-diabetessurve-idUSnPnNY76946+160+PRN20130314\", \"image_url\": \"\", \"post_id\": \"USnPnNY76946+160+PRN20130314\", \"pub_date\": \"2013-03-14T12:30:04+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Thu Mar 14 12:30:04 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 14, 2013 ... In fact, 97 percent of physicians said type 2 diabetes patients would ... of diabetes\n.i About the Survey GfK, an independent market research firm,\u00a0...", 
+            "title": "Doctors Agree Small Lifestyle Changes Can Improve Outcomes of ..."
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 8, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Type II diabetes research", 
+                "sort": "date:r:20130201:20130328", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Type II diabetes research", 
+                "totalResults": "8"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "8", 
+        "searchTime": 0.237442, 
+        "totalResults": "8"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

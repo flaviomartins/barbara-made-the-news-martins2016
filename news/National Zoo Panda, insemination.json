@@ -1,0 +1,243 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "R2yFypYYq2kJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../03/.../us-usa-pandas-idUSBRE92T09A20130330", 
+            "htmlFormattedUrl": "www.reuters.com/.../03/.../us-usa-<b>pandas</b>-idUSBRE92T09A20130330", 
+            "htmlSnippet": "Mar 30, 2013 <b>...</b> WASHINGTON (Reuters) - Veterinarians at the National <b>Zoo</b> artificially <br>\n<b>inseminated</b> the <b>zoo&#39;s</b> female giant <b>panda</b> Mei Xiang on Saturday after&nbsp;...", 
+            "htmlTitle": "Giant <b>panda</b> artificially <b>inseminated</b> at U.S. <b>National Zoo</b> | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/30/us-usa-pandas-idUSBRE92T09A20130330", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130330&t=2&i=717739345&w=130&fh=&fw=&ll=&pl=&r=CBRE92T1K4P00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "68", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKHyiwLwL-N20jUx-BwEr7vuhSmWrPiHZuMTB0jKAU5V_M-QrHnSckA", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "domesticNews;lifestyleMolt;treasuryMarkets;Boston;trending-hp;MastercardTravel;samsung;newsproHome", 
+                        "dcsext.contentchannel": "domesticNews", 
+                        "dcsext.contentheadline": "Giant+panda+artificially+inseminated+at+U.S.+National+Zoo", 
+                        "dcsext.contentid": "USBRE92T09A20130330", 
+                        "dcsext.contentid_domesticnews": "USBRE92T09A20130330", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/us/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130330&t=2&i=717739345&w=130&fh=&fw=&ll=&pl=&r=CBRE92T1K4P00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Giant panda artificially inseminated at U.S. National Zoo", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/30/us-usa-pandas-idUSBRE92T09A20130330", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Giant panda artificially inseminated at U.S. National Zoo\", \"link\": \"http://www.reuters.com/article/2013/03/30/us-usa-pandas-idUSBRE92T09A20130330\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130330&t=2&i=717739345&w=130&fh=&fw=&ll=&pl=&r=CBRE92T1K4P00\", \"post_id\": \"USBRE92T09A20130330\", \"pub_date\": \"2013-03-30T20:12:25+0000\", \"section\":\"domesticNews\", \"author\": \"\"}", 
+                        "revision_date": "Sat Mar 30 20:12:25 UTC 2013", 
+                        "wt.cg_n": "News - US", 
+                        "wt.cg_s": "domesticNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 30, 2013 ... WASHINGTON (Reuters) - Veterinarians at the National Zoo artificially \ninseminated the zoo's female giant panda Mei Xiang on Saturday after\u00a0...", 
+            "title": "Giant panda artificially inseminated at U.S. National Zoo | Reuters"
+        }, 
+        {
+            "cacheId": "VSVfzYemdYIJ", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/.../national-zoo-performs-insemination-giant-panda", 
+            "htmlFormattedUrl": "bigstory.ap.org/.../<b>national</b>-<b>zoo</b>-performs-<b>insemination</b>-giant-<b>panda</b>", 
+            "htmlSnippet": "Mar 30, 2013 <b>...</b> WASHINGTON (AP) \u2014 A Chinese veterinarian has performed an artificial <br>\n<b>insemination</b> on the National <b>Zoo&#39;s</b> female giant <b>panda</b>, Mei Xiang&nbsp;...", 
+            "htmlTitle": "<b>National Zoo</b> performs <b>insemination</b> on giant <b>panda</b> - The Big Story", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/national-zoo-performs-insemination-giant-panda", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "WASHINGTON (AP) \u2014 A Chinese veterinarian has performed an artificial insemination on the National Zoo's female giant panda, Mei Xiang (may-SHONG).", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "National Zoo performs insemination on giant panda", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/national-zoo-performs-insemination-giant-panda", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 30, 2013 ... WASHINGTON (AP) \u2014 A Chinese veterinarian has performed an artificial \ninsemination on the National Zoo's female giant panda, Mei Xiang\u00a0...", 
+            "title": "National Zoo performs insemination on giant panda - The Big Story"
+        }, 
+        {
+            "cacheId": "o8PdpF2ytPoJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/videos/news/nation/2013/03/31/2039627/", 
+            "htmlFormattedUrl": "www.usatoday.com/videos/news/nation/2013/03/31/2039627/", 
+            "htmlSnippet": "Mar 31, 2013 <b>...</b> Veterinarians at Washington, D.C.&#39;s National <b>Zoo</b> artificially <b>inseminated</b> giant <br>\n<b>panda</b> Mei Xiang after natural methods apparently failed.", 
+            "htmlTitle": "<b>National Zoo</b> artificially inseminates giant <b>panda</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/videos/news/nation/2013/03/31/2039627/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://videos.usatoday.net/Brightcove2/29906170001/2013/03/29906170001_2267091825001_thumb-557554.jpg?pubId=29906170001"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSs0N7NIEllOyEZyVuCGS-fN1OsFBbQlC2gnCLUFngoHgmqanq5sGKxwBE", 
+                        "width": "300"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "og:description": "Veterinarians at Washington, D.C.'s National Zoo artificially inseminated giant panda Mei Xiang after natural methods apparently failed.  Powered by NewsLook.com", 
+                        "og:image": "http://videos.usatoday.net/Brightcove2/29906170001/2013/03/29906170001_2267091825001_thumb-557554.jpg?pubId=29906170001", 
+                        "og:title": "National Zoo artificially inseminates giant panda", 
+                        "og:type": "video.other", 
+                        "og:url": "http://www.usatoday.com/videos/news/nation/2013/03/31/2039627/", 
+                        "og:video": "http://c.brightcove.com/services/viewer/federated_f9/?isVid=1&isUI=1&playerID=2112656916001&autoStart=true&videoId=2267075040001", 
+                        "og:video:height": "300", 
+                        "og:video:secure_url": "https://secure.brightcove.com/services/viewer/federated_f9/?isVid=1&isUI=1&playerID=2112656916001&autoStart=true&videoId=2267075040001&secureConnections=true", 
+                        "og:video:type": "application/x-shockwave-flash", 
+                        "og:video:url": "http://c.brightcove.com/services/viewer/federated_f9/?isVid=1&isUI=1&playerID=2112656916001&autoStart=true&videoId=2267075040001", 
+                        "og:video:width": "380", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "videoobject": [
+                    {
+                        "contenturl": "http://www.usatoday.com/videos/news/nation/2013/03/31/2039627/", 
+                        "description": "Veterinarians at Washington, D.C.'s National Zoo artificially inseminated giant panda Mei Xiang after natural methods apparently failed. Powered by NewsLook.com Newslook", 
+                        "height": "495", 
+                        "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2013/03/29906170001_2267091825001_thumb-557554.jpg?pubId=29906170001", 
+                        "uploaddate": "3/31/2013 8:03:32 AM", 
+                        "width": "880"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 31, 2013 ... Veterinarians at Washington, D.C.'s National Zoo artificially inseminated giant \npanda Mei Xiang after natural methods apparently failed.", 
+            "title": "National Zoo artificially inseminates giant panda"
+        }, 
+        {
+            "cacheId": "5S6WvoRl94MJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/.../national-zoo-artificially-inseminates-giant-panda/", 
+            "htmlFormattedUrl": "www.usatoday.com/.../<b>national</b>-<b>zoo</b>-artificially-<b>inseminate</b>s-giant-<b>panda</b>/", 
+            "htmlSnippet": "Mar 31, 2013 <b>...</b> Veterinarians at Washington, D.C.&#39;s National <b>Zoo</b> artificially <b>inseminated</b> giant <br>\n<b>panda</b> Mei Xiang after natural methods apparently failed.", 
+            "htmlTitle": "<b>National Zoo</b> artificially inseminates giant <b>panda</b> - USA Today", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/media/cinematic/video/2039627/national-zoo-artificially-inseminates-giant-panda/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://videos.usatoday.net/Brightcove2/29906170001/2013/03/29906170001_2267091825001_thumb-557554.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO8fcqFB3MAXCV6MOqnUWVr5bbLoi8u1cMrTFWycf0NVMzz-2F9L0TXTK4", 
+                        "width": "300"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "og:description": "Veterinarians at Washington, D.C.'s National Zoo artificially inseminated giant panda Mei Xiang after natural methods apparently failed.  Powered by NewsLook.com", 
+                        "og:image:height": "200", 
+                        "og:image:width": "200", 
+                        "og:title": "National Zoo artificially inseminates giant panda", 
+                        "og:type": "video.other", 
+                        "og:video": "http://c.brightcove.com/services/viewer/federated_f9/?isVid=1&isUI=1&playerID=2112656916001&autoStart=true&videoId=2267075040001", 
+                        "og:video:height": "300", 
+                        "og:video:secure_url": "https://secure.brightcove.com/services/viewer/federated_f9/?isVid=1&isUI=1&playerID=2112656916001&autoStart=true&videoId=2267075040001&secureConnections=true", 
+                        "og:video:type": "application/x-shockwave-flash", 
+                        "og:video:url": "http://c.brightcove.com/services/viewer/federated_f9/?isVid=1&isUI=1&playerID=2112656916001&autoStart=true&videoId=2267075040001", 
+                        "og:video:width": "380", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "videoobject": [
+                    {
+                        "contenturl": "http://www.usatoday.com/videos/news/nation/2013/03/31/2039627/", 
+                        "description": "Veterinarians at Washington, D.C.'s National Zoo artificially inseminated giant panda Mei Xiang after natural methods apparently failed. Powered by NewsLook.com Newslook", 
+                        "height": "450", 
+                        "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2013/03/29906170001_2267091825001_thumb-557554.jpg?pubId=29906170001", 
+                        "uploaddate": "3/31/2013 8:03:32 AM", 
+                        "width": "800"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 31, 2013 ... Veterinarians at Washington, D.C.'s National Zoo artificially inseminated giant \npanda Mei Xiang after natural methods apparently failed.", 
+            "title": "National Zoo artificially inseminates giant panda - USA Today"
+        }, 
+        {
+            "cacheId": "p997VtGLDi0J", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/.../panda-breeding-season-arrives-dcs-national-zoo", 
+            "htmlFormattedUrl": "bigstory.ap.org/.../<b>panda</b>-breeding-season-arrives-dcs-<b>national</b>-<b>zoo</b>", 
+            "htmlSnippet": "Mar 27, 2013 <b>...</b> The <b>zoo</b> said Wednesday that female <b>panda</b> Mei Xiang (may-SHONG) and male <br>\n... ready to perform an artificial <b>insemination</b> in the coming days.", 
+            "htmlTitle": "<b>Panda</b> breeding season arrives at DC&#39;s <b>National Zoo</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/panda-breeding-season-arrives-dcs-national-zoo", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "WASHINGTON (AP) \u2014 The National Zoo says breeding season has arrived for the giant pandas after a cub was born last year but died six days later.", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Panda breeding season arrives at DC's National Zoo", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/panda-breeding-season-arrives-dcs-national-zoo", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 27, 2013 ... The zoo said Wednesday that female panda Mei Xiang (may-SHONG) and male \n... ready to perform an artificial insemination in the coming days.", 
+            "title": "Panda breeding season arrives at DC's National Zoo"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 5, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:National Zoo Panda, insemination", 
+                "sort": "date:r:20130201:20130331", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:National Zoo Panda, insemination", 
+                "totalResults": "5"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "5", 
+        "searchTime": 0.238866, 
+        "totalResults": "5"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

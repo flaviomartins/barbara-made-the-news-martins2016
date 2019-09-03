@@ -1,0 +1,583 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "eoiq4xSGqlgJ", 
+            "displayLink": "uk.reuters.com", 
+            "formattedUrl": "uk.reuters.com/business/quotes/companyOfficers?...", 
+            "htmlFormattedUrl": "<b>uk</b>.reuters.com/business/quotes/companyOfficers?...", 
+            "htmlSnippet": "... Inc. With a winemaking degree from University of California-Davis, Phil Hurst <br>\nbegan his career in the <b>wine industry</b> in 1985 at Fetzer Vineyards when he was&nbsp;...", 
+            "htmlTitle": "Officers &amp; Directors | Reuters.co.<b>uk</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://uk.reuters.com/business/quotes/companyOfficers?symbol=THST.OQ", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.contentchannel": "Stocks - People", 
+                        "dcsext.contenttype": "Finance Topic", 
+                        "dcsext.dartzone": "uk.reuters/bizfinance/quotes", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "UK", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "People"
+                    }
+                ]
+            }, 
+            "snippet": "... Inc. With a winemaking degree from University of California-Davis, Phil Hurst \nbegan his career in the wine industry in 1985 at Fetzer Vineyards when he was\u00a0...", 
+            "title": "Officers & Directors | Reuters.co.uk"
+        }, 
+        {
+            "cacheId": "kygYrc5YLykJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/business-21744654", 
+            "htmlFormattedUrl": "www.bbc.co.<b>uk</b>/news/business-21744654", 
+            "htmlSnippet": "Mar 11, 2013 <b>...</b> ... firms has boosted the sector, according to <b>companies</b> in the <b>industry</b>. ... Watch <br>\n<b>Wine</b> fraudster to be sentenced in US <b>Wine</b> labels used in&nbsp;...", 
+            "htmlTitle": "BBC News - Boost for <b>UK</b> biotech <b>industry</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/business-21744654", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66322000/jpg/_66322119_66321506.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSv9Ua7vELU2tj0VnWprnS7hzziAv6duhM9E_LKhnV8g_pSSMBFl__3", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21744654", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Business", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-11T13:47:40+00:00", 
+                        "dcterms.modified": "2013-03-11T13:47:40+00:00", 
+                        "headline": "Boost for UK biotech industry", 
+                        "ifs_url": "/news/business-21744654", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66322000/jpg/_66322119_66321506.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Boost for UK biotech industry", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/business-21744654", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/business-21744654A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/11 13:47:40", 
+                        "section": "Business", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66322000/jpg/_66322118_66321506.jpg", 
+                        "ukfs_url": "/news/business-21744654", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 11, 2013 ... ... firms has boosted the sector, according to companies in the industry. ... Watch \nWine fraudster to be sentenced in US Wine labels used in\u00a0...", 
+            "title": "BBC News - Boost for UK biotech industry"
+        }, 
+        {
+            "cacheId": "AjzCYtQWDWYJ", 
+            "displayLink": "uk.reuters.com", 
+            "formattedUrl": "uk.reuters.com/business/quotes/companyOfficers?...", 
+            "htmlFormattedUrl": "<b>uk</b>.reuters.com/business/quotes/companyOfficers?...", 
+            "htmlSnippet": "He was appointed as the director of the Remy Cointreau Group in 1990. He has <br>\naround 30 years of experience in the <b>wines industry</b> and has held various senior<br>\n&nbsp;...", 
+            "htmlTitle": "Officers &amp; Directors | Reuters.co.<b>uk</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://uk.reuters.com/business/quotes/companyOfficers?symbol=0828.BE", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.contentchannel": "Stocks - People", 
+                        "dcsext.contenttype": "Finance Topic", 
+                        "dcsext.dartzone": "uk.reuters/bizfinance/quotes", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "UK", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "People"
+                    }
+                ]
+            }, 
+            "snippet": "He was appointed as the director of the Remy Cointreau Group in 1990. He has \naround 30 years of experience in the wines industry and has held various senior\n\u00a0...", 
+            "title": "Officers & Directors | Reuters.co.uk"
+        }, 
+        {
+            "cacheId": "H_-XdT0O-rQJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/health-21621144", 
+            "htmlFormattedUrl": "www.bbc.co.<b>uk</b>/news/health-21621144", 
+            "htmlSnippet": "Mar 1, 2013 <b>...</b> <b>Industry</b> said measures should target people who needed help, not .... bottle of <br>\n<b>wine</b> or a few cans at home on a Friday will be punished by this.", 
+            "htmlTitle": "BBC News - Call for <b>UK</b>-wide 50p per unit price", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/health-21621144", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66130000/jpg/_66130191_013873627-1.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhznDd33DTsOmuKfORXRCUVl029xH7MsFhq9vJOfUtx2EU0vLVO55f", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21621144", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Health", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-01T04:01:39+00:00", 
+                        "dcterms.modified": "2013-03-01T04:01:39+00:00", 
+                        "headline": "UK-wide alcohol unit price call", 
+                        "ifs_url": "/news/health-21621144", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66130000/jpg/_66130191_013873627-1.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "UK-wide alcohol unit price call", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/health-21621144", 
+                        "originalpublicationdate": "2013/03/01 04:01:39", 
+                        "section": "Health", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66130000/jpg/_66130190_013873627-1.jpg", 
+                        "ukfs_url": "/news/health-21621144", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 1, 2013 ... Industry said measures should target people who needed help, not .... bottle of \nwine or a few cans at home on a Friday will be punished by this.", 
+            "title": "BBC News - Call for UK-wide 50p per unit price"
+        }, 
+        {
+            "cacheId": "M5sLOOXgtQgJ", 
+            "displayLink": "www.bbc.com", 
+            "formattedUrl": "www.bbc.com/news/business-21713968", 
+            "htmlFormattedUrl": "www.bbc.com/news/business-21713968", 
+            "htmlSnippet": "Mar 8, 2013 <b>...</b> Coal is still &quot;critical&quot; to UK energy production, despite the country&#39;s largest mine <br>\nbeing ... Watch Growing <b>wine market</b> in SE Asia Glass of wine&nbsp;...", 
+            "htmlTitle": "BBC News - Coal &#39;still critical&#39; to <b>UK</b> energy <b>industry</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.com/news/business-21713968", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66277000/jpg/_66277899_66274921.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0U3ZFwP46rRYQZSIAwPoJZkzgft_lSYqptDNu-bKIa3aj1jRN4vCA8g", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "US", 
+                        "cps_id": "21713968", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Business", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-08T11:27:43+00:00", 
+                        "dcterms.modified": "2013-03-08T11:27:43+00:00", 
+                        "headline": "Coal 'still critical' to UK energy", 
+                        "ifs_url": "/news/business-21713968", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66277000/jpg/_66277899_66274921.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Coal 'still critical' to UK energy", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/business-21713968", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/business-21713968A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/08 11:27:43", 
+                        "section": "Business", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66274000/jpg/_66274923_66274921.jpg", 
+                        "ukfs_url": "/news/business-21713968", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 8, 2013 ... Coal is still \"critical\" to UK energy production, despite the country's largest mine \nbeing ... Watch Growing wine market in SE Asia Glass of wine\u00a0...", 
+            "title": "BBC News - Coal 'still critical' to UK energy industry"
+        }, 
+        {
+            "cacheId": "Gts5s0agL14J", 
+            "displayLink": "www.bbc.com", 
+            "formattedUrl": "www.bbc.com/news/business-21410373", 
+            "htmlFormattedUrl": "www.bbc.com/news/business-21410373", 
+            "htmlSnippet": "Feb 11, 2013 <b>...</b> Michael Grade: UK film industry &#39;brilliant at creating movies&#39;. Lord Grade. Please <br>\nturn ... Watch Growing <b>wine market</b> in SE Asia Glass of wine&nbsp;...", 
+            "htmlTitle": "BBC News - Michael Grade: <b>UK</b> film <b>industry</b> &#39;brilliant at creating <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.com/news/business-21410373", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65816000/jpg/_65816693_65816684.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUdwPx86xlesH89zyVRU1NFRBWPy31xEsc2wSA_pN6vX2KD2aYiRGdgg", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "US", 
+                        "cps_id": "21410373", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Business", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-11T10:58:29+00:00", 
+                        "dcterms.modified": "2013-02-11T10:58:29+00:00", 
+                        "headline": "Grade: UK film industry 'brilliant'", 
+                        "ifs_url": "/news/business-21410373", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65816000/jpg/_65816693_65816684.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Grade: UK film industry 'brilliant'", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/business-21410373", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/business-21410373A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/02/11 10:58:29", 
+                        "section": "Business", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65816000/jpg/_65816692_65816684.jpg", 
+                        "ukfs_url": "/news/business-21410373", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 11, 2013 ... Michael Grade: UK film industry 'brilliant at creating movies'. Lord Grade. Please \nturn ... Watch Growing wine market in SE Asia Glass of wine\u00a0...", 
+            "title": "BBC News - Michael Grade: UK film industry 'brilliant at creating ..."
+        }, 
+        {
+            "cacheId": "St6mHf3GIbMJ", 
+            "displayLink": "www.bbc.com", 
+            "formattedUrl": "www.bbc.com/news/business-21744654", 
+            "htmlFormattedUrl": "www.bbc.com/news/business-21744654", 
+            "htmlSnippet": "Mar 11, 2013 <b>...</b> ... in biotech firms has boosted the sector, according to companies in the industry. <br>\n... Watch Growing <b>wine market</b> in SE Asia Glass of wine&nbsp;...", 
+            "htmlTitle": "BBC News - Boost for <b>UK</b> biotech <b>industry</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.com/news/business-21744654", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66322000/jpg/_66322119_66321506.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSv9Ua7vELU2tj0VnWprnS7hzziAv6duhM9E_LKhnV8g_pSSMBFl__3", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "US", 
+                        "cps_id": "21744654", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Business", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-11T13:47:40+00:00", 
+                        "dcterms.modified": "2013-03-11T13:47:40+00:00", 
+                        "headline": "Boost for UK biotech industry", 
+                        "ifs_url": "/news/business-21744654", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66322000/jpg/_66322119_66321506.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Boost for UK biotech industry", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/business-21744654", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/business-21744654A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/11 13:47:40", 
+                        "section": "Business", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66322000/jpg/_66322118_66321506.jpg", 
+                        "ukfs_url": "/news/business-21744654", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 11, 2013 ... ... in biotech firms has boosted the sector, according to companies in the industry. \n... Watch Growing wine market in SE Asia Glass of wine\u00a0...", 
+            "title": "BBC News - Boost for UK biotech industry"
+        }, 
+        {
+            "cacheId": "lhXYWiIHWzcJ", 
+            "displayLink": "www.bbc.com", 
+            "formattedUrl": "www.bbc.com/news/business-21776285", 
+            "htmlFormattedUrl": "www.bbc.com/news/business-21776285", 
+            "htmlSnippet": "The regenerative medicine <b>industry</b> has &quot;huge potential&quot; to boost the UK ... Watch <br>\n<b>Wine</b> fraudster to be sentenced in US <b>Wine</b> labels used in Kurniawan trial&nbsp;...", 
+            "htmlTitle": "BBC News - Could regenerative medicine help heal <b>UK</b> economy?", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.com/news/business-21776285", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66384000/jpg/_66384185_66373419.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKHPnr4NJ20RxF5Ql0rh7v8Y-QblH3dKmFRplyTGUenraFJHUEGdvYZw", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "US", 
+                        "cps_id": "21776285", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Business", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-14T09:36:57+00:00", 
+                        "dcterms.modified": "2013-03-14T09:36:57+00:00", 
+                        "headline": "Can medicine heal UK economy?", 
+                        "ifs_url": "/news/business-21776285", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66384000/jpg/_66384185_66373419.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Can medicine heal UK economy?", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/business-21776285", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/business-21776285A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/14 09:36:57", 
+                        "section": "Business", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66384000/jpg/_66384184_66373419.jpg", 
+                        "ukfs_url": "/news/business-21776285", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "The regenerative medicine industry has \"huge potential\" to boost the UK ... Watch \nWine fraudster to be sentenced in US Wine labels used in Kurniawan trial\u00a0...", 
+            "title": "BBC News - Could regenerative medicine help heal UK economy?"
+        }, 
+        {
+            "cacheId": "wVx58cDNlxsJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/video/.../uk-wool-returns-as-fashion-favourite?...", 
+            "htmlFormattedUrl": "www.reuters.com/video/.../<b>uk</b>-wool-returns-as-fashion-favourite?...", 
+            "htmlSnippet": "Feb 15, 2013 <b>...</b> Asian demand is driving a comeback for the UK wool <b>industry</b>, as the rising cost <br>\nof overseas <b>production</b> encourages large fashion retailers to&nbsp;...", 
+            "htmlTitle": "<b>UK</b> wool returns as fashion favourite | Video | Reuters.com", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/video/2013/02/15/uk-wool-returns-as-fashion-favourite?videoId=241147228", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/u/0/z/s/m29j/reuters04?videoId=56026983"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTvMrhbZJk34hj-nlBBoOuFEsUiVLjxQV8obbPMo1kNvbxLzTZfloLyrsN", 
+                        "width": "300"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.contentchannel": "Finance Videos", 
+                        "dcsext.contentheadline": "UK+wool+returns+as+fashion+favourite", 
+                        "dcsext.contentid": "241147228", 
+                        "dcsext.contenttype": "Video", 
+                        "dcsext.dartzone": "video.us.reuters", 
+                        "dcsext.rchannel": "Video", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "dcsext.videoid_finance videos": "241147228", 
+                        "dcsext.videotype": "Digital+Video", 
+                        "fb:app_id": "169549326390879", 
+                        "og:description": "Feb. 15 - As the fashion world looks to London Fashion Week, business is booming at Abraham Moon, England's last surviving cloth mill. Asian demand is driving a comeback for the UK wool industry, as the rising cost of overseas production...", 
+                        "og:image": "http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/u/0/z/s/m29j/reuters04?videoId=56026983", 
+                        "og:locale": "en_US", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "UK wool returns as fashion favourite", 
+                        "og:type": "video.other", 
+                        "og:url": "http://www.reuters.com/video/2013/02/15/uk-wool-returns-as-fashion-favourite?videoId=241147228&videoChannel=13979", 
+                        "og:video": "http://www.reuters.com/video/2013/02/15/uk-wool-returns-as-fashion-favourite?videoId=241147228&videoChannel=13979", 
+                        "og:video:height": "549", 
+                        "og:video:type": "application/x-shockwave-flash", 
+                        "og:video:width": "973", 
+                        "title": "UK wool returns as fashion favourite", 
+                        "twitter:card": "summary_large_image", 
+                        "twitter:site": "@Reuters", 
+                        "viewport": "width=device-width, initial-scale=1", 
+                        "wt.cg_n": "Video - Landing", 
+                        "wt.cg_s": "Landing", 
+                        "wt.dl": "0"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 15, 2013 ... Asian demand is driving a comeback for the UK wool industry, as the rising cost \nof overseas production encourages large fashion retailers to\u00a0...", 
+            "title": "UK wool returns as fashion favourite | Video | Reuters.com"
+        }, 
+        {
+            "cacheId": "Ezy1BHddaq4J", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/video/.../loss-of-aaa-rating-fully-priced-in-uk-de?...", 
+            "htmlFormattedUrl": "www.reuters.com/video/.../loss-of-aaa-rating-fully-priced-in-<b>uk</b>-de?...", 
+            "htmlSnippet": "Feb 12, 2013 <b>...</b> 13 - The loss of Britain&#39;s triple-A credit rating would have little impact, if any, on <br>\nthe UK bond <b>market</b> because investors have already priced in&nbsp;...", 
+            "htmlTitle": "Loss of AAA rating fully priced in : <b>UK</b> debt chief | Video | Reuters.com", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/video/2013/02/13/loss-of-aaa-rating-fully-priced-in-uk-de?videoId=241093013", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/e/s/a/x/lf4l/reuters04?videoId=55877530"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwD5ayfMtw0La4XXNFbmf-Y9vli4eKb8VwM4-UvI9F4hboyuDhv06jsy4G", 
+                        "width": "300"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.contentchannel": "Finance Videos", 
+                        "dcsext.contentheadline": "Loss+of+AAA+rating+%22fully+priced+in%22%3A++UK+debt+chief", 
+                        "dcsext.contentid": "241093013", 
+                        "dcsext.contenttype": "Video", 
+                        "dcsext.dartzone": "video.us.reuters", 
+                        "dcsext.rchannel": "Video", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "dcsext.videoid_finance videos": "241093013", 
+                        "dcsext.videotype": "Digital+Video", 
+                        "fb:app_id": "169549326390879", 
+                        "og:description": "Feb. 13 - The loss of Britain's triple-A credit rating would have little impact, if any, on the UK bond market because investors have already priced in such an eventuality, says DMO chief Robert Stheeman.", 
+                        "og:image": "http://yospace-cds1.reuters.com/u/resize~ad1~1200/0/f/~image_jpeg~9999-1/1/m/e/s/a/x/lf4l/reuters04?videoId=55877530", 
+                        "og:locale": "en_US", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Loss of AAA rating \"fully priced in\":  UK debt chief", 
+                        "og:type": "video.other", 
+                        "og:url": "http://www.reuters.com/video/2013/02/13/loss-of-aaa-rating-fully-priced-in-uk-de?videoId=241093013&videoChannel=13979", 
+                        "og:video": "http://www.reuters.com/video/2013/02/13/loss-of-aaa-rating-fully-priced-in-uk-de?videoId=241093013&videoChannel=13979", 
+                        "og:video:height": "549", 
+                        "og:video:type": "application/x-shockwave-flash", 
+                        "og:video:width": "973", 
+                        "title": "Loss of AAA rating \"fully priced in\":  UK debt chief", 
+                        "twitter:card": "summary_large_image", 
+                        "twitter:site": "@Reuters", 
+                        "viewport": "width=device-width, initial-scale=1", 
+                        "wt.cg_n": "Video - Landing", 
+                        "wt.cg_s": "Landing", 
+                        "wt.dl": "0"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 12, 2013 ... 13 - The loss of Britain's triple-A credit rating would have little impact, if any, on \nthe UK bond market because investors have already priced in\u00a0...", 
+            "title": "Loss of AAA rating fully priced in : UK debt chief | Video | Reuters.com"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:UK wine industry", 
+                "sort": "date:r:20130201:20130331", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - intitle:UK wine industry", 
+                "totalResults": "1290"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:UK wine industry", 
+                "sort": "date:r:20130201:20130331", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:UK wine industry", 
+                "totalResults": "1290"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.54", 
+        "formattedTotalResults": "1,290", 
+        "searchTime": 0.53967, 
+        "totalResults": "1290"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

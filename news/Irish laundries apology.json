@@ -1,0 +1,615 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "wx9YbtCGOrcJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21510281", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21510281", 
+            "htmlSnippet": "Feb 19, 2013 <b>...</b> The Irish Prime Minister, Enda Kenny, formally apologises on behalf of the Irish <br>\nstate for its role in the Magdalene <b>laundries</b>.", 
+            "htmlTitle": "BBC News - Magdalene <b>laundries</b>: <b>Irish</b> Prime Minister issues <b>apology</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21510281", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65965000/jpg/_65965000__52213069_ek.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTo4P3zzBRgoxiTquJLvd7NmV0mydOiKHi8kKtatXp5sm8arT1wufw1", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21510281", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-19T18:51:18+00:00", 
+                        "dcterms.modified": "2013-02-19T22:41:36+00:00", 
+                        "headline": "Irish PM in apology over laundries", 
+                        "ifs_url": "/news/world-europe-21510281", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65965000/jpg/_65965000__52213069_ek.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Irish PM in apology over laundries", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21510281", 
+                        "originalpublicationdate": "2013/02/19 22:41:36", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65964000/jpg/_65964999__52213069_ek.jpg", 
+                        "ukfs_url": "/news/world-europe-21510281", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 19, 2013 ... The Irish Prime Minister, Enda Kenny, formally apologises on behalf of the Irish \nstate for its role in the Magdalene laundries.", 
+            "title": "BBC News - Magdalene laundries: Irish Prime Minister issues apology"
+        }, 
+        {
+            "cacheId": "_tmCAA1yAjQJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21326221", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21326221", 
+            "htmlSnippet": "Feb 5, 2013 <b>...</b> The Magdalene <b>laundries</b> were presented as a better way of life for &quot;troubled&quot; ... <br>\nbut he stopped short of a formal <b>apology</b> from the government.", 
+            "htmlTitle": "BBC News - <b>Irish</b> PM: Magdalene <b>laundries</b> product of harsh Ireland", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21326221", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65720000/jpg/_65720406_m3.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwCpPpxoxWT_f2xXyK8VFmKE66h7mtJmYrmmbkFHDE9MA73i2d-oeZQQ", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21326221", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-05T06:29:39+00:00", 
+                        "dcterms.modified": "2013-02-05T18:25:51+00:00", 
+                        "headline": "Laundries 'product of harsh Ireland'", 
+                        "ifs_url": "/news/world-europe-21326221", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65720000/jpg/_65720406_m3.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Laundries 'product of harsh Ireland'", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21326221", 
+                        "originalpublicationdate": "2013/02/05 18:25:51", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65720000/jpg/_65720405_m3.jpg", 
+                        "ukfs_url": "/news/world-europe-21326221", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 5, 2013 ... The Magdalene laundries were presented as a better way of life for \"troubled\" ... \nbut he stopped short of a formal apology from the government.", 
+            "title": "BBC News - Irish PM: Magdalene laundries product of harsh Ireland"
+        }, 
+        {
+            "cacheId": "Z8KnbrLZBokJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21514044", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21514044", 
+            "htmlSnippet": "Feb 19, 2013 <b>...</b> The Irish Prime Minister (Taoiseach), Enda Kenny, has formally apologised on <br>\nbehalf of the state for its role in the Magdalene <b>laundries</b>.", 
+            "htmlTitle": "BBC News - Magdalene <b>laundries</b>: <b>Irish</b> PM issues formal <b>apology</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21514044", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65967000/jpg/_65967944_65967511.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAO_yMrqTkTSDVfjw8tPpuirVbb6M0sUUuKBxypY6jn3KoK0IEixLE", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21514044", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-19T22:03:31+00:00", 
+                        "dcterms.modified": "2013-02-19T22:03:31+00:00", 
+                        "headline": "Irish PM in apology over laundries", 
+                        "ifs_url": "/news/world-europe-21514044", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65967000/jpg/_65967944_65967511.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Irish PM in apology over laundries", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21514044", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/world-europe-21514044A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/02/19 22:03:31", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65967000/jpg/_65967943_65967511.jpg", 
+                        "ukfs_url": "/news/world-europe-21514044", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 19, 2013 ... The Irish Prime Minister (Taoiseach), Enda Kenny, has formally apologised on \nbehalf of the state for its role in the Magdalene laundries.", 
+            "title": "BBC News - Magdalene laundries: Irish PM issues formal apology"
+        }, 
+        {
+            "cacheId": "fbmRc3S9pecJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-ireland-laundries-pm-idUSBRE91519R20130206", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-ireland-<b>laundries</b>-pm-idUSBRE91519R20130206", 
+            "htmlSnippet": "Feb 6, 2013 <b>...</b> DUBLIN (Reuters) - Irish Prime Minister Enda Kenny was criticized by his <br>\ngovernment&#39;s junior coalition partner on Wednesday for not issuing&nbsp;...", 
+            "htmlTitle": "<b>Irish</b> PM called on to <b>apologize</b> for Magdalene <b>Laundries</b> | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/06/us-ireland-laundries-pm-idUSBRE91519R20130206", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130206&t=2&i=701520628&w=130&fh=&fw=&ll=&pl=&r=CBRE9151OZ300"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "59", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjs5SFJhctfd19g4y9nlM2TOZcsJCCuMIRGOPGExb-e0NgRuagopZl", 
+                        "width": "106"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "worldNews;newsMaps;Travel;ford;everything;treasuryMarkets;Continental;Cargill;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;Suntrust_SmallBiz;AllianzInvestments;HSBC_US;FedExSMB;Goldman;everythingButHugin;AXAinsurance;OutloudFeed;Allianz;JPMorgan;CFA;nyse;trending-hp;statestreetetf;samsung;newsproHome;cfaglobal;merrilledge;competitorsdependency;shipping;citianniversary;accenture;PrudentialInvestments;MLGZero;fedex_neg;ubs;MLedge;BNY", 
+                        "dcsext.contentchannel": "worldNews", 
+                        "dcsext.contentheadline": "Irish+PM+called+on+to+apologize+for+Magdalene+Laundries", 
+                        "dcsext.contentid": "USBRE91519R20130206", 
+                        "dcsext.contentid_worldnews": "USBRE91519R20130206", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/world/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130206&t=2&i=701520628&w=130&fh=&fw=&ll=&pl=&r=CBRE9151OZ300", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Irish PM called on to apologize for Magdalene Laundries", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/06/us-ireland-laundries-pm-idUSBRE91519R20130206", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Irish PM called on to apologize for Magdalene Laundries\", \"link\": \"http://www.reuters.com/article/2013/02/06/us-ireland-laundries-pm-idUSBRE91519R20130206\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130206&t=2&i=701520628&w=130&fh=&fw=&ll=&pl=&r=CBRE9151OZ300\", \"post_id\": \"USBRE91519R20130206\", \"pub_date\": \"2013-02-06T21:57:03+0000\", \"section\":\"worldNews\", \"author\": \"Padraic Halpin\"}", 
+                        "revision_date": "Wed Feb 06 21:57:03 UTC 2013", 
+                        "wt.cg_n": "News - World", 
+                        "wt.cg_s": "worldNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 6, 2013 ... DUBLIN (Reuters) - Irish Prime Minister Enda Kenny was criticized by his \ngovernment's junior coalition partner on Wednesday for not issuing\u00a0...", 
+            "title": "Irish PM called on to apologize for Magdalene Laundries | Reuters"
+        }, 
+        {
+            "cacheId": "0cet8qolkD8J", 
+            "displayLink": "www.bbc.com", 
+            "formattedUrl": "www.bbc.com/news/world-europe-21514044", 
+            "htmlFormattedUrl": "www.bbc.com/news/world-europe-21514044", 
+            "htmlSnippet": "Feb 19, 2013 <b>...</b> The Irish Prime Minister (Taoiseach), Enda Kenny, has formally apologised on <br>\nbehalf of the state for its role in the Magdalene <b>laundries</b>.", 
+            "htmlTitle": "BBC News - Magdalene <b>laundries</b>: <b>Irish</b> PM issues formal <b>apology</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.com/news/world-europe-21514044", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65967000/jpg/_65967944_65967511.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAO_yMrqTkTSDVfjw8tPpuirVbb6M0sUUuKBxypY6jn3KoK0IEixLE", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "US", 
+                        "cps_id": "21514044", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-19T22:03:31+00:00", 
+                        "dcterms.modified": "2013-02-19T22:03:31+00:00", 
+                        "headline": "Irish PM in apology over laundries", 
+                        "ifs_url": "/news/world-europe-21514044", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65967000/jpg/_65967944_65967511.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Irish PM in apology over laundries", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21514044", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/world-europe-21514044A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/02/19 22:03:31", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65967000/jpg/_65967943_65967511.jpg", 
+                        "ukfs_url": "/news/world-europe-21514044", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 19, 2013 ... The Irish Prime Minister (Taoiseach), Enda Kenny, has formally apologised on \nbehalf of the state for its role in the Magdalene laundries.", 
+            "title": "BBC News - Magdalene laundries: Irish PM issues formal apology"
+        }, 
+        {
+            "cacheId": "iALHmLTc7JQJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21502779", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21502779", 
+            "htmlSnippet": "Feb 19, 2013 <b>...</b> Campaigners expect a formal state <b>apology</b> as the Irish parliament debates a <br>\nreport into the conditions suffered by unpaid women in&nbsp;...", 
+            "htmlTitle": "BBC News - Magdalene <b>laundries</b>: <b>Irish</b> government to debate report", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21502779", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65950000/jpg/_65950147_magdalenesurvivors.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQqqXYAzD_NdxeXwN1ypSbdv0-rtfqekHaUc-mfTu84KC8XQXVqcRM", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21502779", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-19T07:29:16+00:00", 
+                        "dcterms.modified": "2013-02-19T07:29:16+00:00", 
+                        "headline": "Magdalene laundries to be debated", 
+                        "ifs_url": "/news/world-europe-21502779", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65950000/jpg/_65950147_magdalenesurvivors.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Magdalene laundries to be debated", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21502779", 
+                        "originalpublicationdate": "2013/02/19 07:29:16", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65949000/jpg/_65949882_magdalenesurvivors.jpg", 
+                        "ukfs_url": "/news/world-europe-21502779", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 19, 2013 ... Campaigners expect a formal state apology as the Irish parliament debates a \nreport into the conditions suffered by unpaid women in\u00a0...", 
+            "title": "BBC News - Magdalene laundries: Irish government to debate report"
+        }, 
+        {
+            "cacheId": "g3gbWOODNGUJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21348473", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21348473", 
+            "htmlSnippet": "Feb 6, 2013 <b>...</b> Mr Kenny said the <b>laundries</b> had operated in a &quot;harsh and uncompromising <br>\nIreland,&quot; but he stopped short of a formal <b>apology</b> from the&nbsp;...", 
+            "htmlTitle": "BBC News - Magdalene <b>laundries</b> report to be raised in <b>Irish</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21348473", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65725000/jpg/_65725107_m3.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7IXjZrcdJiGqDHQKHL3Q3eqJJVwQwxZkJYnHsHV5H4fOywbs-ztQNYw", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21348473", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-06T07:25:42+00:00", 
+                        "dcterms.modified": "2013-02-06T07:25:42+00:00", 
+                        "headline": "Dail to raise Magdalene report", 
+                        "ifs_url": "/news/world-europe-21348473", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65725000/jpg/_65725107_m3.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Dail to raise Magdalene report", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21348473", 
+                        "originalpublicationdate": "2013/02/06 07:25:42", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65725000/jpg/_65725106_m3.jpg", 
+                        "ukfs_url": "/news/world-europe-21348473", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 6, 2013 ... Mr Kenny said the laundries had operated in a \"harsh and uncompromising \nIreland,\" but he stopped short of a formal apology from the\u00a0...", 
+            "title": "BBC News - Magdalene laundries report to be raised in Irish ..."
+        }, 
+        {
+            "cacheId": "GqkX_rw0ErcJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-ireland-laundries-pm-idUSBRE91I14Y20130219", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-ireland-<b>laundries</b>-pm-idUSBRE91I14Y20130219", 
+            "htmlSnippet": "Feb 19, 2013 <b>...</b> DUBLIN (Reuters) - Irish Prime Minister Enda Kenny <b>apologized</b> on Tuesday for <br>\n... pay at the Catholic Church&#39;s notorious Magdalene <b>Laundries</b>.", 
+            "htmlTitle": "<b>Irish</b> PM <b>apologizes</b> for national shame of Magdalene <b>Laundries</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/19/us-ireland-laundries-pm-idUSBRE91I14Y20130219", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130219&t=2&i=705520783&w=130&fh=&fw=&ll=&pl=&r=CBRE91I1JLT00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "72", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXQNb2Dot0Tuhr16WTlidcNNtRIOGCQNYGZQBzR-OUG9ljNcB8JB8_", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "worldNews;newsMaps;Travel;ford;everything;treasuryMarkets;Continental;forexNewsCopy;Cargill;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;Suntrust_SmallBiz;AllianzInvestments;HSBC_US;Goldman;everythingButHugin;AXAinsurance;OutloudFeed;HPEnterprise;Allianz;JPMorgan;CFA;sapawarenesstech;sapawarenesslife;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;newsproHome;cfaglobal;merrilledge;competitorsdependency;citianniversary;HSBCGlobal;PrudentialInvestments;MLGZero;fedex_neg;ubs;MLedge;BNY;citgroup", 
+                        "dcsext.contentchannel": "worldNews", 
+                        "dcsext.contentheadline": "Irish+PM+apologizes+for+%22national+shame%22+of+Magdalene+Laundries", 
+                        "dcsext.contentid": "USBRE91I14Y20130219", 
+                        "dcsext.contentid_worldnews": "USBRE91I14Y20130219", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/world/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130219&t=2&i=705520783&w=130&fh=&fw=&ll=&pl=&r=CBRE91I1JLT00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Irish PM apologizes for national shame of Magdalene Laundries", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/19/us-ireland-laundries-pm-idUSBRE91I14Y20130219", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Irish PM apologizes for \\\"national shame\\\" of Magdalene Laundries\", \"link\": \"http://www.reuters.com/article/2013/02/19/us-ireland-laundries-pm-idUSBRE91I14Y20130219\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130219&t=2&i=705520783&w=130&fh=&fw=&ll=&pl=&r=CBRE91I1JLT00\", \"post_id\": \"USBRE91I14Y20130219\", \"pub_date\": \"2013-02-19T20:01:05+0000\", \"section\":\"worldNews\", \"author\": \"Conor Humphries\"}", 
+                        "revision_date": "Tue Feb 19 20:01:05 UTC 2013", 
+                        "wt.cg_n": "News - World", 
+                        "wt.cg_s": "worldNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 19, 2013 ... DUBLIN (Reuters) - Irish Prime Minister Enda Kenny apologized on Tuesday for \n... pay at the Catholic Church's notorious Magdalene Laundries.", 
+            "title": "Irish PM apologizes for national shame of Magdalene Laundries ..."
+        }, 
+        {
+            "cacheId": "6PxySdZ_4jIJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-europe-21338890", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-europe-21338890", 
+            "htmlSnippet": "Feb 5, 2013 <b>...</b> Mr Kenny said the <b>laundries</b> had operated in a &quot;harsh and uncompromising <br>\nIreland,&quot; but he stopped short of a formal <b>apology</b> from the&nbsp;...", 
+            "htmlTitle": "BBC News - <b>Irish</b> PM: Magdalene <b>laundries</b> product of harsh Ireland", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-europe-21338890", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65720000/jpg/_65720905_m3.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqSPioA3HzHCR8sJfy2cs0TxjRkIeNYB5cfSRsI8T_JQ-Ht5REp3QoHw", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21338890", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Europe", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-05T18:51:08+00:00", 
+                        "dcterms.modified": "2013-02-05T18:51:08+00:00", 
+                        "headline": "Laundries 'product of harsh Ireland'", 
+                        "ifs_url": "/news/world-europe-21338890", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65720000/jpg/_65720905_m3.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Laundries 'product of harsh Ireland'", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-europe-21338890", 
+                        "originalpublicationdate": "2013/02/05 18:51:08", 
+                        "section": "Europe", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65720000/jpg/_65720904_m3.jpg", 
+                        "ukfs_url": "/news/world-europe-21338890", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 5, 2013 ... Mr Kenny said the laundries had operated in a \"harsh and uncompromising \nIreland,\" but he stopped short of a formal apology from the\u00a0...", 
+            "title": "BBC News - Irish PM: Magdalene laundries product of harsh Ireland"
+        }, 
+        {
+            "cacheId": "dcRvDeyU7V0J", 
+            "displayLink": "uk.reuters.com", 
+            "formattedUrl": "uk.reuters.com/.../uk-ireland-laundries-idUKBRE9140WL20130205", 
+            "htmlFormattedUrl": "uk.reuters.com/.../uk-ireland-<b>laundries</b>-idUKBRE9140WL20130205", 
+            "htmlSnippet": "Feb 5, 2013 <b>...</b> The <b>laundries</b>, run by Catholic nuns, have been accused of treating ... Kenny <br>\nstopped short on Tuesday of the full <b>apology</b> demanded by&nbsp;...", 
+            "htmlTitle": "<b>Irish</b> state held responsible for Magdalene <b>Laundries</b> | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://uk.reuters.com/article/2013/02/05/uk-ireland-laundries-idUKBRE9140WL20130205", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130205&t=2&i=701096637&w=580&fh=&fw=&ll=&pl=&r=CBRE9141CAO00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "172", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQB34WPGn9MEMsyr5E8NY6jczg72axtfGDrEUMougT7qoZ2-t4kU72KxvqD", 
+                        "width": "293"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "domesticNews;exxonEnergyNews;everything;britishGas;executiveCompensation;ireland;nyseuk;cathayPacific;samsung;shell;merrilledge;competitorsdependency;MLGZero;fedex_neg;MLedge", 
+                        "dcsext.contentchannel": "domesticNews", 
+                        "dcsext.contentheadline": "Irish+state+held+responsible+for+Magdalene+Laundries", 
+                        "dcsext.contentid": "UKBRE9140WL20130205", 
+                        "dcsext.contentid_domesticnews": "UKBRE9140WL20130205", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "uk.reuters/news/uk/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "UK", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Irish state held responsible for Magdalene Laundries\", \"link\": \"http://uk.reuters.com/article/2013/02/05/uk-ireland-laundries-idUKBRE9140WL20130205\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130205&t=2&i=701096637&w=130&fh=&fw=&ll=&pl=&r=CBRE9141CAO00\", \"post_id\": \"UKBRE9140WL20130205\", \"pub_date\": \"2013-02-05T17:23:12+0000\", \"section\":\"domesticNews\", \"author\": \"Padraic Halpin\"}", 
+                        "revision_date": "Tue Feb 05 17:23:12 UTC 2013", 
+                        "site edition": "Reuters UK", 
+                        "wt.cg_n": "News - UK", 
+                        "wt.cg_s": "domesticNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 5, 2013 ... The laundries, run by Catholic nuns, have been accused of treating ... Kenny \nstopped short on Tuesday of the full apology demanded by\u00a0...", 
+            "title": "Irish state held responsible for Magdalene Laundries | Reuters"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Irish laundries apology", 
+                "sort": "date:r:20130201:20130325", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - intitle:Irish laundries apology", 
+                "totalResults": "26"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Irish laundries apology", 
+                "sort": "date:r:20130201:20130325", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Irish laundries apology", 
+                "totalResults": "26"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.09", 
+        "formattedTotalResults": "26", 
+        "searchTime": 0.087124, 
+        "totalResults": "26"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

@@ -1,0 +1,591 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "SbeEUkOgSbAJ", 
+            "displayLink": "college.usatoday.com", 
+            "formattedUrl": "college.usatoday.com/.../opinion-oscars-snub-some-but-largely-get-it-right/", 
+            "htmlFormattedUrl": "college.usatoday.com/.../opinion-<b>oscars</b>-<b>snub</b>-some-but-largely-get-it-right/", 
+            "htmlSnippet": "Feb 25, 2013 <b>...</b> Except Argo director Ben <b>Affleck</b> got his own <b>snub</b> in the best director category, <br>\nmaking best picture a necessary apology for the film that had&nbsp;...", 
+            "htmlTitle": "Opinion: <b>Oscars snub</b> some but largely get it right | USA TODAY <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://college.usatoday.com/2013/02/25/opinion-oscars-snub-some-but-largely-get-it-right/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://usatcollege.files.wordpress.com/2013/02/310-0212-oscars.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "224", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStkU9gjvDEoKWGVZaQxONWPXowVss9cnTFoyJk1f1_KGrIkz9PsBg6gzg", 
+                        "width": "225"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "USA TODAY College", 
+                        "article:author": "http://college.usatoday.com/author/admin/", 
+                        "article:modified_time": "2013-02-25T16:10:09+00:00", 
+                        "article:published_time": "2013-02-25T16:10:09+00:00", 
+                        "article:publisher": "http://www.facebook.com/usatodaycollege", 
+                        "fb:app_id": "579265242172778", 
+                        "msapplication-task": "name=Subscribe;action-uri=http://college.usatoday.com/feed/;icon-uri=http://1.gravatar.com/blavatar/9faea9884abe7fbca3417fb23c88b85e?s=16", 
+                        "msapplication-tooltip": "Preparing students for tomorrow with USA TODAY", 
+                        "msapplication-window": "width=device-width;height=device-height", 
+                        "og:description": "Collegiate Correspondent Clara Ritger reviews last night's surprising Oscar picks.", 
+                        "og:image": "http://usatcollege.files.wordpress.com/2013/02/310-0212-oscars.jpg", 
+                        "og:site_name": "USA TODAY College", 
+                        "og:title": "Opinion: Oscars snub some but largely get it right", 
+                        "og:type": "article", 
+                        "og:url": "http://college.usatoday.com/2013/02/25/opinion-oscars-snub-some-but-largely-get-it-right/", 
+                        "twitter:card": "summary_large_image", 
+                        "twitter:creator": "@USATODAYcollege", 
+                        "twitter:image:src": "http://usatcollege.files.wordpress.com/2013/02/310-0212-oscars.jpg?w=640", 
+                        "twitter:site": "@usatodaycollege", 
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no;"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "By Clara Ritger @clararitger USA TODAY Collegiate Correspondent By Joe Klamar, AFP/Getty Images Director Ben Affleck, center, and producers George Clooney, right, and Grant Heslov celebrate...", 
+                        "articlesection": "VOICES FROM CAMPUS", 
+                        "headline": "Opinion: Oscars snub some but largely get it right", 
+                        "name": "Opinion: Oscars snub some but largely get it right"
+                    }, 
+                    {
+                        "articlesection": "VOICES FROM CAMPUS", 
+                        "image": "http://usatcollege.files.wordpress.com/2014/03/oscars.jpg?w=295&h=231&crop=1", 
+                        "url": "http://college.usatoday.com/2014/03/03/what-the-oscars-really-meant-last-night/"
+                    }, 
+                    {
+                        "articlesection": "VOICES FROM CAMPUS", 
+                        "image": "http://usatcollege.files.wordpress.com/2014/03/the-oscars.jpeg?w=160&h=200&crop=1", 
+                        "url": "http://college.usatoday.com/2014/01/17/4-must-see-oscar-nominees-to-catch-before-the-show/"
+                    }, 
+                    {
+                        "articlesection": "VOICES FROM CAMPUS", 
+                        "image": "http://usatcollege.files.wordpress.com/2014/03/164019303.jpg?w=295&h=231&crop=1", 
+                        "url": "http://college.usatoday.com/2014/03/05/website-selfiecity-finds-what-selfies-say-about-college-students/"
+                    }, 
+                    {
+                        "image": "http://usatcollege.files.wordpress.com/2014/06/jonstewart.jpg?w=192&h=150&crop=1", 
+                        "url": "http://college.usatoday.com/2014/06/27/sexual-assault-segment-on-the-daily-show-goes-viral/"
+                    }, 
+                    {
+                        "image": "http://i1.wp.com/usatcollege.files.wordpress.com/2014/06/epa_usa_martinez_meets_rodger.jpg?crop=0px%2C80px%2C3126px%2C2442px&resize=192%2C150", 
+                        "url": "http://college.usatoday.com/2014/06/27/my-son-was-a-mass-murderer-dad-seeks-to-end-violence/"
+                    }, 
+                    {
+                        "image": "http://usatcollege.files.wordpress.com/2014/06/screen-shot-2014-06-27-at-3-00-39-pm.jpg?w=192&h=150&crop=1", 
+                        "url": "http://college.usatoday.com/2014/06/27/watch-thirteenth-annual-campus-movie-fest/"
+                    }, 
+                    {
+                        "image": "http://i2.wp.com/usatcollege.files.wordpress.com/2014/06/xxx_shyla-2.jpg?crop=306px%2C1357px%2C1731px%2C1353px&resize=192%2C150", 
+                        "url": "http://college.usatoday.com/2014/06/27/the-latest-and-greatest-college-luxury-loaner-puppies/"
+                    }, 
+                    {
+                        "image": "http://usatcollege.files.wordpress.com/2014/06/telecommute2.jpg?w=192&h=150&crop=1", 
+                        "url": "http://college.usatoday.com/2014/06/27/working-from-the-couch-what-to-know-about-remote-internships/"
+                    }, 
+                    {
+                        "image": "http://i0.wp.com/usatcollege.files.wordpress.com/2014/06/getty.jpg?crop=0px%2C141px%2C2000px%2C1563px&resize=192%2C150", 
+                        "url": "http://college.usatoday.com/2014/06/27/girl-meets-world-premiere-is-the-ultimate-flashbackfriday/"
+                    }, 
+                    {
+                        "image": "http://usatcollege.files.wordpress.com/2014/06/451881387.jpg?w=192&h=150&crop=1", 
+                        "url": "http://college.usatoday.com/2014/06/27/hot-mess-here-are-3-ways-to-get-organized-right-now/"
+                    }, 
+                    {
+                        "articlesection": "THE LOWDOWN FROM COLLEGE FACTUAL", 
+                        "image": "http://usatcollege.files.wordpress.com/2013/11/princeton.jpg?w=100&h=100&crop=1", 
+                        "url": "http://college.usatoday.com/2014/06/19/the-top-10-music-colleges-in-the-united-states/"
+                    }, 
+                    {
+                        "articlesection": "COLLEGE CHOICE", 
+                        "image": "http://usatcollege.files.wordpress.com/2013/03/83402854.jpg?w=100&h=100&crop=1", 
+                        "url": "http://college.usatoday.com/2013/03/08/4-easy-scholarships-any-student-can-win/"
+                    }, 
+                    {
+                        "articlesection": "CAMPUS LIFE", 
+                        "image": "http://usatcollege.files.wordpress.com/2012/10/300-1012-bottle-featured.jpg?w=100&h=100&crop=1", 
+                        "url": "http://college.usatoday.com/2012/10/13/10-essential-items-for-the-healthy-college-student/"
+                    }, 
+                    {
+                        "articlesection": "VOICES FROM CAMPUS", 
+                        "image": "http://i0.wp.com/usatcollege.files.wordpress.com/2014/06/getty.jpg?crop=0px%2C111px%2C2000px%2C2000px&resize=100%2C100", 
+                        "url": "http://college.usatoday.com/2014/06/27/girl-meets-world-premiere-is-the-ultimate-flashbackfriday/"
+                    }
+                ], 
+                "person": [
+                    {
+                        "articlesection": "VOICES FROM CAMPUS"
+                    }, 
+                    {
+                        "articlesection": "VOICES FROM CAMPUS"
+                    }, 
+                    {
+                        "articlesection": "VOICES FROM CAMPUS"
+                    }, 
+                    {
+                        "articlesection": "VOICES FROM CAMPUS"
+                    }, 
+                    {
+                        "articlesection": "CAREER PATH"
+                    }, 
+                    {
+                        "articlesection": "VOICES FROM CAMPUS"
+                    }, 
+                    {
+                        "articlesection": "CAREER PATH"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 25, 2013 ... Except Argo director Ben Affleck got his own snub in the best director category, \nmaking best picture a necessary apology for the film that had\u00a0...", 
+            "title": "Opinion: Oscars snub some but largely get it right | USA TODAY ..."
+        }, 
+        {
+            "cacheId": "ylenuxkdyf8J", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/LIFE/.../2013-02-04-Directors-Guild_ST_U.htm", 
+            "htmlFormattedUrl": "www.usatoday.com/LIFE/.../2013-02-04-Directors-Guild_ST_U.htm", 
+            "htmlSnippet": "Feb 3, 2013 <b>...</b> The film has won virtually every major film award since <b>Affleck</b> was <b>snubbed</b> for a <br>\nbest-director nomination when the Oscar nominees were&nbsp;...", 
+            "htmlTitle": "Could <b>Affleck&#39;s</b> &#39;Argo&#39; be inescapable at <b>Oscars</b>? - USATODAY.com", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/LIFE/usaedition/2013-02-04-Directors-Guild_ST_U.htm", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://i.usatoday.net/_common/_images/logo-100.png"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:admins": "827697655", 
+                        "fb:page_id": "13652355666", 
+                        "og:description": "USATODAY.com Latest News", 
+                        "og:image": "http://i.usatoday.net/_common/_images/logo-100.png", 
+                        "og:site_name": "USATODAY.COM", 
+                        "og:title": "Could Affleck's 'Argo' be inescapable at Oscars? - USATODAY.com", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/LIFE/usaedition/2013-02-04-Directors-Guild_ST_U.htm", 
+                        "pubdate": "Feb 03, 2013", 
+                        "pubdatetime": "2/3/2013 7:50 PM", 
+                        "pubtime": "07:51 PM"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 3, 2013 ... The film has won virtually every major film award since Affleck was snubbed for a \nbest-director nomination when the Oscar nominees were\u00a0...", 
+            "title": "Could Affleck's 'Argo' be inescapable at Oscars? - USATODAY.com"
+        }, 
+        {
+            "cacheId": "T37tlG51ZucJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../entertainment-us-directorsguild- idUSBRE91203820130203", 
+            "htmlFormattedUrl": "www.reuters.com/.../entertainment-us-directorsguild- idUSBRE91203820130203", 
+            "htmlSnippet": "Feb 3, 2013 <b>...</b> LOS ANGELES (Reuters) - Actor-turned-filmmaker Ben <b>Affleck</b> won the ... in what <br>\nis considered one of the biggest <b>snubs</b> of this year&#39;s Oscars.", 
+            "htmlTitle": "<b>Affleck</b> wins directors award as &#39;Argo&#39; hurtles to <b>Oscars</b> | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/03/entertainment-us-directorsguild-idUSBRE91203820130203", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130203&t=2&i=700403098&w=130&fh=&fw=&ll=&pl=&r=CBRE9120NT700"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "81", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvPmYft65uzcL9JILjMWdAE06yyZthUWG0jVnIvS9sxL7xRVpIBhf", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.artcms": "1", 
+                        "dcsext.channellist": "entertainmentNews;filmNews;Iran;Filmfestivals;BMW;goldenGlobes;everything;treasuryMarkets;Continental;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;FedExSMB;everythingButHugin;OutloudFeed;CFA;jpGambaroPeople;trending-hp;samsung;cfaglobal;merrilledge;ernstyoung;fedex_neg;ubs;BNY", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "entertainmentNews", 
+                        "dcsext.contentheadline": "Affleck+wins+directors+award+as+%27Argo%27+hurtles+to+Oscars", 
+                        "dcsext.contentid": "USBRE91203820130203", 
+                        "dcsext.contentid_entertainmentnews": "USBRE91203820130203", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/entertainment/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130203&t=2&i=700403098&w=130&fh=&fw=&ll=&pl=&r=CBRE9120NT700", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Affleck wins directors award as 'Argo' hurtles to Oscars", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/03/entertainment-us-directorsguild-idUSBRE91203820130203", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Affleck wins directors award as \\u0027Argo\\u0027 hurtles to Oscars\", \"link\": \"http://www.reuters.com/article/2013/02/03/entertainment-us-directorsguild-idUSBRE91203820130203\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130203&t=2&i=700403098&w=130&fh=&fw=&ll=&pl=&r=CBRE9120NT700\", \"post_id\": \"USBRE91203820130203\", \"pub_date\": \"2013-02-03T09:54:05+0000\", \"section\":\"entertainmentNews\", \"author\": \"Mary Milliken\"}", 
+                        "revision_date": "Sun Feb 03 09:54:05 UTC 2013", 
+                        "wt.cg_n": "News - Entertainment", 
+                        "wt.cg_s": "entertainmentNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 3, 2013 ... LOS ANGELES (Reuters) - Actor-turned-filmmaker Ben Affleck won the ... in what \nis considered one of the biggest snubs of this year's Oscars.", 
+            "title": "Affleck wins directors award as 'Argo' hurtles to Oscars | Reuters"
+        }, 
+        {
+            "cacheId": "JUbQ5l0zLIcJ", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/article/argo-takes-best-picture-oscars", 
+            "htmlFormattedUrl": "bigstory.ap.org/article/argo-takes-best-picture-<b>oscars</b>", 
+            "htmlSnippet": "Feb 24, 2013 <b>...</b> LOS ANGELES (AP) \u2014 If Ben <b>Affleck</b> was <b>snubbed</b> by the Oscars, everyone <br>\nshould be so lucky. His Iran rescue thriller &quot;Argo&quot; has won best&nbsp;...", 
+            "htmlTitle": "&#39;Argo&#39; takes best picture at the <b>Oscars</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/argo-takes-best-picture-oscars", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "LOS ANGELES (AP) \u2014 If Ben Affleck was snubbed by the Oscars, everyone should be so lucky.", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "'Argo' takes best picture at the Oscars", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/argo-takes-best-picture-oscars", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 24, 2013 ... LOS ANGELES (AP) \u2014 If Ben Affleck was snubbed by the Oscars, everyone \nshould be so lucky. His Iran rescue thriller \"Argo\" has won best\u00a0...", 
+            "title": "'Argo' takes best picture at the Oscars"
+        }, 
+        {
+            "cacheId": "1fNbb3j4Vv8J", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../film-directorsguild-idUSL1N0B30MU20130203", 
+            "htmlFormattedUrl": "www.reuters.com/.../film-directorsguild-idUSL1N0B30MU20130203", 
+            "htmlSnippet": "Feb 3, 2013 <b>...</b> The Hollywood directors&#39; recognition for <b>Affleck</b>, however, is an awkward ... in <br>\nwhat is considered one of the biggest <b>snubs</b> of this year&#39;s Oscars.", 
+            "htmlTitle": "<b>Affleck</b> wins directors&#39; top award as &#39;Argo&#39; hurtles toward <b>Oscars</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/03/film-directorsguild-idUSL1N0B30MU20130203", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "rbssTechMediaTelecomNews;rbssEntertainmentProduction;mediaNews;technology-media-telco-SP;Filmfestivals;BMW;goldenGlobes;everything;treasuryMarkets;Continental;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;FedExSMB;everythingButHugin;msnMoneyFeed;OutloudFeed;CFA;jpGambaroPeople;trending-hp;samsung;cfaglobal;merrilledge;ernstyoung;fedex_neg;ubs;BNY;cyclicalConsumerGoodsSector", 
+                        "dcsext.contentchannel": "cyclicalConsumerGoodsSector", 
+                        "dcsext.contentheadline": "Affleck+wins+directors%27+top+award+as+%27Argo%27+hurtles+toward+Oscars", 
+                        "dcsext.contentid": "USL1N0B30MU20130203", 
+                        "dcsext.contentid_cyclicalconsumergoodssector": "USL1N0B30MU20130203", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/industries/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Affleck wins directors' top award as 'Argo' hurtles toward Oscars", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/03/film-directorsguild-idUSL1N0B30MU20130203", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Affleck wins directors\\u0027 top award as \\u0027Argo\\u0027 hurtles toward Oscars\", \"link\": \"http://www.reuters.com/article/2013/02/03/film-directorsguild-idUSL1N0B30MU20130203\", \"image_url\": \"\", \"post_id\": \"USL1N0B30MU20130203\", \"pub_date\": \"2013-02-03T08:09:38+0000\", \"section\":\"cyclicalConsumerGoodsSector\", \"author\": \"Mary Milliken\"}", 
+                        "revision_date": "Sun Feb 03 08:09:38 UTC 2013", 
+                        "wt.cg_n": "Finance - Industries", 
+                        "wt.cg_s": "cyclicalConsumerGoodsSector"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 3, 2013 ... The Hollywood directors' recognition for Affleck, however, is an awkward ... in \nwhat is considered one of the biggest snubs of this year's Oscars.", 
+            "title": "Affleck wins directors' top award as 'Argo' hurtles toward Oscars ..."
+        }, 
+        {
+            "cacheId": "oPzrwt_FqrEJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../film-directorsguild-idUSL5N0B31UG20130203", 
+            "htmlFormattedUrl": "www.reuters.com/.../film-directorsguild-idUSL5N0B31UG20130203", 
+            "htmlSnippet": "Feb 3, 2013 <b>...</b> The Hollywood directors&#39; recognition for <b>Affleck</b>, however, is an awkward ... in <br>\nwhat is considered one of the biggest <b>snubs</b> of this year&#39;s Oscars.", 
+            "htmlTitle": "UPDATE 1-<b>Affleck</b> wins directors award as &#39;Argo&#39; hurtles to <b>Oscars</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/03/film-directorsguild-idUSL5N0B31UG20130203", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "rbssTechMediaTelecomNews;rbssEntertainmentProduction;mediaNews;technology-media-telco-SP;BMW;goldenGlobes;everything;treasuryMarkets;Continental;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;FedExSMB;everythingButHugin;msnMoneyFeed;OutloudFeed;CFA;jpGambaroPeople;trending-hp;samsung;cfaglobal;merrilledge;ernstyoung;fedex_neg;ubs;BNY;cyclicalConsumerGoodsSector", 
+                        "dcsext.contentchannel": "cyclicalConsumerGoodsSector", 
+                        "dcsext.contentheadline": "UPDATE+1-Affleck+wins+directors+award+as+%27Argo%27+hurtles+to+Oscars", 
+                        "dcsext.contentid": "USL5N0B31UG20130203", 
+                        "dcsext.contentid_cyclicalconsumergoodssector": "USL5N0B31UG20130203", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/industries/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "UPDATE 1-Affleck wins directors award as 'Argo' hurtles to Oscars", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/03/film-directorsguild-idUSL5N0B31UG20130203", 
+                        "revision_date": "Sun Feb 03 09:49:05 UTC 2013", 
+                        "wt.cg_n": "Finance - Industries", 
+                        "wt.cg_s": "cyclicalConsumerGoodsSector"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 3, 2013 ... The Hollywood directors' recognition for Affleck, however, is an awkward ... in \nwhat is considered one of the biggest snubs of this year's Oscars.", 
+            "title": "UPDATE 1-Affleck wins directors award as 'Argo' hurtles to Oscars ..."
+        }, 
+        {
+            "cacheId": "cU_7rHiOxOkJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../entertainment-us-oscars-bestpicture- idUSBRE91J0NB20130220", 
+            "htmlFormattedUrl": "www.reuters.com/.../entertainment-us-<b>oscars</b>-bestpicture- idUSBRE91J0NB20130220", 
+            "htmlSnippet": "Feb 20, 2013 <b>...</b> But an &quot;Argo&quot; win despite <b>Affleck&#39;s</b> omission from the Best Director ... through less <br>\nbecause of a sympathy vote for the <b>snub</b> to <b>Affleck</b> and more&nbsp;...", 
+            "htmlTitle": "<b>Oscars</b> in Hollywood cliffhanger over Best Picture, Director | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/20/entertainment-us-oscars-bestpicture-idUSBRE91J0NB20130220", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130220&t=2&i=705755691&w=130&fh=&fw=&ll=&pl=&r=CBRE91J12NW00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "68", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHTY5DEPmVx93m_bxLvFRKXdodcz0HfUWjNYsP9y0fRSZ5-c9X9tmdgA", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.artcms": "1", 
+                        "dcsext.channellist": "entertainmentNews;filmNews;televisionNews;vcMedia;Art;Filmfestivals;TechLife;ford;Honda;BMW;goldenGlobes;ToyotaPrius;rtsCiti;everything;treasuryMarkets;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;everythingButHugin;SprintNow;OutloudFeed;UPS;Allianz;sapawareness;CFA;sapawarenesslife;jpGambaroPeople;nyse;trending-hp;MastercardTravel;sprintxpert2;statestreetetf;samsung;Pfizersafe;marine;cfaglobal;merrilledge;aa48hours;Xerox;competitorsdependency;shipping;citianniversary;ubs;BNY;academy-awards", 
+                        "dcsext.contentchannel": "entertainmentNews", 
+                        "dcsext.contentheadline": "Oscars+in+Hollywood+cliffhanger+over+Best+Picture%2C+Director", 
+                        "dcsext.contentid": "USBRE91J0NB20130220", 
+                        "dcsext.contentid_entertainmentnews": "USBRE91J0NB20130220", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/entertainment/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130220&t=2&i=705755691&w=130&fh=&fw=&ll=&pl=&r=CBRE91J12NW00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Oscars in Hollywood cliffhanger over Best Picture, Director", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/20/entertainment-us-oscars-bestpicture-idUSBRE91J0NB20130220", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Oscars in Hollywood cliffhanger over Best Picture, Director\", \"link\": \"http://www.reuters.com/article/2013/02/20/entertainment-us-oscars-bestpicture-idUSBRE91J0NB20130220\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130220&t=2&i=705755691&w=130&fh=&fw=&ll=&pl=&r=CBRE91J12NW00\", \"post_id\": \"USBRE91J0NB20130220\", \"pub_date\": \"2013-02-20T13:55:11+0000\", \"section\":\"entertainmentNews\", \"author\": \"Jill Serjeant\"}", 
+                        "revision_date": "Wed Feb 20 13:55:11 UTC 2013", 
+                        "wt.cg_n": "News - Entertainment", 
+                        "wt.cg_s": "entertainmentNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 20, 2013 ... But an \"Argo\" win despite Affleck's omission from the Best Director ... through less \nbecause of a sympathy vote for the snub to Affleck and more\u00a0...", 
+            "title": "Oscars in Hollywood cliffhanger over Best Picture, Director | Reuters"
+        }, 
+        {
+            "cacheId": "m34yjykyH0wJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/entertainment-arts-21544910", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/entertainment-arts-21544910", 
+            "htmlSnippet": "Feb 25, 2013 <b>...</b> Ben <b>Affleck</b> was vindicated after being <b>snubbed</b> in the best director category, <br>\nwinning best picture for Argo, and Ang Lee&#39;s magical Life of Pi&nbsp;...", 
+            "htmlTitle": "BBC News - Reporter&#39;s log: <b>Oscars</b> 2013", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/entertainment-arts-21544910", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66059000/jpg/_66059745_annereu.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW-hTXMC7fZRJjrGGinBM9h-63BSCRwXi5Lku5dgis7pamxSebDadn", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "ad_keyword": "oscars", 
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21544910", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Entertainment and Arts", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-22T08:45:20+00:00", 
+                        "dcterms.modified": "2013-02-25T12:07:55+00:00", 
+                        "headline": "Reporter's log: Oscars 2013", 
+                        "ifs_url": "/news/entertainment-arts-21544910", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66059000/jpg/_66059745_annereu.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Reporter's log: Oscars 2013", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/entertainment-arts-21544910", 
+                        "originalpublicationdate": "2013/02/25 12:07:55", 
+                        "section": "Entertainment & Arts", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66059000/jpg/_66059744_annereu.jpg", 
+                        "ukfs_url": "/news/entertainment-arts-21544910", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 25, 2013 ... Ben Affleck was vindicated after being snubbed in the best director category, \nwinning best picture for Argo, and Ang Lee's magical Life of Pi\u00a0...", 
+            "title": "BBC News - Reporter's log: Oscars 2013"
+        }, 
+        {
+            "cacheId": "zUb7v7oeE1kJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/life/movies/2013/02/21/.../1921583/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/life/movies/2013/02/21/.../1921583/", 
+            "htmlSnippet": "Feb 22, 2013 <b>...</b> Despite director Ben <b>Affleck&#39;s snub</b>, the riveting &#39;Argo&#39; will likely get best picture. <br>\nSpielberg is bound to win director. We ponder and predict the&nbsp;...", 
+            "htmlTitle": "Claudia Puig calls it: Who will/should win the <b>Oscars</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/life/movies/2013/02/21/claudia-puig-picks-oscar-ballot/1921583/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/GenericImages/2013/02/21/hathawayoscarlock-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjMRu_StfqaRgQv-0attPHMaIalRkfRxrlzReSqJRFT8rxSTgV0xhwUws", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "Hathaway Oscar lock", 
+                        "url": "http://www.gannett-cdn.com/-mm-/ac1394dbdcca6a36cbf486633b129cd813095ac3/r=x404&c=534x401/local/-/media/USATODAY/GenericImages/2013/02/21/hathawayoscarlock-4_3.jpg"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "og:description": "Despite director Ben Affleck's snub, the riveting 'Argo' will likely get best picture. Spielberg is bound to win director. We ponder and predict the rest.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/GenericImages/2013/02/21/hathawayoscarlock-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "Claudia Puig calls it: Who will/should win the Oscars", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/life/movies/2013/02/21/claudia-puig-picks-oscar-ballot/1921583/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "Some categories seem to be a lock. Best actress could go to Jennifer Lawrence, though we prefer Emmanuelle Riva. Supporting actor is likely go to Tommy Lee Jones, while we root for Christoph...", 
+                        "articlesection": "life,movies", 
+                        "datemodified": "2013-02-24T17:41:03.0000000", 
+                        "datepublished": "2013-02-21T18:09:16.0000000", 
+                        "description": "Despite director Ben Affleck's snub, the riveting 'Argo' will likely get best picture. Spielberg is bound to win director. We ponder and predict the rest.", 
+                        "headline": "Claudia Puig calls it: Who will/should win the Oscars", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/GenericImages/2013/02/21/hathawayoscarlock-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/GenericImages/2013/02/21/hathawayoscarlock-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "Claudia Puig, USA TODAY"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 22, 2013 ... Despite director Ben Affleck's snub, the riveting 'Argo' will likely get best picture. \nSpielberg is bound to win director. We ponder and predict the\u00a0...", 
+            "title": "Claudia Puig calls it: Who will/should win the Oscars"
+        }, 
+        {
+            "cacheId": "GQECL19ctKkJ", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/.../oscars-have-clear-favorites-wild-card-macfarlane", 
+            "htmlFormattedUrl": "bigstory.ap.org/.../<b>oscars</b>-have-clear-favorites-wild-card-macfarlane", 
+            "htmlSnippet": "Feb 24, 2013 <b>...</b> Ben <b>Affleck&#39;s</b> &quot;Argo&quot; looks like it will uniquely claim best picture without a ... <br>\nHollywood was shocked that <b>Affleck</b> was <b>snubbed</b> for a directing&nbsp;...", 
+            "htmlTitle": "<b>Oscars</b> have clear favorites, wild-card MacFarlane", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/oscars-have-clear-favorites-wild-card-macfarlane", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://binaryapi.ap.org/baaf6d80165c4976b8ae7bff8ff35e50/460x.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "180", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLwqF6u0UUYfesAB0_--vM6RkwZJqKCiOd-L2vGTGYeGlspCZ1masE3oh", 
+                        "width": "280"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "LOS ANGELES (AP) \u2014 Some firsts and other rarities are possible at Sunday night's Academy Awards.", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Oscars have clear favorites, wild-card MacFarlane", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/oscars-have-clear-favorites-wild-card-macfarlane", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 24, 2013 ... Ben Affleck's \"Argo\" looks like it will uniquely claim best picture without a ... \nHollywood was shocked that Affleck was snubbed for a directing\u00a0...", 
+            "title": "Oscars have clear favorites, wild-card MacFarlane"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Oscars snub Affleck", 
+                "sort": "date:r:20130201:20130304", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - intitle:Oscars snub Affleck", 
+                "totalResults": "183"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Oscars snub Affleck", 
+                "sort": "date:r:20130201:20130304", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Oscars snub Affleck", 
+                "totalResults": "183"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "183", 
+        "searchTime": 0.34615, 
+        "totalResults": "183"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

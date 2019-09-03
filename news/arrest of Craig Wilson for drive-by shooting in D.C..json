@@ -1,0 +1,59 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "ZJpL50nAPVEJ", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/article/dc-police-make-arrest-drive-shooting", 
+            "htmlFormattedUrl": "bigstory.ap.org/article/<b>dc</b>-police-make-<b>arrest</b>-drive-<b>shooting</b>", 
+            "htmlSnippet": "Mar 15, 2013 <b>...</b> Police say 19-year-old <b>Craig Wilson</b> of southeast Washington was ... (AP) \u2014 <b>D.C.</b> <br>\npolice have made an arrest in a <b>drive-by shooting</b> that injured&nbsp;...", 
+            "htmlTitle": "<b>DC</b> police make <b>arrest</b> in <b>drive-by shooting</b> - The Big Story", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/dc-police-make-arrest-drive-shooting", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "WASHINGTON (AP) \u2014 D.C. police have made an arrest in a drive-by shooting that injured 13 people standing outside an apartment building.", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "DC police make arrest in drive-by shooting", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/dc-police-make-arrest-drive-shooting", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 15, 2013 ... Police say 19-year-old Craig Wilson of southeast Washington was ... (AP) \u2014 D.C. \npolice have made an arrest in a drive-by shooting that injured\u00a0...", 
+            "title": "DC police make arrest in drive-by shooting - The Big Story"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 1, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:arrest of Craig Wilson for drive-by shooting in D.C.", 
+                "sort": "date:r:20130201:20130315", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:arrest of Craig Wilson for drive-by shooting in D.C.", 
+                "totalResults": "1"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "1", 
+        "searchTime": 0.283785, 
+        "totalResults": "1"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

@@ -1,0 +1,267 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "qOgRZVM4wFEJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/picture-gallery/life/.../mad-men.../1982497/", 
+            "htmlFormattedUrl": "www.usatoday.com/picture-gallery/life/.../<b>mad</b>-<b>men</b>.../1982497/", 
+            "htmlSnippet": "Mar 13, 2013 <b>...</b> The &#39;Mad <b>Men</b>&#39; drought is nearly over: <b>Season 6&#39;s</b> premiere is set for Sunday, <br>\nApril 7 (9 ET/PT). But it&#39;s been almost 10 months since we last&nbsp;...", 
+            "htmlTitle": "&#39;<b>Mad Men</b>&#39;: Where we left the characters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/52b638de8ef9ae84b094c81ce546b6d6fef638d6/r=x117&c=155x114/local/-/media/USATODAY/USATODAY/2013/03/12/mms6_0297-4_3.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "91", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX2T8YbabdXQ59EO6b0eheHakE5AmKRHHgSizqa_yWES5-ZPrQr_7q", 
+                        "width": "124"
+                    }
+                ], 
+                "imagegallery": [
+                    {
+                        "name": "'Mad Men': Where we left the characters"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "caption": "The 'Mad Men' drought is nearly over: Season 6's premiere is set for Sunday, April 7 (9 ET/PT). But it's been almost 10 months since we last saw the Sterling Cooper Draper Pryce gang, and it's...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.gannett-cdn.com/-mm-/f40f3606fa7f520417c0c9e02d7aa7a371d004ba/r=x513&c=680x510/local/-/media/USATODAY/USATODAY/2013/03/12/mms6_0297-4_3.jpg", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "Don Draper (Jon Hamm) | Where we left him: Conflicted, as ever. Feeling guilty over his role in partner Lane Pryce's suicide and wondering about wife Megan's priorities, we last saw him in...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "Megan Draper (Jessica Pare) | Where we left her: Don's second wife had quit the ad agency, wanting to give acting one more try. She'd used Don's connections to land a commercial, something...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "Roger Sterling (John Slattery) | Where we left him: Twice divorced, high on LSD and romancing Megan's married mother in a hotel room. He'd also offered financial support to Joan Harris for...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "Joan Harris (Christina Hendricks) | Where we left her: She called it quits with her military doctor husband after he revealed he volunteered to go back to Vietnam. At work, she'd won a minority...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "Peggy Olson (Elisabeth Moss) | Where we left her: She'd just quit Sterling Cooper Draper Pryce to join a rival firm. Frank Ockenfels/AMC", 
+                        "copyrightholder": "Frank Ockenfels/AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "Pete Campbell (Vincent Kartheiser) | Where we left him: While Pete still appeared to love wife Trudy and daughter Tammy, suburban life wasn't agreeing with the Manhattan native. He'd had an...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "Betty Francis (January Jones) | Where we left her: Don's ex-wife was having a hard time with her weight and self-esteem after being diagnosed with a thyroid condition. Ever the passive-aggressive...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "Sally Draper (Kiernan Shipka) | Where we left her: The pre-teen continued to enjoy a good rapport with stepmother Megan. This rankled her own mother, Betty, with whom she had a frosty relationship...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }, 
+                    {
+                        "caption": "The agency guys: Accounts manager Ken Cosgrove (Aaron Staton), art director Stan Rizzo (Jay R. Ferguson), head of media Harry Crane (Rich Sommer) and copywriter Michael Ginsberg (Ben Feldman)...", 
+                        "copyrightholder": "Frank Ockenfels, AMC", 
+                        "height": "510", 
+                        "image": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "width": "680"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "og:description": "The 'Mad Men' drought is nearly over: Season 6's premiere is set for Sunday, April 7 (9 ET/PT). But it's been almost 10 months since we last saw the Sterling Cooper Draper Pryce gang, and it's hard remembering what went down last season -- outside of Lane's office, anyway. Here are exclusive new photos, and a quick reminder to get you ready.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/52b638de8ef9ae84b094c81ce546b6d6fef638d6/r=x117&c=155x114/local/-/media/USATODAY/USATODAY/2013/03/12/mms6_0297-4_3.jpg", 
+                        "og:title": "'Mad Men': Where we left the characters", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/picture-gallery/life/2013/03/13/mad-men-where-we-left-the-characters/1982497/", 
+                        "viewport": "width=1070"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 13, 2013 ... The 'Mad Men' drought is nearly over: Season 6's premiere is set for Sunday, \nApril 7 (9 ET/PT). But it's been almost 10 months since we last\u00a0...", 
+            "title": "'Mad Men': Where we left the characters"
+        }, 
+        {
+            "cacheId": "YGAuY9osVSkJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/programmes/b01qjk20", 
+            "htmlFormattedUrl": "www.bbc.co.uk/programmes/b01qjk20", 
+            "htmlSnippet": "... profile (www.poets.org); More information about Plath on the BBC Poetry <br>\n<b>Season</b> website &middot; BBC Radio 4 Woman&#39;s Hour: The Art of Plath (requires <br>\nRealPlayer)&nbsp;...", 
+            "htmlTitle": "BBC Radio 4 - Book of the Week, <b>Mad</b> Girl&#39;s Love Song, Episode 2", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/programmes/b01qjk20", 
+            "pagemap": {
+                "Brand": [
+                    {
+                        "title": "Book of the Week"
+                    }
+                ], 
+                "Episode": [
+                    {
+                        "subtitle": "Mad Girl's Love Song", 
+                        "title": "Episode 1"
+                    }, 
+                    {
+                        "subtitle": "Mad Girl's Love Song", 
+                        "title": "Episode 3"
+                    }
+                ], 
+                "Service": [
+                    {
+                        "title": "BBC Radio 4"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "http://ichef.bbci.co.uk/images/ic/368x207/p01l9cx4.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "165", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLA5wEUZRfw9nFO591gEWSjJuD7XwagL0aq6jY4ApYdODvGzUQH8v8o0", 
+                        "width": "294"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "medium": "video", 
+                        "msapplication-square150x150logo": "http://ichef.bbci.co.uk/images/ic/272x272/p01l9cx4.jpg", 
+                        "og:description": "Plath's charismatic high school teacher recognises her 'lyric gift'.", 
+                        "og:image": "http://ichef.bbci.co.uk/images/ic/368x207/p01l9cx4.jpg", 
+                        "og:site_name": "BBC", 
+                        "og:title": "Episode 2, Mad Girl's Love Song, Book of the Week - BBC Radio 4", 
+                        "og:url": "http://www.bbc.co.uk/programmes/b01qjk20", 
+                        "twitter:card": "summary", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "... profile (www.poets.org); More information about Plath on the BBC Poetry \nSeason website \u00b7 BBC Radio 4 Woman's Hour: The Art of Plath (requires \nRealPlayer)\u00a0...", 
+            "title": "BBC Radio 4 - Book of the Week, Mad Girl's Love Song, Episode 2"
+        }, 
+        {
+            "cacheId": "8d4vdn1ZNccJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/programmes/b01qjk1y", 
+            "htmlFormattedUrl": "www.bbc.co.uk/programmes/b01qjk1y", 
+            "htmlSnippet": "Feb 14, 2013 <b>...</b> ... More information about Plath on the BBC Poetry <b>Season</b> website &middot; BBC Radio <br>\n4 Woman&#39;s Hour: The Art of Sylvia Plath (requires RealPlayer)&nbsp;...", 
+            "htmlTitle": "BBC Radio 4 - Book of the Week, <b>Mad</b> Girl&#39;s Love Song, Episode 4", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/programmes/b01qjk1y", 
+            "pagemap": {
+                "Brand": [
+                    {
+                        "title": "Book of the Week"
+                    }
+                ], 
+                "Episode": [
+                    {
+                        "subtitle": "Mad Girl's Love Song", 
+                        "title": "Episode 3"
+                    }, 
+                    {
+                        "subtitle": "Mad Girl's Love Song", 
+                        "title": "Episode 5"
+                    }
+                ], 
+                "Service": [
+                    {
+                        "title": "BBC Radio 4"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "http://ichef.bbci.co.uk/images/ic/368x207/p01l9cx4.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "165", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLA5wEUZRfw9nFO591gEWSjJuD7XwagL0aq6jY4ApYdODvGzUQH8v8o0", 
+                        "width": "294"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "medium": "video", 
+                        "msapplication-square150x150logo": "http://ichef.bbci.co.uk/images/ic/272x272/p01l9cx4.jpg", 
+                        "og:description": "The early life of Sylvia Plath as she starts work at Mademoiselle magazine in New York.", 
+                        "og:image": "http://ichef.bbci.co.uk/images/ic/368x207/p01l9cx4.jpg", 
+                        "og:site_name": "BBC", 
+                        "og:title": "Episode 4, Mad Girl's Love Song, Book of the Week - BBC Radio 4", 
+                        "og:url": "http://www.bbc.co.uk/programmes/b01qjk1y", 
+                        "twitter:card": "summary", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 14, 2013 ... ... More information about Plath on the BBC Poetry Season website \u00b7 BBC Radio \n4 Woman's Hour: The Art of Sylvia Plath (requires RealPlayer)\u00a0...", 
+            "title": "BBC Radio 4 - Book of the Week, Mad Girl's Love Song, Episode 4"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 3, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Mad Men season 6", 
+                "sort": "date:r:20130201:20130313", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Mad Men season 6", 
+                "totalResults": "3"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.16", 
+        "formattedTotalResults": "3", 
+        "searchTime": 0.164385, 
+        "totalResults": "3"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

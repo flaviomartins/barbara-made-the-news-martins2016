@@ -1,0 +1,626 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "zdhYz4l-U3YJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-us-canada-21651225", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-us-canada-21651225", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> A <b>baby</b> girl in the US born with HIV appears to have been <b>cured</b> after very early <br>\ntreatment with standard drug therapy, doctors say.", 
+            "htmlTitle": "BBC News - US <b>HIV baby</b> &#39;<b>cured</b>&#39; by early drug treatment", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-us-canada-21651225", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66179000/gif/_66179391_m0501034-hiv_particles,_com.gif"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBkh0nyEPvpi0iYoGTeD0QhWgaPLLJDliaSMHw6Y9fSMlSzt8pqI97", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21651225", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Health", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-03T22:36:40+00:00", 
+                        "dcterms.modified": "2013-03-04T09:44:53+00:00", 
+                        "headline": "HIV baby 'cured' by treatment", 
+                        "ifs_url": "/news/world-us-canada-21651225", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66179000/gif/_66179391_m0501034-hiv_particles,_com.gif", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "HIV baby 'cured' by treatment", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-us-canada-21651225", 
+                        "originalpublicationdate": "2013/03/04 09:44:53", 
+                        "section": "Health", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66179000/gif/_66179390_m0501034-hiv_particles,_com.gif", 
+                        "ukfs_url": "/news/world-us-canada-21651225", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... A baby girl in the US born with HIV appears to have been cured after very early \ntreatment with standard drug therapy, doctors say.", 
+            "title": "BBC News - US HIV baby 'cured' by early drug treatment"
+        }, 
+        {
+            "cacheId": "Rep7PEMyL5gJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/news/nation/...cure-hiv-child/1957943/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/news/nation/...<b>cure</b>-<b>hiv</b>-<b>child</b>/1957943/", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> In a first-of-its-kind case, a <b>baby</b> born with HIV was likely <b>cured</b> by a ... For the first <br>\ntime, doctors are reporting that they have <b>cured</b> a <b>child</b> of HIV,&nbsp;...", 
+            "htmlTitle": "Doctors report first <b>cure</b> of <b>HIV</b> in a <b>child</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/news/nation/2013/03/03/first-cure-hiv-child/1957943/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/03/afp-512515481-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjhouysxjbnWVy1h8Ceob98u0F1PMc52qS3oj9rC24WjpzpllGC8lw5Ue", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "AIDS Quilt", 
+                        "url": "http://www.gannett-cdn.com/-mm-/0c9109c71ea0524d9fe840f91fabd67bb94a26a9/r=537&c=0-0-534-712/local/-/media/USATODAY/USATODAY/2013/03/03/afp-512515481-3_4.jpg"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "og:description": "For the first time, doctors are reporting that they have cured a child of HIV, the virus that causes AIDS.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/03/afp-512515481-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "Doctors report first cure of HIV in a child", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/news/nation/2013/03/03/first-cure-hiv-child/1957943/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "Volunteers lay out the AIDS Quilt on July 23 on the National Mall in Washington, D.C. A new finding may help researchers better understand HIV, the virus that causes AIDS.(Photo: Karen Bleier,...", 
+                        "articlesection": "news,nation", 
+                        "datemodified": "2013-03-04T08:35:35.0000000", 
+                        "datepublished": "2013-03-03T16:31:37.0000000", 
+                        "description": "For the first time, doctors are reporting that they have cured a child of HIV, the virus that causes AIDS.", 
+                        "headline": "Doctors report first cure of HIV in a child", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/USATODAY/2013/03/03/afp-512515481-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/USATODAY/2013/03/03/afp-512515481-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "Liz Szabo, USA TODAY"
+                    }
+                ], 
+                "videoobject": [
+                    {
+                        "contenturl": "http://www.usatoday.com/videos/news/nation/2013/03/04/1961533/", 
+                        "description": "In a first-of-its-kind case, a baby born with HIV was likely cured by a University of Mississippi Medical Center pediatrician. VPC", 
+                        "height": "495", 
+                        "thumbnailurl": "http://bc_gvpc.edgesuite.net/img/963482463001/201303/3391/963482463001_2201803508001_th-51348671e4b0329eef3ead97-672293877001.jpg?pubId=963482463001", 
+                        "uploaddate": "3/4/2013 7:18:07 AM", 
+                        "width": "880"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... In a first-of-its-kind case, a baby born with HIV was likely cured by a ... For the first \ntime, doctors are reporting that they have cured a child of HIV,\u00a0...", 
+            "title": "Doctors report first cure of HIV in a child"
+        }, 
+        {
+            "cacheId": "4x3XSHdzzF4J", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-hiv-cure-reaction-idUSBRE9230YK20130304", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-<b>hiv</b>-<b>cure</b>-reaction-idUSBRE9230YK20130304", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> CHICAGO (Reuters) - The remarkable case of a <b>baby</b> being <b>cured</b> of HIV <br>\ninfection in the United States using readily available drugs has raised&nbsp;...", 
+            "htmlTitle": "U.S. <b>baby&#39;s cure</b> from <b>HIV</b> raises hope, new questions | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/04/us-hiv-cure-reaction-idUSBRE9230YK20130304", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130304&t=2&i=709533639&w=130&fh=&fw=&ll=&pl=&r=CBRE9231HF700"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "67", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSs0VjDIFCd0QKy3LSeqceIdfRfkF9v8IF47h6AsAc4oF0giLPgYW0wvA", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "healthNews;unitedNations;aids;Travel;innovationAMD;ford;Inspiration;everything;treasuryMarkets;Deals;Shell;Amtrak;Pregnancy;Amtrak2;iwdHealthNews;yahoo3;echoActivityStream;AutodeskDesign;FedExSMB;Hyundai;everythingButHugin;OutloudFeed;chsfood;HPEnterprise;CFA;sapawarenesstech;sapawarenesslife;trending-hp;sprintxpert2;samsung;cfaglobal;merrilledge;aa48hours;ernstyoung;shipping;citianniversary;MLGZero;fedex_neg;MBenz;BNY;citgroup", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "healthNews", 
+                        "dcsext.contentheadline": "U.S.+baby%27s+cure+from+HIV+raises+hope%2C+new+questions", 
+                        "dcsext.contentid": "USBRE9230YK20130304", 
+                        "dcsext.contentid_healthnews": "USBRE9230YK20130304", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/health/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130304&t=2&i=709533639&w=130&fh=&fw=&ll=&pl=&r=CBRE9231HF700", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "U.S. baby's cure from HIV raises hope, new questions", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/04/us-hiv-cure-reaction-idUSBRE9230YK20130304", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"U.S. baby\\u0027s cure from HIV raises hope, new questions\", \"link\": \"http://www.reuters.com/article/2013/03/04/us-hiv-cure-reaction-idUSBRE9230YK20130304\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130304&t=2&i=709533639&w=130&fh=&fw=&ll=&pl=&r=CBRE9231HF700\", \"post_id\": \"USBRE9230YK20130304\", \"pub_date\": \"2013-03-04T19:13:55+0000\", \"section\":\"healthNews\", \"author\": \"Julie Steenhuysen\"}", 
+                        "revision_date": "Mon Mar 04 19:13:55 UTC 2013", 
+                        "wt.cg_n": "News - Health", 
+                        "wt.cg_s": "healthNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... CHICAGO (Reuters) - The remarkable case of a baby being cured of HIV \ninfection in the United States using readily available drugs has raised\u00a0...", 
+            "title": "U.S. baby's cure from HIV raises hope, new questions | Reuters"
+        }, 
+        {
+            "cacheId": "Ezp0oKGyTF4J", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-hiv-infant-cure-idUSBRE9220GB20130304", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-<b>hiv</b>-<b>infant</b>-<b>cure</b>-idUSBRE9220GB20130304", 
+            "htmlSnippet": "Mar 3, 2013 <b>...</b> CHICAGO (Reuters) - A <b>baby</b> girl in Mississippi who was born with HIV has been <br>\n<b>cured</b> after very early treatment with standard HIV drugs, U.S.&nbsp;...", 
+            "htmlTitle": "U.S. <b>baby&#39;s HIV</b> infection <b>cured</b> through very early treatment | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/04/us-hiv-infant-cure-idUSBRE9220GB20130304", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130304&t=2&i=709305003&w=130&fh=&fw=&ll=&pl=&r=CBRE923052J00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "68", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRttmqWQhGVu1wNDH62zXle8WX2cs5Q4iIZiYjtsJ19iexzcJbMuG1A", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "newsOne;domesticNews;healthNews;aids;corporateResponsibility;ford;Inspiration;SustainabilityGreen;SustainabilityCorporate;creditMarkets;everything;treasuryMarkets;Deals;Shell;Amtrak;Pregnancy;Amtrak2;iwdHealthNews;yahoo3;Adfriendly1;VerizonMap;echoActivityStream;Boston;BostonCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;FedExSMB;Goldman;everythingButHugin;SprintNow;AXAinsurance;OutloudFeed;chsenergy;Allianz;JPMorgan;sapawareness;CFA;sapawarenesstech;sapawarenesslife;jpGambaroPeople;nyse;trending-hp;sprintxpert2;samsung;newsproHome;cfaglobal;merrilledge;aa48hours;ernstyoung;Xerox;citianniversary;MLGZero;fedex_neg;MLedge;BNY", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "domesticNews", 
+                        "dcsext.contentheadline": "U.S.+baby%27s+HIV+infection+cured+through+very+early+treatment", 
+                        "dcsext.contentid": "USBRE9220GB20130304", 
+                        "dcsext.contentid_domesticnews": "USBRE9220GB20130304", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/us/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130304&t=2&i=709305003&w=130&fh=&fw=&ll=&pl=&r=CBRE923052J00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "U.S. baby's HIV infection cured through very early treatment", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/04/us-hiv-infant-cure-idUSBRE9220GB20130304", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"U.S. baby\\u0027s HIV infection cured through very early treatment\", \"link\": \"http://www.reuters.com/article/2013/03/04/us-hiv-infant-cure-idUSBRE9220GB20130304\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130304&t=2&i=709305003&w=130&fh=&fw=&ll=&pl=&r=CBRE923052J00\", \"post_id\": \"USBRE9220GB20130304\", \"pub_date\": \"2013-03-04T01:49:31+0000\", \"section\":\"domesticNews\", \"author\": \"Julie Steenhuysen\"}", 
+                        "revision_date": "Mon Mar 04 01:49:31 UTC 2013", 
+                        "wt.cg_n": "News - US", 
+                        "wt.cg_s": "domesticNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 3, 2013 ... CHICAGO (Reuters) - A baby girl in Mississippi who was born with HIV has been \ncured after very early treatment with standard HIV drugs, U.S.\u00a0...", 
+            "title": "U.S. baby's HIV infection cured through very early treatment | Reuters"
+        }, 
+        {
+            "cacheId": "LFQDqMft4tYJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/news/nation/2013/.../hiv-baby.../1966969/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/news/nation/2013/.../<b>hiv</b>-<b>baby</b>.../1966969/", 
+            "htmlSnippet": "Mar 6, 2013 <b>...</b> As the dust settles around the global news of an HIV <b>cure</b> that worked for a <br>\nMississippi <b>infant</b>, the effect of the announcement remains to be&nbsp;...", 
+            "htmlTitle": "World awaits impact of <b>baby cured</b> of <b>HIV</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/news/nation/2013/03/06/hiv-baby-impact/1966969/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/GenericImages/2013/03/06/gan-hlth-hiv-baby-030613-2-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRypVvj1G9fq_3Uk-kBJekaSRQh0wv-WslRoYMkJ4cwaUl0lnA-WpIytoLP", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "GAN HLTH HIV BABY 030613", 
+                        "url": "http://www.gannett-cdn.com/-mm-/0c9109c71ea0524d9fe840f91fabd67bb94a26a9/r=537&c=0-0-534-712/local/-/media/USATODAY/GenericImages/2013/03/06/gan-hlth-hiv-baby-030613-2-3_4.jpg"
+                    }, 
+                    {
+                        "copyrightholder": "Chip Somodevilla, Getty Images", 
+                        "height": "450", 
+                        "name": "020713 hiv aids", 
+                        "url": "http://www.gannett-cdn.com/-mm-/00966670f70fbadefd1bdd9a4cb21f9559382432/r=183&c=0-0-180-238/local/-/media/USATODAY/USATODAY/2013/03/06/gty-160899730-3_4.jpg", 
+                        "width": "340"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "news_keywords": "hiv baby cured, hiv infections, hiv cures", 
+                        "og:description": "JACKSON, Miss. \u2014 As the dust settles around the global news of an HIV cure that worked for a Mississippi infant, the effect of the announcement remains to be seen in a state with one of the nation's worst outcomes for people with the virus that causes AIDS.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/GenericImages/2013/03/06/gan-hlth-hiv-baby-030613-2-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "World awaits impact of baby cured of HIV", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/news/nation/2013/03/06/hiv-baby-impact/1966969/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "Places like Mississippi where follow-through can be difficult have high hopes.Dr. Hannah Gay(Photo: Jay Ferchaud, University of Mississippi Medical Center)Story HighlightsMississippi has worst...", 
+                        "articlesection": "news,nation", 
+                        "datemodified": "2013-03-06T10:50:46.0000000", 
+                        "datepublished": "2013-03-06T10:50:46.0000000", 
+                        "description": "JACKSON, Miss. \u2014 As the dust settles around the global news of an HIV cure that worked for a Mississippi infant, the effect of the announcement remains to be seen in a state with one of the...", 
+                        "headline": "World awaits impact of baby cured of HIV", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/GenericImages/2013/03/06/gan-hlth-hiv-baby-030613-2-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/GenericImages/2013/03/06/gan-hlth-hiv-baby-030613-2-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "Dustin Barnes and Emily Le Coz, The (Jackson, Miss.) Clarion-Ledger"
+                    }
+                ], 
+                "videoobject": [
+                    {
+                        "contenturl": "http://www.usatoday.com/videos/news/nation/2013/03/04/1961533/", 
+                        "description": "In a first-of-its-kind case, a baby born with HIV was likely cured by a University of Mississippi Medical Center pediatrician. VPC", 
+                        "height": "495", 
+                        "thumbnailurl": "http://bc_gvpc.edgesuite.net/img/963482463001/201303/3391/963482463001_2201803508001_th-51348671e4b0329eef3ead97-672293877001.jpg?pubId=963482463001", 
+                        "uploaddate": "3/4/2013 7:18:07 AM", 
+                        "width": "880"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 6, 2013 ... As the dust settles around the global news of an HIV cure that worked for a \nMississippi infant, the effect of the announcement remains to be\u00a0...", 
+            "title": "World awaits impact of baby cured of HIV"
+        }, 
+        {
+            "cacheId": "7nOAPf9lTOkJ", 
+            "displayLink": "www.usatoday.com", 
+            "formattedUrl": "www.usatoday.com/story/news/nation/2013/.../hiv-cure.../1962933/", 
+            "htmlFormattedUrl": "www.usatoday.com/story/news/nation/2013/.../<b>hiv</b>-<b>cure</b>.../1962933/", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> Doctors credit the <b>child&#39;s cure</b> to early treatment; her physicians began treatment <br>\nsoon after delivery, which is the standard of care for the <b>child</b>&nbsp;...", 
+            "htmlTitle": "<b>Child&#39;s HIV cure</b> won&#39;t mean new treatments immediately", 
+            "kind": "customsearch#result", 
+            "link": "http://www.usatoday.com/story/news/nation/2013/03/04/hiv-cure-treatments/1962933/", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/04/diane-havlir-16_9.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "168", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrGIV5SpRFNBFzbS6icuNVxTqZVpwkZONzzIxcQ8rP15dyJ3dofAgZgio", 
+                        "width": "300"
+                    }
+                ], 
+                "imageobject": [
+                    {
+                        "name": "Diane Havlir", 
+                        "url": "http://www.gannett-cdn.com/-mm-/0c9109c71ea0524d9fe840f91fabd67bb94a26a9/r=537&c=0-0-534-712/local/-/media/USATODAY/USATODAY/2013/03/04/diane-havlir-3_4.jpg"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "fb:app_id": "215046668549694", 
+                        "google": "notranslate", 
+                        "news_keywords": "Liz Szabo, AIDS, HIV, infectious disease,  pediatrics, public health, medicine, poverty, health care", 
+                        "og:description": "Doctors are thrilled with the cure of a 2\u00bd-year-girl infected with HIV at birth but say that extending that success to others will be a challenge.", 
+                        "og:image": "http://www.gannett-cdn.com/-mm-/9559cb9734ff2c4c93772338ea99264036daf0de/r=x1803&c=3200x1800/local/-/media/USATODAY/USATODAY/2013/03/04/diane-havlir-16_9.jpg", 
+                        "og:image:height": "1600", 
+                        "og:image:width": "3200", 
+                        "og:title": "Child's HIV cure won't mean new treatments immediately", 
+                        "og:type": "article", 
+                        "og:url": "http://www.usatoday.com/story/news/nation/2013/03/04/hiv-cure-treatments/1962933/", 
+                        "viewport": "width=1070"
+                    }
+                ], 
+                "newsarticle": [
+                    {
+                        "articlebody": "Doctors are thrilled with the cure of a 2\u00bd-year-girl infected with HIV at birth but say that extending that success to others will be a challenge.Diane Havlir, of the University of California-San...", 
+                        "articlesection": "news,nation", 
+                        "datemodified": "2013-03-04T18:38:35.0000000", 
+                        "datepublished": "2013-03-04T18:28:18.0000000", 
+                        "description": "Doctors are thrilled with the cure of a 2\u00bd-year-girl infected with HIV at birth but say that extending that success to others will be a challenge.", 
+                        "headline": "Child's HIV cure won't mean new treatments immediately", 
+                        "image": "http://www.gannett-cdn.com/-mm-/fef8131c29b275565180e501a489e5973ad71e0c/r=x203&c=200x200/local/-/media/USATODAY/USATODAY/2013/03/04/diane-havlir-1_1.jpg", 
+                        "thumbnailurl": "http://www.gannett-cdn.com/-mm-/06dd39c0375e8eafe911fffc93019d2ab5012086/r=x153&c=150x150/local/-/media/USATODAY/USATODAY/2013/03/04/diane-havlir-1_1.jpg"
+                    }
+                ], 
+                "person": [
+                    {
+                        "name": "Liz Szabo, USA TODAY"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... Doctors credit the child's cure to early treatment; her physicians began treatment \nsoon after delivery, which is the standard of care for the child\u00a0...", 
+            "title": "Child's HIV cure won't mean new treatments immediately"
+        }, 
+        {
+            "cacheId": "10q85EKrJb4J", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/.../scientists-say-baby-born-hiv-apparently-cured-0", 
+            "htmlFormattedUrl": "bigstory.ap.org/.../scientists-say-<b>baby</b>-born-<b>hiv</b>-apparently-<b>cured</b>-0", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> WASHINGTON (AP) \u2014 A <b>baby</b> born with the virus that causes AIDS appears to <br>\nhave been <b>cured</b>, scientists announced Sunday, describing the&nbsp;...", 
+            "htmlTitle": "Scientists say <b>baby</b> born with <b>HIV</b> apparently <b>cured</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/scientists-say-baby-born-hiv-apparently-cured-0", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://binaryapi.ap.org/ae179ff6a2064bf6966cbe6d47c24005/460x.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "183", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTp0h8tUKq_4PN1rxIMtDZJMQpIbFFhEbFu-KO5yc9Zz7Ls1FFaWBuRLkts", 
+                        "width": "276"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "WASHINGTON (AP) \u2014 A baby born with the virus that causes AIDS appears to have been cured, scientists announced Sunday, describing the case of a chi", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Scientists say baby born with HIV apparently cured", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/scientists-say-baby-born-hiv-apparently-cured-0", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... WASHINGTON (AP) \u2014 A baby born with the virus that causes AIDS appears to \nhave been cured, scientists announced Sunday, describing the\u00a0...", 
+            "title": "Scientists say baby born with HIV apparently cured"
+        }, 
+        {
+            "cacheId": "ewS3_jFKFx8J", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/health-21653463", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/health-21653463", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> A <b>baby</b> girl has been &quot;functionally <b>cured</b>&quot; of HIV in the US. The difference it will <br>\nmake to her life could be huge - avoiding a lifetime of medication&nbsp;...", 
+            "htmlTitle": "BBC News - Analysis: A <b>cure</b> for <b>HIV</b>?", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/health-21653463", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66197000/jpg/_66197624_c0137870-aids_treatment_centre-spl.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_Hf2U6sHNiHu4e4eKywS9vixYd1CO0j2m752RKGUfSKqK5XT2zLZENg", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21653463", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Health", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-04T12:35:59+00:00", 
+                        "dcterms.modified": "2013-03-04T12:35:59+00:00", 
+                        "headline": "Analysis: A cure for HIV?", 
+                        "ifs_url": "/news/health-21653463", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66197000/jpg/_66197624_c0137870-aids_treatment_centre-spl.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Analysis: A cure for HIV?", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/health-21653463", 
+                        "originalpublicationdate": "2013/03/04 12:35:59", 
+                        "section": "Health", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66194000/jpg/_66194081_c0137870-aids_treatment_centre-spl.jpg", 
+                        "ukfs_url": "/news/health-21653463", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... A baby girl has been \"functionally cured\" of HIV in the US. The difference it will \nmake to her life could be huge - avoiding a lifetime of medication\u00a0...", 
+            "title": "BBC News - Analysis: A cure for HIV?"
+        }, 
+        {
+            "cacheId": "aSJBjjUtZFUJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-hiv-infant-cure-idUSBRE9220GB20130303", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-<b>hiv</b>-<b>infant</b>-<b>cure</b>-idUSBRE9220GB20130303", 
+            "htmlSnippet": "Mar 3, 2013 <b>...</b> CHICAGO (Reuters) - A <b>baby</b> girl in Mississippi who was born with HIV has been <br>\n<b>cured</b> after very early treatment with standard drug therapy,&nbsp;...", 
+            "htmlTitle": "U.S. <b>baby&#39;s HIV</b> infection <b>cured</b> through very early treatment | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/03/us-hiv-infant-cure-idUSBRE9220GB20130303", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "healthNews;aids;corporateResponsibility;ford;Inspiration;SustainabilityGreen;SustainabilityCorporate;creditMarkets;everything;treasuryMarkets;Deals;Shell;Amtrak;Pregnancy;Amtrak2;iwdHealthNews;yahoo3;Adfriendly1;echoActivityStream;BostonCopy;ShellEnergy;AllianzRetirement;AllianzInvestments;FedExSMB;Goldman;everythingButHugin;AXAinsurance;OutloudFeed;chsenergy;Allianz;JPMorgan;sapawareness;CFA;sapawarenesstech;sapawarenesslife;jpGambaroPeople;nyse;trending-hp;sprintxpert2;samsung;cfaglobal;merrilledge;aa48hours;ernstyoung;Xerox;citianniversary;MLGZero;fedex_neg;MLedge;BNY", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "healthNews", 
+                        "dcsext.contentheadline": "U.S.+baby%27s+HIV+infection+cured+through+very+early+treatment", 
+                        "dcsext.contentid": "USBRE9220GB20130303", 
+                        "dcsext.contentid_healthnews": "USBRE9220GB20130303", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/health/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "U.S. baby's HIV infection cured through very early treatment", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/03/us-hiv-infant-cure-idUSBRE9220GB20130303", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"U.S. baby\\u0027s HIV infection cured through very early treatment\", \"link\": \"http://www.reuters.com/article/2013/03/03/us-hiv-infant-cure-idUSBRE9220GB20130303\", \"image_url\": \"\", \"post_id\": \"USBRE9220GB20130303\", \"pub_date\": \"2013-03-03T21:30:45+0000\", \"section\":\"healthNews\", \"author\": \"Julie Steenhuysen\"}", 
+                        "revision_date": "Sun Mar 03 21:30:45 UTC 2013", 
+                        "wt.cg_n": "News - Health", 
+                        "wt.cg_s": "healthNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 3, 2013 ... CHICAGO (Reuters) - A baby girl in Mississippi who was born with HIV has been \ncured after very early treatment with standard drug therapy,\u00a0...", 
+            "title": "U.S. baby's HIV infection cured through very early treatment | Reuters"
+        }, 
+        {
+            "cacheId": "BPi4dLiHwH4J", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/health-21661274", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/health-21661274", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> A <b>baby</b> girl in the US born with HIV appears to have been <b>cured</b> after very early <br>\ntreatment with standard drug therapy, doctors say.", 
+            "htmlTitle": "BBC News - <b>Baby</b> with <b>HIV</b> &#39;<b>cured</b>&#39; with early treatment in US", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/health-21661274", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66193000/jpg/_66193860_66193851.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE0-xbDvmNr4w9ldcC5L7Mn8O0_GTjiCPerQlR4Rc56aqg_9YaD5fE", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "emp", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "MAP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21661274", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Health", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-04T16:00:37+00:00", 
+                        "dcterms.modified": "2013-03-04T18:56:42+00:00", 
+                        "headline": "Baby with HIV 'cured' in US", 
+                        "ifs_url": "/news/health-21661274", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66193000/jpg/_66193860_66193851.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Baby with HIV 'cured' in US", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/health-21661274", 
+                        "og:video": "http://www.bbc.co.uk/emp/worldwide/player.swf?playlist=http://playlists.bbc.co.uk/news/health-21661274A/playlist.sxml", 
+                        "og:video:height": "360", 
+                        "og:video:width": "640", 
+                        "originalpublicationdate": "2013/03/04 18:56:42", 
+                        "section": "Health", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66193000/jpg/_66193859_66193851.jpg", 
+                        "ukfs_url": "/news/health-21661274", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... A baby girl in the US born with HIV appears to have been cured after very early \ntreatment with standard drug therapy, doctors say.", 
+            "title": "BBC News - Baby with HIV 'cured' with early treatment in US"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:HIV baby cured", 
+                "sort": "date:r:20130201:20130307", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - intitle:HIV baby cured", 
+                "totalResults": "112"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:HIV baby cured", 
+                "sort": "date:r:20130201:20130307", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:HIV baby cured", 
+                "totalResults": "112"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.09", 
+        "formattedTotalResults": "112", 
+        "searchTime": 0.087944, 
+        "totalResults": "112"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

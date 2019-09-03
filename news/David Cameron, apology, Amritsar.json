@@ -1,0 +1,239 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "uYdQJBJyKG8J", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/uk-politics-21515360", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/uk-politics-21515360", 
+            "htmlSnippet": "Feb 20, 2013 <b>...</b> David <b>Cameron</b> becomes the first serving UK prime minister to pay his ... <b>Amritsar</b> <br>\nmassacre families: <b>Cameron</b> &#39;should have said <b>sorry</b>&#39; &middot; What&nbsp;...", 
+            "htmlTitle": "BBC News - <b>David Cameron</b> marks British 1919 <b>Amritsar</b> massacre", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/uk-politics-21515360", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65971000/jpg/_65971164_65959573.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmyrNQ11KF3ljJfL1nt05Ud5SXW68dJXFZRk4z9d2ErIB-9BKHwsz-Dw", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21515360", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Politics", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-20T05:21:14+00:00", 
+                        "dcterms.modified": "2013-02-20T13:45:14+00:00", 
+                        "headline": "Cameron marks Amritsar massacre", 
+                        "ifs_url": "/news/uk-politics-21515360", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65971000/jpg/_65971164_65959573.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Cameron marks Amritsar massacre", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/uk-politics-21515360", 
+                        "originalpublicationdate": "2013/02/20 13:45:14", 
+                        "section": "Politics", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65971000/jpg/_65971122_65959573.jpg", 
+                        "ukfs_url": "/news/uk-politics-21515360", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 20, 2013 ... David Cameron becomes the first serving UK prime minister to pay his ... Amritsar \nmassacre families: Cameron 'should have said sorry' \u00b7 What\u00a0...", 
+            "title": "BBC News - David Cameron marks British 1919 Amritsar massacre"
+        }, 
+        {
+            "cacheId": "_-VLpDFtjJEJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/programmes/b01qmr0y", 
+            "htmlFormattedUrl": "www.bbc.co.uk/programmes/b01qmr0y", 
+            "htmlSnippet": "Feb 20, 2013 <b>...</b> Naresh Puri sits in for Nihal and asks if David <b>Cameron</b> should <b>apologise</b> for <br>\n<b>Amritsar</b>.", 
+            "htmlTitle": "BBC Asian Network - Nihal, Should <b>David Cameron apologise</b> for <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/programmes/b01qmr0y", 
+            "pagemap": {
+                "Brand": [
+                    {
+                        "title": "Nihal"
+                    }
+                ], 
+                "Episode": [
+                    {
+                        "title": "Cameron in India"
+                    }, 
+                    {
+                        "title": "Documentary maker Harry Fear speaks to Nihal"
+                    }
+                ], 
+                "Service": [
+                    {
+                        "title": "BBC Asian Network"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "http://ichef.bbci.co.uk/images/ic/368x207/p01lcdrh.jpg"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "medium": "video", 
+                        "msapplication-square150x150logo": "http://ichef.bbci.co.uk/images/ic/272x272/p01lcdrh.jpg", 
+                        "og:description": "Naresh Puri sits in for Nihal and asks if David Cameron should apologise for Amritsar.", 
+                        "og:image": "http://ichef.bbci.co.uk/images/ic/368x207/p01lcdrh.jpg", 
+                        "og:site_name": "BBC", 
+                        "og:title": "Should David Cameron apologise for the 1919 Amritsar massacre?, Nihal - BBC Asian Network", 
+                        "og:url": "http://www.bbc.co.uk/programmes/b01qmr0y", 
+                        "twitter:card": "summary", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 20, 2013 ... Naresh Puri sits in for Nihal and asks if David Cameron should apologise for \nAmritsar.", 
+            "title": "BBC Asian Network - Nihal, Should David Cameron apologise for ..."
+        }, 
+        {
+            "cacheId": "po14pw-qN0sJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-asia-india-21520173", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-asia-india-21520173", 
+            "htmlSnippet": "Feb 20, 2013 <b>...</b> But if Britain is in the mood to say <b>sorry</b> in India, there is one episode ... The chief <br>\nreason Mr <b>Cameron</b> went to <b>Amritsar</b> was because of the large&nbsp;...", 
+            "htmlTitle": "BBC News - What <b>David Cameron</b> did not <b>apologise</b> for", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-asia-india-21520173", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65978000/jpg/_65978403_2667487.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzX96ByJvOvdnFnZzC3Z9eGAihx4oR9SHNW7JXK8-LFWBorEKZ_uxwA", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "CSP", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21520173", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Asia/India", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-20T13:11:03+00:00", 
+                        "dcterms.modified": "2013-02-20T13:11:03+00:00", 
+                        "headline": "What David Cameron did not apologise for", 
+                        "ifs_url": "/news/world-asia-india-21520173", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65978000/jpg/_65978403_2667487.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "What David Cameron did not apologise for", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-asia-india-21520173", 
+                        "originalpublicationdate": "2013/02/20 13:11:03", 
+                        "section": "India", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65978000/jpg/_65978402_2667487.jpg", 
+                        "ukfs_url": "/news/world-asia-india-21520173", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 20, 2013 ... But if Britain is in the mood to say sorry in India, there is one episode ... The chief \nreason Mr Cameron went to Amritsar was because of the large\u00a0...", 
+            "title": "BBC News - What David Cameron did not apologise for"
+        }, 
+        {
+            "cacheId": "DiXP1IRiIYsJ", 
+            "displayLink": "usatoday30.usatoday.com", 
+            "formattedUrl": "usatoday30.usatoday.com/topics/quote/.../David+Cameron/.../-3", 
+            "htmlFormattedUrl": "usatoday30.usatoday.com/topics/quote/.../<b>David</b>+<b>Cameron</b>/.../-3", 
+            "htmlSnippet": "However, <b>Cameron</b>, who is the first British prime minister to visit the Jallianwala <br>\nBagh, did not offer any <b>apology</b> for the massacre <b>Amritsar</b>: British Prime Minister&nbsp;...", 
+            "htmlTitle": "<b>David Cameron</b> Topics Page - USATODAY.com", 
+            "kind": "customsearch#result", 
+            "link": "http://usatoday30.usatoday.com/topics/quote/Health+and+Wellness/Diseases/David+Cameron/0bwN5OadutfY1/06kM6Ndcw438X/-3", 
+            "snippet": "However, Cameron, who is the first British prime minister to visit the Jallianwala \nBagh, did not offer any apology for the massacre Amritsar: British Prime Minister\u00a0...", 
+            "title": "David Cameron Topics Page - USATODAY.com"
+        }, 
+        {
+            "cacheId": "bA2_-wMVHikJ", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/photo/david-cameron-38", 
+            "htmlFormattedUrl": "bigstory.ap.org/photo/<b>david</b>-<b>cameron</b>-38", 
+            "htmlSnippet": "British Prime Minister David <b>Cameron</b> lays a wreath at the site of a notorious <br>\n1919 ... of <b>Amritsar</b>, but he stopped short of issuing a formal <b>apology</b> for his <br>\ncountry&#39;s&nbsp;...", 
+            "htmlTitle": "<b>David Cameron</b> - The Big Story - Associated Press", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/photo/david-cameron-38", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "British Prime Minister David Cameron lays a wreath at the site of a notorious 1919 massacre of hundreds of Indians by British colonial forces, in Amritsar, India, Wednesday, Feb. 20, 2013. Cameron's action Wednesday marked the first time a British premier made such a gesture of condolence at Jallianwala Bagh in the northwest city of Amritsar, but he stopped short of issuing a formal apology for his country's actions 94 years earlier.", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "David Cameron", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/photo/david-cameron-38", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "British Prime Minister David Cameron lays a wreath at the site of a notorious \n1919 ... of Amritsar, but he stopped short of issuing a formal apology for his \ncountry's\u00a0...", 
+            "title": "David Cameron - The Big Story - Associated Press"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 5, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:David Cameron, apology, Amritsar", 
+                "sort": "date:r:20130201:20130223", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:David Cameron, apology, Amritsar", 
+                "totalResults": "5"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.21", 
+        "formattedTotalResults": "5", 
+        "searchTime": 0.205877, 
+        "totalResults": "5"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

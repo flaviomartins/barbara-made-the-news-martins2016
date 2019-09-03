@@ -1,0 +1,570 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "29ZvJyJ34mAJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-middle-east-21722946", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-middle-east-21722946", 
+            "htmlSnippet": "Mar 9, 2013 <b>...</b> A court in Egypt has upheld 21 <b>death sentences</b> handed down to fans over <br>\ndeadly <b>football riots</b> in Port <b>Said</b>, amid continuing unrest. Five of 52&nbsp;...", 
+            "htmlTitle": "BBC News - Egypt court backs <b>Port Said football riot death sentences</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-middle-east-21722946", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66294000/jpg/_66294480_66294081.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3ByXbZhalHcz5MF8xA5RASKbjGfjZnpRj_mPLVturzdrfaWwosmvX", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21722946", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Middle East", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-09T01:40:22+00:00", 
+                        "dcterms.modified": "2013-03-09T10:51:40+00:00", 
+                        "headline": "Court upholds Egypt death sentences", 
+                        "ifs_url": "/news/world-middle-east-21722946", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66294000/jpg/_66294480_66294081.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Court upholds Egypt death sentences", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-middle-east-21722946", 
+                        "originalpublicationdate": "2013/03/09 10:51:40", 
+                        "section": "Middle East", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66294000/jpg/_66294479_66294081.jpg", 
+                        "ukfs_url": "/news/world-middle-east-21722946", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 9, 2013 ... A court in Egypt has upheld 21 death sentences handed down to fans over \ndeadly football riots in Port Said, amid continuing unrest. Five of 52\u00a0...", 
+            "title": "BBC News - Egypt court backs Port Said football riot death sentences"
+        }, 
+        {
+            "cacheId": "22OG37epzssJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-middle-east-21725984", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-middle-east-21725984", 
+            "htmlSnippet": "Mar 9, 2013 <b>...</b> Unrest in Egypt over Port <b>Said football riot</b> sentences. Building ... The court <br>\nupheld 21 <b>death sentences</b> and handed down prison terms to other&nbsp;...", 
+            "htmlTitle": "BBC News - Unrest in Egypt over <b>Port Said football riot sentences</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-middle-east-21725984", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66297000/jpg/_66297715_66296648.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuYbg1k_IFeXoHUs3JB0IMI7DArtgHv1qUI_HkYUvpQsNIvXpmMx21", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21725984", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Middle East", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-09T12:16:46+00:00", 
+                        "dcterms.modified": "2013-03-09T17:47:11+00:00", 
+                        "headline": "Unrest over Egypt riots sentencing", 
+                        "ifs_url": "/news/world-middle-east-21725984", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66297000/jpg/_66297715_66296648.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Unrest over Egypt riots sentencing", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-middle-east-21725984", 
+                        "originalpublicationdate": "2013/03/09 17:47:11", 
+                        "section": "Middle East", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66297000/jpg/_66297714_66296648.jpg", 
+                        "ukfs_url": "/news/world-middle-east-21725984", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 9, 2013 ... Unrest in Egypt over Port Said football riot sentences. Building ... The court \nupheld 21 death sentences and handed down prison terms to other\u00a0...", 
+            "title": "BBC News - Unrest in Egypt over Port Said football riot sentences"
+        }, 
+        {
+            "cacheId": "_vVXZ8vKnycJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-egypt-violence-portsaid-idUSBRE9270VM20130308", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-egypt-violence-<b>portsaid</b>-idUSBRE9270VM20130308", 
+            "htmlSnippet": "Mar 8, 2013 <b>...</b> The <b>football</b> stadium <b>deaths</b> occurred in February last year at the end of a ... The <br>\nconfirmation of the <b>sentences</b> of those accused of involvement in the ... <br>\nThousands of Egyptian <b>riot</b> police and conscripts also went on strike on&nbsp;...", 
+            "htmlTitle": "Thousands march in Egypt&#39;s <b>Port Said</b> over <b>deaths</b> | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/08/us-egypt-violence-portsaid-idUSBRE9270VM20130308", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710895216&w=130&fh=&fw=&ll=&pl=&r=CBRE9271AYM00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "68", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQEuHldDdsYlnd9TZmETUA1c-aQnHJ0S2Eg9EKljt8P-4eSgSHFc3M-w", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "topNews;newsOne;worldNews;newsMaps;gc05;ford;Honda;SustainabilityCorporate;everything;treasuryMarkets;Deals;Cargill;Shell;Amtrak;Amtrak2;Topnews1;yahoo2Dub;yahoo3;Sprintboard;echoActivityStream;ShellEnergy;HSBC_US;Hyundai;everythingButHugin;OutloudFeed;UPS;egypt;trending-hp;samsung;middle-east;newsproHome;audib2b;credit-rss;Pfizersafe;cfaglobal;merrilledge;footballa;shipping;citianniversary;dassaultuk;HSBCGlobal;airline;lyxor;greenpeace;MLGZero;fedex_neg;BNY;GCA-NewsPro", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "worldNews", 
+                        "dcsext.contentheadline": "Thousands+march+in+Egypt%27s+Port+Said+over+deaths", 
+                        "dcsext.contentid": "USBRE9270VM20130308", 
+                        "dcsext.contentid_worldnews": "USBRE9270VM20130308", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/world/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710895216&w=130&fh=&fw=&ll=&pl=&r=CBRE9271AYM00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Thousands march in Egypt's Port Said over deaths", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/08/us-egypt-violence-portsaid-idUSBRE9270VM20130308", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Thousands march in Egypt\\u0027s Port Said over deaths\", \"link\": \"http://www.reuters.com/article/2013/03/08/us-egypt-violence-portsaid-idUSBRE9270VM20130308\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710895216&w=130&fh=&fw=&ll=&pl=&r=CBRE9271AYM00\", \"post_id\": \"USBRE9270VM20130308\", \"pub_date\": \"2013-03-08T17:13:54+0000\", \"section\":\"worldNews\", \"author\": \"Yusri Mohamed\"}", 
+                        "revision_date": "Fri Mar 08 17:13:54 UTC 2013", 
+                        "wt.cg_n": "News - World", 
+                        "wt.cg_s": "worldNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 8, 2013 ... The football stadium deaths occurred in February last year at the end of a ... The \nconfirmation of the sentences of those accused of involvement in the ... \nThousands of Egyptian riot police and conscripts also went on strike on\u00a0...", 
+            "title": "Thousands march in Egypt's Port Said over deaths | Reuters"
+        }, 
+        {
+            "cacheId": "3mAjtY2WU0UJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/article/video/idUSBRE92805G20130309?...", 
+            "htmlFormattedUrl": "www.reuters.com/article/video/idUSBRE92805G20130309?...", 
+            "htmlSnippet": "Mar 9, 2013 <b>...</b> Celebrations in Cairo as an Egyptian court confirms <b>death sentences</b> on 21 <br>\n<b>football</b> fans for their role in a deadly stadium <b>riot</b> in Port <b>Said</b> last&nbsp;...", 
+            "htmlTitle": "Egypt reacts as court confirms <b>Port Said death sentence</b> ruling <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/video/idUSBRE92805G20130309?videoId=241552836", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://yospace-cds1.reuters.com/u/resize~ad1~120x120/0/f/~image_jpeg~9999-1/1/m/i/s/8/j/3z2x/reuters04?videoId=57326159"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "58", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReG32MuXt1EsTCun6XKaEdnGXKkuG9dLVsbmFwdv1su7MG1zkfpAVFDA", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.contentchannel": "VBC", 
+                        "dcsext.contentheadline": "Egypt+reacts+as+court+confirms+Port+Said+death+sentence+ruling", 
+                        "dcsext.contentid": "241552836", 
+                        "dcsext.contenttype": "Video", 
+                        "dcsext.dartzone": "us.reuters/news/world/article", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "dcsext.videoid_vbc": "241552836", 
+                        "dcsext.videotype": "Report", 
+                        "parsely-page": "{\"type\": \"frontpage\",\"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"\", \"link\": \"\", \"image_url\": \"\", \"post_id\": \"\", \"pub_date\": \"\", \"section\": \"\", \"author\": \"\" }", 
+                        "title": "Egypt reacts as court confirms Port Said death sentence ruling", 
+                        "wt.cg_n": "News - World", 
+                        "wt.cg_s": "worldNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 9, 2013 ... Celebrations in Cairo as an Egyptian court confirms death sentences on 21 \nfootball fans for their role in a deadly stadium riot in Port Said last\u00a0...", 
+            "title": "Egypt reacts as court confirms Port Said death sentence ruling ..."
+        }, 
+        {
+            "cacheId": "2kgs8mca_1kJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-middle-east-21712014", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-middle-east-21712014", 
+            "htmlSnippet": "Mar 8, 2013 <b>...</b> Port <b>Said</b> has been rocked by clashes for days ... Twenty-one local <b>football</b> fans <br>\nwere <b>sentenced</b> to <b>death</b> in January over the <b>riots</b>, which left 74 people <b>dead</b>. ... <br>\nMost of those who <b>died</b> in last February&#39;s <b>football riots</b> were&nbsp;...", 
+            "htmlTitle": "BBC News - Egypt police withdraw from <b>Port Said</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-middle-east-21712014", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66284000/jpg/_66284520_66284514.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKyGsclqYojlHz_Kl9zj_bCmGhR9yvu_4yrhaGz4G5sB_M_-J5_lCd", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21712014", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Middle East", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-08T15:40:21+00:00", 
+                        "dcterms.modified": "2013-03-08T15:52:20+00:00", 
+                        "headline": "Egypt police withdraw from Port Said", 
+                        "ifs_url": "/news/world-middle-east-21712014", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66284000/jpg/_66284520_66284514.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Egypt police withdraw from Port Said", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-middle-east-21712014", 
+                        "originalpublicationdate": "2013/03/08 15:52:20", 
+                        "section": "Middle East", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66284000/jpg/_66284519_66284514.jpg", 
+                        "ukfs_url": "/news/world-middle-east-21712014", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 8, 2013 ... Port Said has been rocked by clashes for days ... Twenty-one local football fans \nwere sentenced to death in January over the riots, which left 74 people dead. ... \nMost of those who died in last February's football riots were\u00a0...", 
+            "title": "BBC News - Egypt police withdraw from Port Said"
+        }, 
+        {
+            "cacheId": "W1rkLbosa5QJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-egypt-violence-portsaid-idUSBRE9270TF20130308", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-egypt-violence-<b>portsaid</b>-idUSBRE9270TF20130308", 
+            "htmlSnippet": "Mar 8, 2013 <b>...</b> PORT <b>SAID</b>, Egypt (Reuters) - Thousands of Egyptians packed the streets ... <br>\npolice and ahead of a court decision in a contentious <b>football riot</b> case. Violence <br>\nhas flared in Port <b>Said</b> since January, with protests over <b>death sentences</b> given ... <br>\nThe <b>football</b> stadium deaths occurred last February at the end of a&nbsp;...", 
+            "htmlTitle": "Thousands march in Egypt&#39;s <b>Port Said</b> over <b>deaths</b> | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/08/us-egypt-violence-portsaid-idUSBRE9270TF20130308", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710874008&w=130&fh=&fw=&ll=&pl=&r=CBRE92718QN00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "73", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2HHJfebYUP5b1mJ40INubVxynPBQMfz__Dbes9amMJgiiheAVa4R", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "worldNews;newsMaps;ford;everything;treasuryMarkets;Deals;Cargill;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;ShellEnergy;HSBC_US;Hyundai;everythingButHugin;OutloudFeed;UPS;egypt;CFA;trending-hp;samsung;middle-east;newsproHome;credit-rss;cfaglobal;merrilledge;footballa;shipping;citianniversary;dassaultuk;HSBCGlobal;airline;lyxor;greenpeace;MLGZero;fedex_neg;BNY", 
+                        "dcsext.contentchannel": "worldNews", 
+                        "dcsext.contentheadline": "Thousands+march+in+Egypt%27s+Port+Said+over+deaths", 
+                        "dcsext.contentid": "USBRE9270TF20130308", 
+                        "dcsext.contentid_worldnews": "USBRE9270TF20130308", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/world/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710874008&w=130&fh=&fw=&ll=&pl=&r=CBRE92718QN00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Thousands march in Egypt's Port Said over deaths", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/08/us-egypt-violence-portsaid-idUSBRE9270TF20130308", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Thousands march in Egypt\\u0027s Port Said over deaths\", \"link\": \"http://www.reuters.com/article/2013/03/08/us-egypt-violence-portsaid-idUSBRE9270TF20130308\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130308&t=2&i=710874008&w=130&fh=&fw=&ll=&pl=&r=CBRE92718QN00\", \"post_id\": \"USBRE9270TF20130308\", \"pub_date\": \"2013-03-08T16:06:23+0000\", \"section\":\"worldNews\", \"author\": \"Yusri Mohamed\"}", 
+                        "revision_date": "Fri Mar 08 16:06:23 UTC 2013", 
+                        "wt.cg_n": "News - World", 
+                        "wt.cg_s": "worldNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 8, 2013 ... PORT SAID, Egypt (Reuters) - Thousands of Egyptians packed the streets ... \npolice and ahead of a court decision in a contentious football riot case. Violence \nhas flared in Port Said since January, with protests over death sentences given ... \nThe football stadium deaths occurred last February at the end of a\u00a0...", 
+            "title": "Thousands march in Egypt's Port Said over deaths | Reuters"
+        }, 
+        {
+            "cacheId": "TgVt94DKxecJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/world-middle-east-21658944", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/world-middle-east-21658944", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> The security headquarters in the Egyptian city of Port <b>Said</b> is set on fire in a ... <br>\n<b>sentenced</b> to <b>death</b> over <b>football riots</b> which left 74 people <b>dead</b> in&nbsp;...", 
+            "htmlTitle": "BBC News - Egypt clashes: <b>Port Said</b> security headquarters torched", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/world-middle-east-21658944", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66200000/jpg/_66200440_66199354.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToaI2nvbhZkfCPs8q1-vNe502hFsi6jkpv6WhgssMNiYKHqj0O2sjEAw", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21658944", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "World/Middle East", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-04T16:53:41+00:00", 
+                        "dcterms.modified": "2013-03-04T22:39:14+00:00", 
+                        "headline": "Egypt security headquarters torched", 
+                        "ifs_url": "/news/world-middle-east-21658944", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66200000/jpg/_66200440_66199354.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Egypt security headquarters torched", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/world-middle-east-21658944", 
+                        "originalpublicationdate": "2013/03/04 22:39:14", 
+                        "section": "Middle East", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66200000/jpg/_66200439_66199354.jpg", 
+                        "ukfs_url": "/news/world-middle-east-21658944", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... The security headquarters in the Egyptian city of Port Said is set on fire in a ... \nsentenced to death over football riots which left 74 people dead in\u00a0...", 
+            "title": "BBC News - Egypt clashes: Port Said security headquarters torched"
+        }, 
+        {
+            "cacheId": "jvUl0f2SVCAJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-egypt-protest-idUSBRE9250UM20130306", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-egypt-protest-idUSBRE9250UM20130306", 
+            "htmlSnippet": "Mar 6, 2013 <b>...</b> PORT <b>SAID</b>/CAIRO, Egypt (Reuters) - Egyptian protesters demanding the ... with <br>\npeople staging angry protests over <b>death sentences</b> handed down to ... with a <br>\n<b>football</b> stadium <b>riot</b> in which more than 70 people died last year.", 
+            "htmlTitle": "Protests rage in Egypt&#39;s <b>Port Said</b> for fourth day | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/06/us-egypt-protest-idUSBRE9250UM20130306", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130306&t=2&i=710169597&w=130&fh=&fw=&ll=&pl=&r=CBRE92516S400"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "68", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPLhJCUX2QlFL0-oAbuC3UQwqxKnbOAN-_51KrwNjYYG2EX09-Vqdx", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "worldNews;newsMaps;ford;creditMarkets;everything;treasuryMarkets;Deals;forexNewsCopy;Cargill;Shell;Amtrak;Davos;Amtrak2;yahoo3;echoActivityStream;HSBC_US;Hyundai;everythingButHugin;OutloudFeed;egypt;JPMorgan;CFA;trending-hp;samsung;middle-east;newsproHome;credit-rss;merrilledge;footballa;shipping;PrudentialInvestments;VanessaTest;lyxor;greenpeace;MLGZero;fedex_neg;MLedge;BNY;citgroup", 
+                        "dcsext.contentchannel": "worldNews", 
+                        "dcsext.contentheadline": "Protests+rage+in+Egypt%27s+Port+Said+for+fourth+day", 
+                        "dcsext.contentid": "USBRE9250UM20130306", 
+                        "dcsext.contentid_worldnews": "USBRE9250UM20130306", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/world/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130306&t=2&i=710169597&w=130&fh=&fw=&ll=&pl=&r=CBRE92516S400", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Protests rage in Egypt's Port Said for fourth day", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/06/us-egypt-protest-idUSBRE9250UM20130306", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Protests rage in Egypt\\u0027s Port Said for fourth day\", \"link\": \"http://www.reuters.com/article/2013/03/06/us-egypt-protest-idUSBRE9250UM20130306\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130306&t=2&i=710169597&w=130&fh=&fw=&ll=&pl=&r=CBRE92516S400\", \"post_id\": \"USBRE9250UM20130306\", \"pub_date\": \"2013-03-06T19:56:34+0000\", \"section\":\"worldNews\", \"author\": \"Yusri Mohamed and Alexander Dziadosz\"}", 
+                        "revision_date": "Wed Mar 06 19:56:34 UTC 2013", 
+                        "wt.cg_n": "News - World", 
+                        "wt.cg_s": "worldNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 6, 2013 ... PORT SAID/CAIRO, Egypt (Reuters) - Egyptian protesters demanding the ... with \npeople staging angry protests over death sentences handed down to ... with a \nfootball stadium riot in which more than 70 people died last year.", 
+            "title": "Protests rage in Egypt's Port Said for fourth day | Reuters"
+        }, 
+        {
+            "cacheId": "fXQDiBnAc4UJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../egypt-violence-portsaid-idUSL6N0BZHAB20130307", 
+            "htmlFormattedUrl": "www.reuters.com/.../egypt-violence-<b>portsaid</b>-idUSL6N0BZHAB20130307", 
+            "htmlSnippet": "Mar 7, 2013 <b>...</b> Fifth day of clashes* Anger stems from <b>football riot</b> case* Police go on ... over <br>\n<b>death sentences</b> given to residents in connection with a <b>football</b>&nbsp;...", 
+            "htmlTitle": "Egyptian youths hurl stones at police in <b>Port Said</b> protest | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/07/egypt-violence-portsaid-idUSL6N0BZHAB20130307", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "rbssIndustryMaterialsUtilitiesNews;Honda;everything;treasuryMarkets;forexNewsCopy;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;Hyundai;everythingButHugin;msnMoneyFeed;OutloudFeed;trending-hp;samsung;credit-rss;Pfizersafe;merrilledge;footballa;HSBCGlobal;lyxor;greenpeace;fedex_neg;BNY;industrialsSector", 
+                        "dcsext.contentchannel": "industrialsSector", 
+                        "dcsext.contentheadline": "Egyptian+youths+hurl+stones+at+police+in+Port+Said+protest", 
+                        "dcsext.contentid": "USL6N0BZHAB20130307", 
+                        "dcsext.contentid_industrialssector": "USL6N0BZHAB20130307", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/industries/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Egyptian youths hurl stones at police in Port Said protest", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/07/egypt-violence-portsaid-idUSL6N0BZHAB20130307", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Egyptian youths hurl stones at police in Port Said protest\", \"link\": \"http://www.reuters.com/article/2013/03/07/egypt-violence-portsaid-idUSL6N0BZHAB20130307\", \"image_url\": \"\", \"post_id\": \"USL6N0BZHAB20130307\", \"pub_date\": \"2013-03-07T17:18:15+0000\", \"section\":\"industrialsSector\", \"author\": \"\"}", 
+                        "revision_date": "Thu Mar 07 17:18:15 UTC 2013", 
+                        "wt.cg_n": "Finance - Industries", 
+                        "wt.cg_s": "industrialsSector"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 7, 2013 ... Fifth day of clashes* Anger stems from football riot case* Police go on ... over \ndeath sentences given to residents in connection with a football\u00a0...", 
+            "title": "Egyptian youths hurl stones at police in Port Said protest | Reuters"
+        }, 
+        {
+            "cacheId": "fY_5S3bWU_oJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../us-egypt-violence-portsaid-idUSBRE9261BQ20130307", 
+            "htmlFormattedUrl": "www.reuters.com/.../us-egypt-violence-<b>portsaid</b>-idUSBRE9261BQ20130307", 
+            "htmlSnippet": "Mar 7, 2013 <b>...</b> PORT <b>SAID</b> (Reuters) - One protester was shot dead on Thursday on a fifth day of <br>\n... protests over <b>death sentences</b> given to local people in connection with a <br>\n<b>football</b> stadium <b>riot</b> in which more than 70 people died last year.", 
+            "htmlTitle": "One protester <b>killed</b> in clashes in Egypt&#39;s <b>Port Said</b> | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/07/us-egypt-violence-portsaid-idUSBRE9261BQ20130307", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130307&t=2&i=710639724&w=130&fh=&fw=&ll=&pl=&r=CBRE9261OZH00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "73", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfnGASi0s854Xw6DT8MyNJ7uUwofNUR7Tz5UGpPl2eWxkLE7Ek3ar", 
+                        "width": "104"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "worldNews;newsMaps;Honda;everything;treasuryMarkets;forexNewsCopy;Cargill;Shell;Amtrak;Amtrak2;yahoo3;echoActivityStream;Hyundai;everythingButHugin;OutloudFeed;egypt;trending-hp;samsung;middle-east;newsproHome;credit-rss;merrilledge;footballa;nonegative;HSBCGlobal;lyxor;greenpeace;fedex_neg;BNY;citgroup", 
+                        "dcsext.contentchannel": "worldNews", 
+                        "dcsext.contentheadline": "One+protester+killed+in+clashes+in+Egypt%27s+Port+Said", 
+                        "dcsext.contentid": "USBRE9261BQ20130307", 
+                        "dcsext.contentid_worldnews": "USBRE9261BQ20130307", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/news/world/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:image": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130307&t=2&i=710639724&w=130&fh=&fw=&ll=&pl=&r=CBRE9261OZH00", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "One protester killed in clashes in Egypt's Port Said", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/07/us-egypt-violence-portsaid-idUSBRE9261BQ20130307", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"One protester killed in clashes in Egypt\\u0027s Port Said\", \"link\": \"http://www.reuters.com/article/2013/03/07/us-egypt-violence-portsaid-idUSBRE9261BQ20130307\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130307&t=2&i=710639724&w=130&fh=&fw=&ll=&pl=&r=CBRE9261OZH00\", \"post_id\": \"USBRE9261BQ20130307\", \"pub_date\": \"2013-03-07T21:57:14+0000\", \"section\":\"worldNews\", \"author\": \"Yusri Mohamed\"}", 
+                        "revision_date": "Thu Mar 07 21:57:14 UTC 2013", 
+                        "wt.cg_n": "News - World", 
+                        "wt.cg_s": "worldNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 7, 2013 ... PORT SAID (Reuters) - One protester was shot dead on Thursday on a fifth day of \n... protests over death sentences given to local people in connection with a \nfootball stadium riot in which more than 70 people died last year.", 
+            "title": "One protester killed in clashes in Egypt's Port Said | Reuters"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "nextPage": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Port Said football riot, death sentences", 
+                "sort": "date:r:20130201:20130316", 
+                "startIndex": 11, 
+                "title": "Google Custom Search - intitle:Port Said football riot, death sentences", 
+                "totalResults": "179"
+            }
+        ], 
+        "request": [
+            {
+                "count": 10, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Port Said football riot, death sentences", 
+                "sort": "date:r:20130201:20130316", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Port Said football riot, death sentences", 
+                "totalResults": "179"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.36", 
+        "formattedTotalResults": "179", 
+        "searchTime": 0.363555, 
+        "totalResults": "179"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

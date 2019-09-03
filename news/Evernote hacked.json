@@ -1,0 +1,157 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "Qtqwsjy_a-AJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/technology-21644317", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/technology-21644317", 
+            "htmlSnippet": "Mar 2, 2013 <b>...</b> The <b>hack</b> came a week after social-networking firm Facebook said it had ... back <br>\nto China after some of its employee laptops were <b>hacked</b>.", 
+            "htmlTitle": "BBC News - <b>Evernote</b> says security has been breached by hackers", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/technology-21644317", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66168000/jpg/_66168525_ocja0peo.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNUWtCKqUXuMxdTE37AE4jedz2uF7P9X3NkMkodVu6eYJKkRSM4g9c", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21644317", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Technology", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-02T18:05:35+00:00", 
+                        "dcterms.modified": "2013-03-02T18:34:46+00:00", 
+                        "headline": "Hackers breach Evernote security", 
+                        "ifs_url": "/news/technology-21644317", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66168000/jpg/_66168525_ocja0peo.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Hackers breach Evernote security", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/technology-21644317", 
+                        "originalpublicationdate": "2013/03/02 18:34:46", 
+                        "section": "Technology", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66168000/jpg/_66168524_ocja0peo.jpg", 
+                        "ukfs_url": "/news/technology-21644317", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 2, 2013 ... The hack came a week after social-networking firm Facebook said it had ... back \nto China after some of its employee laptops were hacked.", 
+            "title": "BBC News - Evernote says security has been breached by hackers"
+        }, 
+        {
+            "cacheId": "wM9iclUHK28J", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/article/evernote-hacked-50-million-passwords-reset", 
+            "htmlFormattedUrl": "bigstory.ap.org/article/<b>evernote</b>-<b>hacked</b>-50-million-passwords-reset", 
+            "htmlSnippet": "Mar 4, 2013 <b>...</b> LONDON (AP) \u2014 Online note-taking service Evernote Corp. has been <b>hacked</b> <br>\nand is resetting all its 50 million users&#39; passwords as a&nbsp;...", 
+            "htmlTitle": "<b>Evernote hacked</b>: 50 million passwords reset", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/evernote-hacked-50-million-passwords-reset", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "LONDON (AP) \u2014 Online note-taking service Evernote Corp. has been hacked and is resetting all its 50 million users' passwords as a precaution.", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Evernote hacked: 50 million passwords reset", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/evernote-hacked-50-million-passwords-reset", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 4, 2013 ... LONDON (AP) \u2014 Online note-taking service Evernote Corp. has been hacked \nand is resetting all its 50 million users' passwords as a\u00a0...", 
+            "title": "Evernote hacked: 50 million passwords reset"
+        }, 
+        {
+            "cacheId": "ogBgTBClI-cJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../net-us-hacking-evernote-idUSBRE92200X20130303", 
+            "htmlFormattedUrl": "www.reuters.com/.../net-us-<b>hacking</b>-<b>evernote</b>-idUSBRE92200X20130303", 
+            "htmlSnippet": "Mar 2, 2013 <b>...</b> (Reuters) - Evernote, a Web-based note-sharing service, said it was resetting the <br>\npasswords of its 50 million users because hackers managed&nbsp;...", 
+            "htmlTitle": "<b>Evernote</b> note-sharing service says hackers stole some user data <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/03/net-us-hacking-evernote-idUSBRE92200X20130303", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "technologyNews;internetNews;vcMedia;apple;innovationAMD;ford;Companies;everything;treasuryMarkets;Continental;Deals;MercedesBenz;Verizon;Amtrak;Amtrak2;yahoo3;echoActivityStream;Suntrust_SmallBiz;AutodeskDesign;AllianzRetirement;AllianzInvestments;HSBC_US;TDAmeritrade;FedExSMB;Hyundai;Goldman;everythingButHugin;AXAinsurance;OutloudFeed;chsfood;HPEnterprise;Allianz;ciscoenterprise;JPMorgan;sapawareness;CFA;sapawarenesstech;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;cyber-crime;newsproHome;verizonmm;audib2b;Pfizersafe;cfaglobal;merrilledge;aa48hours;Xerox;shipping;nonegative;citianniversary;accenture;HSBCGlobal;PrudentialInvestments;lyxor;MLGZero;PorscheCayenne;MBenz;ubs;upstechnology;MLedge;globalinnovations;BNY;citgroup", 
+                        "dcsext.comments": "1", 
+                        "dcsext.contentchannel": "technologyNews", 
+                        "dcsext.contentheadline": "Evernote+note-sharing+service+says+hackers+stole+some+user+data", 
+                        "dcsext.contentid": "USBRE92200X20130303", 
+                        "dcsext.contentid_technologynews": "USBRE92200X20130303", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/technology/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Evernote note-sharing service says hackers stole some user data", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/03/net-us-hacking-evernote-idUSBRE92200X20130303", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Evernote note-sharing service says hackers stole some user data\", \"link\": \"http://www.reuters.com/article/2013/03/03/net-us-hacking-evernote-idUSBRE92200X20130303\", \"image_url\": \"\", \"post_id\": \"USBRE92200X20130303\", \"pub_date\": \"2013-03-03T02:27:10+0000\", \"section\":\"technologyNews\", \"author\": \"Jim Finkle\"}", 
+                        "revision_date": "Sun Mar 03 02:27:10 UTC 2013", 
+                        "wt.cg_n": "Finance - Technology", 
+                        "wt.cg_s": "technologyNews"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 2, 2013 ... (Reuters) - Evernote, a Web-based note-sharing service, said it was resetting the \npasswords of its 50 million users because hackers managed\u00a0...", 
+            "title": "Evernote note-sharing service says hackers stole some user data ..."
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 3, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:Evernote hacked", 
+                "sort": "date:r:20130201:20130306", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:Evernote hacked", 
+                "totalResults": "3"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.17", 
+        "formattedTotalResults": "3", 
+        "searchTime": 0.171741, 
+        "totalResults": "3"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

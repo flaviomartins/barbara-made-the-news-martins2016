@@ -1,0 +1,368 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "m9wt6rnmWRcJ", 
+            "displayLink": "bigstory.ap.org", 
+            "formattedUrl": "bigstory.ap.org/article/curiosity-sleeps-solar-blast-races-toward-mars", 
+            "htmlFormattedUrl": "bigstory.ap.org/article/curiosity-sleeps-<b>solar</b>-blast-races-toward-mars", 
+            "htmlSnippet": "Mar 6, 2013 <b>...</b> The <b>eruption</b> did not appear severe or extreme, but &quot;middle of the ... In 2003, an <br>\nintense solar <b>flare</b> knocked out the radiation detector on the&nbsp;...", 
+            "htmlTitle": "Curiosity sleeps as <b>solar</b> blast races toward Mars", 
+            "kind": "customsearch#result", 
+            "link": "http://bigstory.ap.org/article/curiosity-sleeps-solar-blast-races-toward-mars", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "2012 Associated Press", 
+                        "og:description": "LOS ANGELES (AP) \u2014 Curiosity hunkered down Wednesday after the sun unleashed a blast that raced toward Mars.", 
+                        "og:site_name": "The Big Story", 
+                        "og:title": "Curiosity sleeps as solar blast races toward Mars", 
+                        "og:type": "article", 
+                        "og:url": "http://bigstory.ap.org/article/curiosity-sleeps-solar-blast-races-toward-mars", 
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 6, 2013 ... The eruption did not appear severe or extreme, but \"middle of the ... In 2003, an \nintense solar flare knocked out the radiation detector on the\u00a0...", 
+            "title": "Curiosity sleeps as solar blast races toward Mars"
+        }, 
+        {
+            "cacheId": "XDb2KSbRQK8J", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/science-environment-21357909", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/science-environment-21357909", 
+            "htmlSnippet": "Feb 7, 2013 <b>...</b> &quot;It will be perhaps comparable to the Icelandic volcano <b>eruption</b> [in 2010], or <br>\nsomething similar, where there will be severe disruption to our way&nbsp;...", 
+            "htmlTitle": "BBC News - UK &#39;can cope with <b>solar</b> superstorm&#39;", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/science-environment-21357909", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65740000/jpg/_65740962_65740882.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1P9Pu0faAfYNaVepbfuZadBFQRHUHqmMJ7ce75oJo9WzfGMgZoMWB", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21357909", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "Science and Environment", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-02-07T02:17:28+00:00", 
+                        "dcterms.modified": "2013-02-07T02:17:28+00:00", 
+                        "headline": "UK 'can cope with solar superstorm'", 
+                        "ifs_url": "/news/science-environment-21357909", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65740000/jpg/_65740962_65740882.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "UK 'can cope with solar superstorm'", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/science-environment-21357909", 
+                        "originalpublicationdate": "2013/02/07 02:17:28", 
+                        "section": "Science & Environment", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65740000/jpg/_65740961_65740882.jpg", 
+                        "ukfs_url": "/news/science-environment-21357909", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 7, 2013 ... \"It will be perhaps comparable to the Icelandic volcano eruption [in 2010], or \nsomething similar, where there will be severe disruption to our way\u00a0...", 
+            "title": "BBC News - UK 'can cope with solar superstorm'"
+        }, 
+        {
+            "cacheId": "hQHCA6g-JCEJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/newsround/21364225", 
+            "htmlFormattedUrl": "www.bbc.co.uk/newsround/21364225", 
+            "htmlSnippet": "Feb 7, 2013 <b>...</b> The UK could cope if it was hit by a solar superstorm, experts say.", 
+            "htmlTitle": "CBBC Newsround - UK can deal with <b>solar</b> superstorm, experts say", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/newsround/21364225", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/65750000/jpg/_65750747_65749709.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScKXZY_80zL7eIYp7OEvjtZzffj1M9cnH2szOJPbtBFI7nmR1-YzXu", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21364225", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "News", 
+                        "cps_site_name": "CBBC Newsround", 
+                        "dcterms.created": "2013-02-07T10:18:58+00:00", 
+                        "dcterms.modified": "2013-02-07T10:18:58+00:00", 
+                        "headline": "UK can deal with solar superstorm", 
+                        "ifs_url": "/newsround/21364225", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/65750000/jpg/_65750747_65749709.jpg", 
+                        "og:site_name": "CBBC Newsround", 
+                        "og:title": "UK can deal with solar superstorm", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/newsround/21364225", 
+                        "originalpublicationdate": "2013/02/07 10:18:58", 
+                        "section": "News", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/65750000/jpg/_65750746_65749709.jpg", 
+                        "ukfs_url": "/newsround/21364225", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 7, 2013 ... The UK could cope if it was hit by a solar superstorm, experts say.", 
+            "title": "CBBC Newsround - UK can deal with solar superstorm, experts say"
+        }, 
+        {
+            "cacheId": "pxniR6DKhokJ", 
+            "displayLink": "uk.reuters.com", 
+            "formattedUrl": "uk.reuters.com/.../us-space-planets-idUKBRE91J1BV20130220", 
+            "htmlFormattedUrl": "uk.reuters.com/.../us-space-planets-idUKBRE91J1BV20130220", 
+            "htmlSnippet": "Feb 20, 2013 <b>...</b> ... orbits are needed to confirm that a transit spotted by the Kepler telescope is <br>\nindeed a planet and not a star <b>flare</b> or some other phenomenon.", 
+            "htmlTitle": "Mini planet found far beyond Earth&#39;s <b>solar</b> system | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://uk.reuters.com/article/2013/02/20/us-space-planets-idUKBRE91J1BV20130220", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://s1.reutersmedia.net/resources/r/?m=02&d=20130220&t=2&i=705889608&w=580&fh=&fw=&ll=&pl=&r=CBRE91J1Q6P00"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "163", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNAGnVB9zrcoEHjYr5_vnb00NilVPCEOgCbaV2NykMaOMKvaj4lLb2Go", 
+                        "width": "310"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "dcsext.channellist": "scienceNews;scienceNewsMolt;exxonEnergyNews;lexusForwardLiving;everything;britishGas;vbcSmallBusinessCopy;nyseuk;cathayPacific;samsung;shell;Pfizersafe;marine;merrilledge;nonegative;dassaultuk;shellInnovationNews", 
+                        "dcsext.contentchannel": "scienceNews", 
+                        "dcsext.contentheadline": "Mini+planet+found+far+beyond+Earth%27s+solar+system", 
+                        "dcsext.contentid": "UKBRE91J1BV20130220", 
+                        "dcsext.contentid_sciencenews": "UKBRE91J1BV20130220", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "uk.reuters/news/science/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "News", 
+                        "dcsext.rcountry": "UK", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"Mini planet found far beyond Earth\\u0027s solar system\", \"link\": \"http://uk.reuters.com/article/2013/02/20/us-space-planets-idUKBRE91J1BV20130220\", \"image_url\": \"http://s1.reutersmedia.net/resources/r/?m=02&d=20130220&t=2&i=705889608&w=130&fh=&fw=&ll=&pl=&r=CBRE91J1Q6P00\", \"post_id\": \"UKBRE91J1BV20130220\", \"pub_date\": \"2013-02-20T22:23:13+0000\", \"section\":\"scienceNews\", \"author\": \"Irene Klotz\"}", 
+                        "revision_date": "Wed Feb 20 22:23:13 UTC 2013", 
+                        "site edition": "Reuters UK", 
+                        "wt.cg_n": "News - Science", 
+                        "wt.cg_s": "scienceNews"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 20, 2013 ... ... orbits are needed to confirm that a transit spotted by the Kepler telescope is \nindeed a planet and not a star flare or some other phenomenon.", 
+            "title": "Mini planet found far beyond Earth's solar system | Reuters"
+        }, 
+        {
+            "cacheId": "Zq5BlZiAE0gJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../islamic-sukuk-solar-idUSL5N0B10QB20130205", 
+            "htmlFormattedUrl": "www.reuters.com/.../islamic-sukuk-<b>solar</b>-idUSL5N0B10QB20130205", 
+            "htmlSnippet": "Feb 4, 2013 <b>...</b> Ukraine says rebels destroy MH17 evidence as battles <b>flare</b> | Video. 7:47am EDT. <br>\nIsraeli tanks dig in at Gaza frontier as Palestinian toll tops&nbsp;...", 
+            "htmlTitle": "Australian <b>solar</b> consortium plans offshore sukuk | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/05/islamic-sukuk-solar-idUSL5N0B10QB20130205", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "rbssEnergyNews;rbssFinancialServicesAndRealEstateNews;MichiganEconDvpmt;Travel;corporateResponsibility;ford;Inspiration;SustainabilityGreen;SAP;creditMarkets;ToyotaPrius;everything;treasuryMarkets;Continental;Deals;forexNewsCopy;Shell;Verizon;Amtrak;Amtrak2;yahoo3;Adfriendly1;echoActivityStream;ANZ;Suntrust_SmallBiz;ShellEnergy;AllianzRetirement;AllianzInvestments;HSBC_US;TDAmeritrade;FedExSMB;Hyundai;Goldman;everythingButHugin;msnMoneyFeed;AXAinsurance;OutloudFeed;chsenergy;chsfood;Allianz;cfpboard;JPMorgan;ssgabonds;sapawareness;CFA;sapawarenesstech;jpGambaroPeople;nyse;trending-hp;sprintxpert2;statestreetetf;samsung;Pfizersafe;cfaglobal;merrilledge;aa48hours;ernstyoung;Xerox;shipping;citianniversary;accenture;dassaultuk;HSBCGlobal;PrudentialInvestments;VanessaTest;MLGZero;fedex_neg;PorscheCayenne;ubs;MLedge;BNY;citgroup;energySector", 
+                        "dcsext.contentchannel": "energySector", 
+                        "dcsext.contentheadline": "Australian+solar+consortium+plans+offshore+sukuk", 
+                        "dcsext.contentid": "USL5N0B10QB20130205", 
+                        "dcsext.contentid_energysector": "USL5N0B10QB20130205", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/energy/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "2", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Australian solar consortium plans offshore sukuk", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/05/islamic-sukuk-solar-idUSL5N0B10QB20130205", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Australian solar consortium plans offshore sukuk\", \"link\": \"http://www.reuters.com/article/2013/02/05/islamic-sukuk-solar-idUSL5N0B10QB20130205\", \"image_url\": \"\", \"post_id\": \"USL5N0B10QB20130205\", \"pub_date\": \"2013-02-05T03:04:29+0000\", \"section\":\"energySector\", \"author\": \"Bernardo Vizcaino\"}", 
+                        "revision_date": "Tue Feb 05 03:04:29 UTC 2013", 
+                        "wt.cg_n": "Finance - Industries", 
+                        "wt.cg_s": "energySector"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 4, 2013 ... Ukraine says rebels destroy MH17 evidence as battles flare | Video. 7:47am EDT. \nIsraeli tanks dig in at Gaza frontier as Palestinian toll tops\u00a0...", 
+            "title": "Australian solar consortium plans offshore sukuk | Reuters"
+        }, 
+        {
+            "cacheId": "dMKRH0vAf_4J", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../bc-national-traders-asso-idUSnPn2194477+100+ PRN20130219", 
+            "htmlFormattedUrl": "www.reuters.com/.../bc-national-traders-asso-idUSnPn2194477+100+ PRN20130219", 
+            "htmlSnippet": "Feb 19, 2013 <b>...</b> For best results when printing this announcement, please click on the&nbsp;...", 
+            "htmlTitle": "<b>Solar</b> Power Looks Sunny in 2013 - Research Report on First <b>Solar</b> <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/19/bc-national-traders-asso-idUSnPn2194477+100+PRN20130219", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "Solar+Power+Looks+Sunny+in+2013+-+Research+Report+on+First+Solar%2C+Inc.%2C+SunPower+Corporation%2C+Trina+Solar+Limited%2C+SolarCity+Corp+and+NRG+Energy+Inc", 
+                        "dcsext.contentid": "USnPn2194477+100+PRN20130219", 
+                        "dcsext.contentid_pressrelease": "USnPn2194477+100+PRN20130219", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Solar Power Looks Sunny in 2013 - Research Report on First Solar, Inc., SunPower Corporation, Trina Solar Limited, SolarCity Corp and NRG Energy Inc", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/19/bc-national-traders-asso-idUSnPn2194477+100+PRN20130219", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Solar Power Looks Sunny in 2013 - Research Report on First Solar, Inc., SunPower Corporation, Trina Solar Limited, SolarCity Corp and NRG Energy Inc\", \"link\": \"http://www.reuters.com/article/2013/02/19/bc-national-traders-asso-idUSnPn2194477+100+PRN20130219\", \"image_url\": \"\", \"post_id\": \"USnPn2194477+100+PRN20130219\", \"pub_date\": \"2013-02-19T13:02:07+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Tue Feb 19 13:02:07 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 19, 2013 ... For best results when printing this announcement, please click on the\u00a0...", 
+            "title": "Solar Power Looks Sunny in 2013 - Research Report on First Solar ..."
+        }, 
+        {
+            "cacheId": "M0PJXsPtoogJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../ca-soligent-idUSnBwbk0Brca+108+BSW20130305", 
+            "htmlFormattedUrl": "www.reuters.com/.../ca-soligent-idUSnBwbk0Brca+108+BSW20130305", 
+            "htmlSnippet": "Mar 5, 2013 <b>...</b> Ukraine says rebels destroy MH17 evidence as battles <b>flare</b> | Video. 7:26am EDT. <br>\nIsraeli tanks dig in at Gaza frontier as Palestinian toll tops&nbsp;...", 
+            "htmlTitle": "Sharp <b>Solar</b> US Names Soligent as Master Distributor | Reuters", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/03/05/ca-soligent-idUSnBwbk0Brca+108+BSW20130305", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "Sharp+Solar+US+Names+Soligent+as+Master+Distributor", 
+                        "dcsext.contentid": "USnBwbk0Brca+108+BSW20130305", 
+                        "dcsext.contentid_pressrelease": "USnBwbk0Brca+108+BSW20130305", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Sharp Solar US Names Soligent as Master Distributor", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/03/05/ca-soligent-idUSnBwbk0Brca+108+BSW20130305", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Sharp Solar US Names Soligent as Master Distributor\", \"link\": \"http://www.reuters.com/article/2013/03/05/ca-soligent-idUSnBwbk0Brca+108+BSW20130305\", \"image_url\": \"\", \"post_id\": \"USnBwbk0Brca+108+BSW20130305\", \"pub_date\": \"2013-03-05T14:00:03+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Tue Mar 05 14:00:03 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 5, 2013 ... Ukraine says rebels destroy MH17 evidence as battles flare | Video. 7:26am EDT. \nIsraeli tanks dig in at Gaza frontier as Palestinian toll tops\u00a0...", 
+            "title": "Sharp Solar US Names Soligent as Master Distributor | Reuters"
+        }, 
+        {
+            "cacheId": "wRYHDz-YfcgJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../ca-vde-americas-idUSnPnSF68314+160+PRN20130228", 
+            "htmlFormattedUrl": "www.reuters.com/.../ca-vde-americas-idUSnPnSF68314+160+PRN20130228", 
+            "htmlSnippet": "Feb 28, 2013 <b>...</b> For best results when printing this announcement, please click on the&nbsp;...", 
+            "htmlTitle": "VDE Americas Enters North American Market to Meet Investor <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/28/ca-vde-americas-idUSnPnSF68314+160+PRN20130228", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "VDE+Americas+Enters+North+American+Market+to+Meet+Investor+Demand+for+Solar+PV+Power+Plant+Quality+Assurance", 
+                        "dcsext.contentid": "USnPnSF68314+160+PRN20130228", 
+                        "dcsext.contentid_pressrelease": "USnPnSF68314+160+PRN20130228", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "VDE Americas Enters North American Market to Meet Investor Demand for Solar PV Power Plant Quality Assurance", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/28/ca-vde-americas-idUSnPnSF68314+160+PRN20130228", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[]\", \"title\": \"VDE Americas Enters North American Market to Meet Investor Demand for Solar PV Power Plant Quality Assurance\", \"link\": \"http://www.reuters.com/article/2013/02/28/ca-vde-americas-idUSnPnSF68314+160+PRN20130228\", \"image_url\": \"\", \"post_id\": \"USnPnSF68314+160+PRN20130228\", \"pub_date\": \"2013-02-28T12:00:46+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Thu Feb 28 12:00:46 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 28, 2013 ... For best results when printing this announcement, please click on the\u00a0...", 
+            "title": "VDE Americas Enters North American Market to Meet Investor ..."
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 8, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:solar flare", 
+                "sort": "date:r:20130201:20130327", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:solar flare", 
+                "totalResults": "8"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "8", 
+        "searchTime": 0.25421, 
+        "totalResults": "8"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}

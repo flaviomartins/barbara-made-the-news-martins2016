@@ -1,0 +1,131 @@
+{
+    "context": {
+        "title": "News"
+    }, 
+    "items": [
+        {
+            "cacheId": "8LOgAvVuqvoJ", 
+            "displayLink": "www.reuters.com", 
+            "formattedUrl": "www.reuters.com/.../mi-shovel-snow-safely-idUSnPnDE56346+160+ PRN20130207", 
+            "htmlFormattedUrl": "www.reuters.com/.../mi-shovel-<b>snow</b>-safely-idUSnPnDE56346+160+ PRN20130207", 
+            "htmlSnippet": "Feb 7, 2013 <b>...</b> Just the act of using a snow <b>blower</b> will elevate heart rates, so talk to your doctor <br>\nif you have a history of heart <b>problems</b>. Blue Cross Blue Shield&nbsp;...", 
+            "htmlTitle": "Blue Cross Blue Shield of Michigan Says <b>Snow</b> Doesn&#39;t Have To Be <b>...</b>", 
+            "kind": "customsearch#result", 
+            "link": "http://www.reuters.com/article/2013/02/07/mi-shovel-snow-safely-idUSnPnDE56346+160+PRN20130207", 
+            "pagemap": {
+                "metatags": [
+                    {
+                        "dcsext.channellist": "pressRelease", 
+                        "dcsext.contentchannel": "pressRelease", 
+                        "dcsext.contentheadline": "Blue+Cross+Blue+Shield+of+Michigan+Says+Snow+Doesn%27t+Have+To+Be+a+Pain%3A+Ease+into+Clearing+Sidewalks%2C+Drives", 
+                        "dcsext.contentid": "USnPnDE56346+160+PRN20130207", 
+                        "dcsext.contentid_pressrelease": "USnPnDE56346+160+PRN20130207", 
+                        "dcsext.contenttype": "Text", 
+                        "dcsext.dartzone": "us.reuters/bizfinance/stocks/article", 
+                        "dcsext.pagenumber": "1", 
+                        "dcsext.pagetotal": "1", 
+                        "dcsext.rchannel": "Finance", 
+                        "dcsext.rcountry": "BETAUS", 
+                        "fb:app_id": "169549326390879", 
+                        "og:site_name": "Reuters", 
+                        "og:title": "Blue Cross Blue Shield of Michigan Says Snow Doesn't Have To Be a Pain: Ease into Clearing Sidewalks, Drives", 
+                        "og:type": "article", 
+                        "og:url": "http://www.reuters.com/article/2013/02/07/mi-shovel-snow-safely-idUSnPnDE56346+160+PRN20130207", 
+                        "parsely-page": "{\"type\": \"post\", \"tags\": \"[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters]\", \"title\": \"Blue Cross Blue Shield of Michigan Says Snow Doesn\\u0027t Have To Be a Pain: Ease into Clearing Sidewalks, Drives\", \"link\": \"http://www.reuters.com/article/2013/02/07/mi-shovel-snow-safely-idUSnPnDE56346+160+PRN20130207\", \"image_url\": \"\", \"post_id\": \"USnPnDE56346+160+PRN20130207\", \"pub_date\": \"2013-02-07T15:06:59+0000\", \"section\":\"pressRelease\", \"author\": \"\"}", 
+                        "revision_date": "Thu Feb 07 15:06:59 UTC 2013", 
+                        "wt.cg_n": "Finance - Stocks", 
+                        "wt.cg_s": "pressRelease"
+                    }
+                ]
+            }, 
+            "snippet": "Feb 7, 2013 ... Just the act of using a snow blower will elevate heart rates, so talk to your doctor \nif you have a history of heart problems. Blue Cross Blue Shield\u00a0...", 
+            "title": "Blue Cross Blue Shield of Michigan Says Snow Doesn't Have To Be ..."
+        }, 
+        {
+            "cacheId": "IpIWfjqLgRUJ", 
+            "displayLink": "www.bbc.co.uk", 
+            "formattedUrl": "www.bbc.co.uk/news/uk-21735680", 
+            "htmlFormattedUrl": "www.bbc.co.uk/news/uk-21735680", 
+            "htmlSnippet": "Mar 12, 2013 <b>...</b> ... On the rail network, cold conditions caused signalling <b>problems</b> and ... ploughs <br>\nand snow <b>blowers</b> - on standby at over 100 depots to help&nbsp;...", 
+            "htmlTitle": "BBC News - UK <b>snow</b> and ice continue to disrupt travel", 
+            "kind": "customsearch#result", 
+            "link": "http://www.bbc.co.uk/news/uk-21735680", 
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://news.bbcimg.co.uk/media/images/66324000/jpg/_66324749_xqw4d8qo.jpg"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "height": "64", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj3OMD_71NrqVfkuWFjtv0tNkHOEoZXvcieFMOEg-sEpRlIao8eBvu", 
+                        "width": "115"
+                    }
+                ], 
+                "metatags": [
+                    {
+                        "application-name": "BBC News", 
+                        "bbcsearch_noindex": "atom", 
+                        "contentflavor": "STORY", 
+                        "cps_asset_type": "STY", 
+                        "cps_audience": "Domestic", 
+                        "cps_id": "21735680", 
+                        "cps_platform": "HighWeb", 
+                        "cps_section_path": "UK", 
+                        "cps_site_name": "BBC News", 
+                        "dcterms.created": "2013-03-10T23:29:40+00:00", 
+                        "dcterms.modified": "2013-03-12T01:09:18+00:00", 
+                        "headline": "Snow and ice cause travel disruption", 
+                        "ifs_url": "/news/uk-21735680", 
+                        "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9", 
+                        "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico", 
+                        "msapplication-tilecolor": "#CC0101", 
+                        "msapplication-tileimage": "/img/1_0_3/cream/hi/news/bbc-news-pin.png", 
+                        "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more", 
+                        "msapplication-window": "width=1024;height=768", 
+                        "og:image": "http://news.bbcimg.co.uk/media/images/66324000/jpg/_66324749_xqw4d8qo.jpg", 
+                        "og:site_name": "BBC News", 
+                        "og:title": "Snow and ice cause travel disruption", 
+                        "og:type": "article", 
+                        "og:url": "http://www.bbc.co.uk/news/uk-21735680", 
+                        "originalpublicationdate": "2013/03/12 01:09:18", 
+                        "section": "UK", 
+                        "thumbnail_url": "http://news.bbcimg.co.uk/media/images/66324000/jpg/_66324748_xqw4d8qo.jpg", 
+                        "ukfs_url": "/news/uk-21735680", 
+                        "viewport": "width = 996"
+                    }
+                ]
+            }, 
+            "snippet": "Mar 12, 2013 ... ... On the rail network, cold conditions caused signalling problems and ... ploughs \nand snow blowers - on standby at over 100 depots to help\u00a0...", 
+            "title": "BBC News - UK snow and ice continue to disrupt travel"
+        }
+    ], 
+    "kind": "customsearch#search", 
+    "queries": {
+        "request": [
+            {
+                "count": 2, 
+                "cx": "009965978368122798027:jcgd0v06nya", 
+                "inputEncoding": "utf8", 
+                "outputEncoding": "utf8", 
+                "safe": "off", 
+                "searchTerms": "intitle:snow blower problems", 
+                "sort": "date:r:20130201:20130331", 
+                "startIndex": 1, 
+                "title": "Google Custom Search - intitle:snow blower problems", 
+                "totalResults": "2"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "2", 
+        "searchTime": 0.187592, 
+        "totalResults": "2"
+    }, 
+    "url": {
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json", 
+        "type": "application/json"
+    }
+}
